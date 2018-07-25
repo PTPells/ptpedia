@@ -4,20 +4,15 @@ A living list of coffees that, after having the first cup, I wanted another.
 
 ## Coffees
 
-+  **Wrecking Ball**, single origin, Peru, "Peru Saltillo Finca Tasta" (Apr. 9, 2018)
-+  **Counter Culture**, blend, Ethiopia, "Apollo" (Apr. 11, 2018)
++  **Equator**, single origin, Costa Rica, "Costa Rica Beneficio Santa Rosa 1900" (Jul. 9, 2018)
 +  **George Howell**, single origin, Rwanda, "Kanzu" (Apr. 24, 2018)
++  **Counter Culture**, blend, Ethiopia, "Apollo" (Apr. 11, 2018)
++  **Wrecking Ball**, single origin, Peru, "Peru Saltillo Finca Tasta" (Apr. 9, 2018)
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## How are you preparing these coffees?
 
-For consistency, all coffees – to date and going forward – will be prepared via pour over. See "Set Up" for details.
+For consistency, all coffees will have been enjoyed via pour over (unless otherwise noted). See "Set Up" for details.
 
 ## Set Up
 
@@ -27,6 +22,5 @@ For consistency, all coffees – to date and going forward – will be prepared 
 +  Filters: [Hario V60 Paper Coffee Filters, Size 02, Natural](https://www.amazon.com/Hario-Paper-Coffee-Filters-Natural/dp/B001O0R46I/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1532415935&sr=1-1&keywords=Hario+V60+Paper+Coffee+Filters%2C+Size+02%2C+Natural)
 +  Kettle: [Bonavita BV382510V 1.0L Digital Variable Temperature Gooseneck Kettle](https://www.amazon.com/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/ref=sr_1_3?s=home-garden&ie=UTF8&qid=1532416002&sr=1-3&keywords=electric+kettle+bonavita)
 
-## Coffees
 
 
