@@ -4,15 +4,14 @@ A living list of coffees that, after having the first cup, I wanted another.
 
 ## Coffees
 
-
-| Roaster            | Blend or S.O.     | Bean Origin  |  Roast Name  |             
-| ------------------ |:--   ------------:| ------------:|  "Peru Saltillo Finca Tasta" |
-| **Wrecking Ball**      | single origin |         Peru |
-
-
-
-
-
++  **Wrecking Ball**, single origin, Peru, "Peru Saltillo Finca Tasta" (Apr. 9, 2018)
++  **Counter Culture**, blend, Ethiopia, "Apollo" (Apr. 11, 2018)
++  **George Howell**, single origin, Rwanda, "Kanzu" (Apr. 24, 2018)
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## How are you preparing these coffees?
 
@@ -28,6 +27,4 @@ For consistency, all coffees – to date and going forward – will be prepared 
 
 ## Coffees
 
-+  **Wrecking Ball**, single origin, Peru, "Peru Saltillo Finca Tasta"
-+  **Counter Culture**, blend, Ethiopia, "Apollo"
-+  **George Howell**, single origin, Rwanda, "Kanzu"
+
