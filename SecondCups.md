@@ -12,7 +12,7 @@ A living list of coffees that, after having the first cup, I wanted another.
 
 ## How are you preparing these coffees?
 
-For consistency, all coffees will have been enjoyed via pour over (unless otherwise noted). See [Set Up][Set Up] for details.
+For consistency, all coffees will have been enjoyed via pour over (unless otherwise noted). See "Set Up" for details.
 
 ## Set Up
 
