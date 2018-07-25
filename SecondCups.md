@@ -2,9 +2,17 @@
 
 A living list of coffees that, after having the first cup, I wanted another.
 
-## How do you decide what coffees get included?
+## Coffees
 
-See above. But for real, that's a good question. I just don't have a proportionally good answer to this question at the moment.
+
+| Roaster            | Blend or S.O.     | Bean Origin  |  Roast Name  |             
+| ------------------ |:--   ------------:| ------------:|  "Peru Saltillo Finca Tasta" |
+| **Wrecking Ball**      | single origin |         Peru |
+
+
+
+
+
 
 ## How are you preparing these coffees?
 
