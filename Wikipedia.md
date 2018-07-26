@@ -3,7 +3,7 @@
 Wikipedia pages that resonate. Concepts, ideas...that kind of stuff.
 
 ## Pages
-
++  [Open collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
 +  [Soft systems methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology)
 +  [Collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
 +  [Collaborative Intelligence](https://en.wikipedia.org/wiki/Collaborative_intelligence)
