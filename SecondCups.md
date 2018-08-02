@@ -1,8 +1,8 @@
-## Second Cup Coffees
+## second cups
 
 A living list of coffees that, after having the first cup, I wanted another.
 
-## Coffees
+## coffees
 
 +  **Ritual**, single origin, Colombia, "El Guamo", (July, 2018)
 +  **Verve**, single origin, Honduras, "El Brujo", (July, 2018)
@@ -12,11 +12,11 @@ A living list of coffees that, after having the first cup, I wanted another.
 +  **Wrecking Ball**, single origin, Peru, "Peru Saltillo Finca Tasta" (April, 2018)
 
 
-## How are you preparing these coffees?
+## how are you preparing these coffees?
 
 For consistency, all coffees will have been enjoyed via pour over (unless otherwise noted). See "Set Up" for details.
 
-## Set Up
+## set up
 
 +  Grinder: [Baratza Encore (Refurb)](https://www.google.com/search?q=baratza+encore+refurb&rlz=1C5CHFA_enUS704US704&oq=baratza+encore+refurb&aqs=chrome..69i57.4017j0j4&sourceid=chrome&ie=UTF-8)
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
