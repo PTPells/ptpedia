@@ -4,6 +4,8 @@ what other kinds of "items" would be fun to accumulate?
 
 
 ###  questions 
+*i've been surprised by how asking a familiar question, in an unexpected way, can invite more truthful and thoughtful responses and in turn, substantitve interactions. here are questions i find myself asking...*
+
 +  *How are you telling time at the moment?*
 +  *What is resonating with you right now? A quote? A song? A book? A film? Something else?*
 +  *Is there a thought that's been recurring in your mind, but you haven't advanced it?*
