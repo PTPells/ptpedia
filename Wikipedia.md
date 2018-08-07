@@ -3,6 +3,8 @@
 Wikipedia pages that resonate. Concepts, ideas...that kind of stuff.
 
 ## Pages
++  [Cittaslow](https://en.wikipedia.org/wiki/Cittaslow)
++  [Community memory](https://en.wikipedia.org/wiki/Community_Memory)
 +  [Actor-network theory](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory)
 +  [Communities of practice](https://en.wikipedia.org/wiki/Community_of_practice)
 +  [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy)
