@@ -13,8 +13,8 @@ what other kinds of "items" do i accumulate throughout the day?
 
 ### people
 +  [Frederick Law Olmstead](https://en.wikipedia.org/wiki/Frederick_Law_Olmsted): **landscape architect** (Central Park, Prospect Park, Stanford University Campus, U.S. Capitol grounds) and **conservationist** (Yosemite)
-  + See: *Frederick Law Olmstead Designing America* [YouTube](https://www.youtube.com/watch?v=_pbwem7z4lY) | [PBS](https://www.pbs.org/video/frederick-law-olmsted-designing-america-frederick-law-olmsted-designing-america/)
-+  [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich): philosopher, priest and critic of instutionalized education. Advocated instead for learning that happened through improvisational networks. See [Deschooling Society](https://en.wikipedia.org/wiki/Deschooling_Society)
+	+ See: *Frederick Law Olmstead Designing America* [YouTube](https://www.youtube.com/watch?v=_pbwem7z4lY) | [PBS](https://www.pbs.org/video/frederick-law-olmsted-designing-america-frederick-law-olmsted-designing-america/)
++  [Ivan Illich](https://en.wikipedia.org/wiki/Ivan_Illich): **philosopher, priest and critic** of instutionalized education. Advocated for learning that happened through improvisational networks. See [Deschooling Society](https://en.wikipedia.org/wiki/Deschooling_Society)
 
 ###  quotes
 
