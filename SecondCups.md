@@ -5,7 +5,7 @@ A living list of coffees that, after having the first cup, I wanted another.
 ## Coffees
 
 **Roaster** | **Blend/S.O.** | **Origin** | **Name** | **1st Cup** |
---- | --- | --- | --- | --- |  
+--- | --- | --- | --- | :---: |  
 *Ritual* | single origin | Colombia | "El Guamo" | (July, 2018)
 *Verve* | single origin | Honduras | "El Brujo" | (July, 2018)
 *Equator* | single origin | Costa Rica | "Costa Rica Beneficio Santa Rosa 1900" | (July, 9, 2018)
