@@ -3,13 +3,9 @@
 what other kinds of "items" do i accumulate throughout the day?
 
 
-
 ###  questions
-*i've been surprised by how consistently asking someone a familiar question, in an unexpected way, leads to an  interaction i end up being glad for having had:*
 
-+  *How are you telling time at the moment?*
-+  *What is resonating with you right now?*
-+  *Is there a thought that's been recurring in your mind, but that maybe hasn't advanced?*
++  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
 
 ### people
 +  **[Frederick Law Olmstead](https://en.wikipedia.org/wiki/Frederick_Law_Olmsted)(1822-1903)**: **landscape architect** (Central Park, Prospect Park, Stanford University Campus, U.S. Capitol grounds) and **conservationist** (Yosemite)
@@ -21,4 +17,5 @@ what other kinds of "items" do i accumulate throughout the day?
 +  Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again: 
 *"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)
 
-
+###  books
++  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations." 
