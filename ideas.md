@@ -5,8 +5,10 @@ what other kinds of "items" do i accumulate throughout the day?
 
 ###  questions
 
-+  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
-+  how do people individualize mass "objects" to meet their unique ways of living?  
++  **longevity:**  hat can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
++  **improvisation:** how do people individualize mass "objects" to meet their unique ways of living? 
++  
+
 
 ### people
 +  **[Frederick Law Olmstead](https://en.wikipedia.org/wiki/Frederick_Law_Olmsted)(1822-1903)**: **landscape architect** (Central Park, Prospect Park, Stanford University Campus, U.S. Capitol grounds) and **conservationist** (Yosemite)
