@@ -3,6 +3,7 @@
 Wikipedia pages that resonate. Concepts, ideas...that kind of stuff.
 
 ## Pages
++  [Everyday life](https://en.wikipedia.org/wiki/Everyday_life)
 +  [Authenticity](https://en.wikipedia.org/wiki/Authenticity_(philosophy))
 +  [Hypermiling](https://en.wikipedia.org/wiki/Hypermiling)
 +  [Pritzker Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
