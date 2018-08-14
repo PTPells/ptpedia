@@ -5,9 +5,9 @@ what other kinds of "items" do i accumulate throughout the day?
 
 ###  questions
 
-+  **longevity:**  hat can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
-+  **improvisation:** how do people individualize mass "objects" to meet their unique ways of living? 
-+  
++  **longevity:**  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
++  **improvisation:** in what ways do people reclaim the unconscoius, routine practices (walking, working, talking, reading, cooking, eating) that fill everyday life?
++  **community:** in what new ways are people working and living together?
 
 
 ### people
