@@ -5,8 +5,8 @@ what other kinds of "items" do i accumulate throughout the day?
 
 ###  pkm
 
-+ [ ]  how should i handle private items?
-	+  
++ [ ]  how should private items be handled?
+
 
 ###  questions
 
