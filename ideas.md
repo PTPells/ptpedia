@@ -22,8 +22,9 @@ what other kinds of "items" do i accumulate throughout the day?
 
 
 ###  quotes
-+  Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
-*"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)
++ *...through the act of writing I wanted to sort out what kind of life I've led.* Haruki Murakami writing in [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
++ Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
+*"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)+
 
 ###  books
 +  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations."
