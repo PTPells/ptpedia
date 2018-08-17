@@ -11,7 +11,7 @@ what other kinds of "items" do i accumulate throughout the day?
 ###  questions
 
 +  **longevity:**  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
-+  **improvisation:** how do people reclaim the unconscious, routine practices (walking, working, talking, living, cooking, eating, etc.) that fill everyday life?
++  **improvisation:** how do people reclaim the unconscious, routine practices that are the mortar of everyday life?
 +  **community:** in what new ways are people working and living together?
 
 
@@ -22,9 +22,10 @@ what other kinds of "items" do i accumulate throughout the day?
 
 
 ###  quotes
-+ *...through the act of writing I wanted to sort out what kind of life I've led.* Haruki Murakami writing in [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
++ *"...through the act of writing I wanted to sort out what kind of life I've led."* Haruki Murakami writing in [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
 + Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
 *"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)+
 
 ###  books
++ *Rural Studio – Samual Mockbee and an Architecture of Decency* [Andrea Oppenheimer Dean and Timothy Hursley]: Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
 +  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations."
