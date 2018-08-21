@@ -10,9 +10,15 @@ what other kinds of "items" do i accumulate throughout the day?
 
 ###  questions
 
+#### top of mind
++  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
++ **faith:** 
 +  **longevity:**  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
-+  **improvisation:** how do people reclaim the unconscious, routine practices that are the mortar of everyday life?
 +  **community:** in what new ways are people working and living together?
+
+#### still there, somewhere
++  **improvisation:** in what creative ways do people reimagine the unconscious, routine  practices of everyday life?
+
 
 
 ### people

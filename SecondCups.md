@@ -6,7 +6,7 @@ A living list of coffees that, after having the first cup, I wanted another.
 
 **Roaster** | **Type** | **Origin** | **Name** | **First Cup** |
 --- | --- | --- | --- | :---: |  
-heart | single srigin | Colombia | *Fabio Escobar* | August, 2018 |
+heart* | single srigin | Colombia | *Fabio Escobar* | August, 2018 |
 Ritual | single origin | Colombia | *El Guamo* | July, 2018
 Verve | single origin | Honduras | *El Brujo* | July, 2018
 Equator | single origin | Costa Rica | *Costa Rica Beneficio Santa Rosa 1900* | July, 2018
@@ -14,6 +14,7 @@ George Howell | single origin | Rwanda | *Kanzu* |  April, 2018
 Wrecking Ball | single origin | Peru | *Peru Saltillo Finca Tasta* |  April, 2018
 Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  January, 2018
 
+* *Favorite coffee at the moment*
 
 ## Preparation
 
