@@ -3,10 +3,11 @@
 Ideas, concepts, etc. that resonate.
 
 ## Pages
++ [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html)
 + [Holism](https://en.wikipedia.org/wiki/Holism)
 + [Codetermination in Germany](https://en.wikipedia.org/wiki/Codetermination_in_Germany)
 + [Everyday life](https://en.wikipedia.org/wiki/Everyday_life)
-+ [Authenticity](https://en.wikipedia.org/wiki/Authenticity_(philosophy))
++ [Authenticity (philosophy)](https://en.wikipedia.org/wiki/Authenticity_(philosophy))
 + [Hypermiling](https://en.wikipedia.org/wiki/Hypermiling)
 + [Pritzker Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
 + [Cittaslow](https://en.wikipedia.org/wiki/Cittaslow)
