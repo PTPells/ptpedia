@@ -1,18 +1,21 @@
 ## ideas
 
-what other kinds of "items" do i accumulate throughout the day?
+what other kinds of "items" do i accumulate?
 
 
-###  pkm
+###  meta
 
 + [ ]  how should private items be handled?
++ [ ]  should "pace" be represented in a document? how?
 
 
-###  questions
+###  coffee roasting
+#### stream
+my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline taste profiles for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their eventual answers?
 
 #### top of mind
 +  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
-+ **faith:** 
++ **faith:**
 +  **longevity:**  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
 +  **community:** in what new ways are people working and living together?
 
