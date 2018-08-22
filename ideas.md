@@ -36,5 +36,10 @@ my intention right now is all about workflow: optimal batch weight, chaff remova
 *"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)+
 
 ###  books
+#### reading
++ *Siddhartha* [Herman Hesse]. "I am not going anywhere. I am only on the way."
+
+
+#### read
 + *Rural Studio – Samual Mockbee and an Architecture of Decency* [Andrea Oppenheimer Dean and Timothy Hursley]: Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
 +  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations."
