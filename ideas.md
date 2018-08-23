@@ -7,11 +7,16 @@ what other kinds of "items" do i accumulate?
 
 + [ ]  how should private items be handled?
 + [ ]  should "pace" be represented in a document? how?
+	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
 
 
 ###  coffee roasting
 #### stream
-my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline taste profiles for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their eventual answers?
+**8/22:**  tasted the first roast of the [ethiopian beans](https://www.sweetmarias.com/ethiopia-wet-process-hambela-hassan.html); they were good*. curious to compare it with the [heart ethiopian](https://www.heartroasters.com/collections/beans/products/ethiopia-gedeb) beans i have.
+
+\*i'm wanting a better/more nuanced way of noting tastes
+
+**8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 #### top of mind
 +  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
