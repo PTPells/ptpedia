@@ -14,18 +14,18 @@ what other kinds of "items" do i accumulate?
 #### stream
 **8/22:**  tasted the first roast of the [ethiopian beans](https://www.sweetmarias.com/ethiopia-wet-process-hambela-hassan.html); they were good*. curious to compare it with the [heart ethiopian](https://www.heartroasters.com/collections/beans/products/ethiopia-gedeb) beans i have.
 
-\*i'm wanting a better/more nuanced way of noting tastes
+\*i'm wanting a better/more nuanced way of noting tastes.
 
 **8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 #### top of mind
-+  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
++  **improvisation:** consumption/everyday routines as acts of resistance/protest
 + **faith:**
-+  **longevity:**  what can i start doing now to improve my chances of being able to run comfortably for the next 40 years?
++ **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice, as a whole, do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
 +  **community:** in what new ways are people working and living together?
 
 #### still there, somewhere
-+  **improvisation:** in what creative ways do people reimagine the unconscious, routine  practices of everyday life?
++  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
 
 
 
@@ -42,9 +42,9 @@ what other kinds of "items" do i accumulate?
 
 ###  books
 #### reading
-+ *Siddhartha* [Herman Hesse]. "I am not going anywhere. I am only on the way."
-
+*tbd*
 
 #### read
++ *Siddhartha* [Herman Hesse]. "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
 + *Rural Studio – Samual Mockbee and an Architecture of Decency* [Andrea Oppenheimer Dean and Timothy Hursley]: Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
 +  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations."
