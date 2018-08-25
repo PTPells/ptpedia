@@ -11,6 +11,7 @@ Ideas, metaphors, ways of thinking, etc. The kind that resonate.
 + [Codetermination in Germany](https://en.wikipedia.org/wiki/Codetermination_in_Germany)
 + [Everyday life](https://en.wikipedia.org/wiki/Everyday_life)
 + [Authenticity (philosophy)](https://en.wikipedia.org/wiki/Authenticity_(philosophy))
+  + " On the one hand, being oneself is inescapable...on the other hand, we are sometimes inclined to say that some of the thoughts, decisions and actions that we undertake are not really one's own and are therefore not genuinely expressive of who one is." [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/authenticity/)
 + [Hypermiling](https://en.wikipedia.org/wiki/Hypermiling)
 + [Pritzker Prize](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize)
 + [Cittaslow](https://en.wikipedia.org/wiki/Cittaslow)
