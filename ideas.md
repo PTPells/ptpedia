@@ -20,8 +20,8 @@ what other kinds of "items" do i accumulate?
 
 #### top of mind
 +  **improvisation:** consumption/everyday routines as acts of resistance/protest
-+ **faith:**
-+ **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice, as a whole, do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
++ **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own faith.
++ **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
 +  **community:** in what new ways are people working and living together?
 
 #### still there, somewhere
