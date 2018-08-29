@@ -7,6 +7,7 @@ Ideas, metaphors, ways of thinking, etc. The kind that resonate.
 + [Transparency is the new objectivity](http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
   + "Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
 + [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html)
+  + "...demystifying the knowledge creation process and encourage participation by giving everyone visibility into how information is created, verified, and improved over time." -[Wikimedia Product Principles](https://www.mediawiki.org/wiki/Product_Principles)
 + [Holism](https://en.wikipedia.org/wiki/Holism)
 + [Codetermination in Germany](https://en.wikipedia.org/wiki/Codetermination_in_Germany)
 + [Everyday life](https://en.wikipedia.org/wiki/Everyday_life)
