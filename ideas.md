@@ -13,7 +13,7 @@ what other kinds of "items" do i accumulate?
 
 ###  coffee roasting
 #### stream
-**questions to self:** *what have you noticed about the process? what would you like to improve? where do you feel like your gaps in knowledge are?
+**questions to self:** *what have you noticed about the process? what would you like to improve? where do you feel like your gaps in knowledge are?*
 
 **8/22:**  tasted the first roast of the [ethiopian beans](https://www.sweetmarias.com/ethiopia-wet-process-hambela-hassan.html); they were good*. curious to compare it with the [heart ethiopian](https://www.heartroasters.com/collections/beans/products/ethiopia-gedeb) beans i have.
 
@@ -39,15 +39,16 @@ what other kinds of "items" do i accumulate?
 
 
 ###  quotes
++ "Easy things should be easy, and hard things should be possible." -[Larry Wall](https://en.wikiquote.org/wiki/Larry_Wall#Other)
 + *"...through the act of writing I wanted to sort out what kind of life I've led."* Haruki Murakami writing in [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
 + Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
 *"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)+
 
 ###  books
 #### reading
-*Cognitive Surplus*
+*[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)* [Clay Shirky]
 
 #### read
-+ *Siddhartha* [Herman Hesse]. "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
-+ *Rural Studio – Samual Mockbee and an Architecture of Decency* [Andrea Oppenheimer Dean and Timothy Hursley]: Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
-+  *Making is Connecting* [David Gauntlett]: No revelatory moments, but an easygoing read. It incrementally advanced the internal conversation i’ve been having about the value and opportunity for creativity in everyday "operations."
++ [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel)) *by [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)*. "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
++ [Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description) [Andrea Oppenheimer Dean and Timothy Hursley]: Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
++  [Making is Connecting](https://books.google.com/books/about/Making_is_Connecting.html?id=4-X-twEACAAJ&source=kp_book_description) *by [David Gauntlett](https://en.wikipedia.org/wiki/David_Gauntlett)*: No revelatory moments, but an easygoing read. It incrementally advanced my internal conversation about the opportunity for creativity in everyday "operations."
