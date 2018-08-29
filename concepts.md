@@ -1,8 +1,8 @@
-## Wikipedia Pages
+## Concepts, Ideas, Metaphors
 
-Ideas, metaphors, ways of thinking, etc. The kind that resonate.
+...the kind that resonate.
 
-## Pages
+## Accumulations
 
 + [Transparency is the new objectivity](http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
   + "Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
