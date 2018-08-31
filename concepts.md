@@ -23,6 +23,7 @@
 + [Group decision-making](https://en.wikipedia.org/wiki/Group_decision-making)
 + [Peer production](https://en.wikipedia.org/wiki/Peer_production)
 + [Open collaboration](https://en.wikipedia.org/wiki/Open_collaboration)
+  + [Fansubbing](https://en.wikipedia.org/wiki/Fansub)
 + [Soft systems methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology)
 + [Collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
 + [Collaborative Intelligence](https://en.wikipedia.org/wiki/Collaborative_intelligence)
