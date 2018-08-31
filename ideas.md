@@ -4,11 +4,12 @@ what other kinds of "items" do i accumulate?
 
 
 ###  meta
-
+*things are starting to feel messy.*
 + [ ]  how should private items be handled?
 + [ ]  should "pace" be represented in a document? how?
 	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
 + [ ] how might outside collaboration work?
+
 
 
 ###  coffee roasting
