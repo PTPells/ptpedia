@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [Common-pool Resource](https://en.wikipedia.org/wiki/Common-pool_resource)
+  + Arrived by way of [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) and *Cognitive Surplus*
 + [Transparency is the new objectivity](http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
   + "Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
 + [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html)
