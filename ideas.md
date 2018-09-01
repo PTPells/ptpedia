@@ -4,7 +4,8 @@ what other kinds of "items" do i accumulate?
 
 
 ###  meta
-*things are starting to feel messy.*
+*things are starting to feel messy. one of the things i'm wanting is a place to host ongoing conversations about recurring themes. Said differently: ideas that i seem to contextualize new thoughts or inputs through. What I'm wanting is a place to evolve my understanding of this idea, to apply this idea. One way I've seen this idea represented is with tagging. Tagging discrete posts with a similar tag to link them together. And while I think that's an effective way for organizing an individual's thoughts on a particular topic for an audience, I'm more so wanting a way to more contiguous, and thereby legible, format for demonstrating how my thinking about a particular idea eveolves, changes, becomes more nuanced with time. an example being "time" or pace" i've been thinking about this a lot recently and i'm constantly updating how i think about the idea and new intersections *
+
 + [ ]  how should private items be handled?
 + [ ]  should "pace" be represented in a document? how?
 	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
@@ -40,6 +41,8 @@ what other kinds of "items" do i accumulate?
 
 
 ###  quotes
++ **"A resource arrangement that works in practice can work in theory."** [Lee Anne Fennell](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/) writing of [Ostrom's Law](https://en.wikipedia.org/wiki/Elinor_Ostrom#Ostrom's_law)
+	+ Bottom up.
 + "Easy things should be easy, and hard things should be possible." -[Larry Wall](https://en.wikiquote.org/wiki/Larry_Wall#Other)
 + *"...through the act of writing I wanted to sort out what kind of life I've led."* Haruki Murakami writing in [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
 + Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
