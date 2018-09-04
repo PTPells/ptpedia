@@ -2,11 +2,13 @@
 
 A living list of coffees that, after having the first cup, I wanted another.
 
+
 ## Coffees
 
-**Roaster** | **Type** | **Origin** | **Name** | **First Cup** |
---- | --- | --- | --- | :---: |  
-heart* | single srigin | Colombia | *Fabio Escobar* | August, 2018 |
+**Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
+|:---- | :---- | :---- | :---- | :---- |:----|  
+Home roasted* | single origin | Ethiopia | *Hambela Hassan* | August, 2018 | bright with body; delightful for the morning |
+heart | single origin | Colombia | *Fabio Escobar* | August, 2018 |
 Ritual | single origin | Colombia | *El Guamo* | July, 2018
 Verve | single origin | Honduras | *El Brujo* | July, 2018
 Equator | single origin | Costa Rica | *Costa Rica Beneficio Santa Rosa 1900* | July, 2018
@@ -20,7 +22,16 @@ Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  Janua
 
 Pour over (unless otherwise noted).
 
-## Set Up
+
+## Roasting set up
+
++  Roaster: [West Bend Poppery II](https://www.ebay.com/bhp/west-bend-poppery-ii)
++  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
++  Cooling:
++  Storage:
+
+
+## Brewing set up
 
 +  Grinder: [Baratza Encore (Refurb)](https://www.google.com/search?q=baratza+encore+refurb&rlz=1C5CHFA_enUS704US704&oq=baratza+encore+refurb&aqs=chrome..69i57.4017j0j4&sourceid=chrome&ie=UTF-8)
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
