@@ -24,6 +24,7 @@ what other kinds of "items" do i accumulate?
 **8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 #### top of mind
++ **Accessibility/Inclusivity:** something to do with a precursor for collaboration being a shared understanding of a language, history, fact, method, etc. and highly referential art or technical nomenclature in a business/cutlural settting as exclusionary practices.
 +  **improvisation:** consumption/everyday routines as acts of resistance/protest. I wonder if time fits here. The question I have in mind here is something like: *how much of each day do you feel like you have an intention for?* Or maybe this is better suited for **free time**?
 + **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
 + **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
@@ -51,6 +52,9 @@ what other kinds of "items" do i accumulate?
 ###  books
 #### reading
 *[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)* [Clay Shirky]
+
+#### want to read
++ [Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge) by Dominique Foray
 
 #### read
 + [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel)) *by [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)*. "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
