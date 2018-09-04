@@ -4,6 +4,11 @@
 
 ## Accumulations
 
++ [Positive Deviants](https://en.wikipedia.org/wiki/Positive_deviance)
+  + People who, through uncommon behaviors, are able to come up with better solutions than their peers in similar situations
+  + I wonder: how do Positive Deviance and [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry) relate?
++ [Rival Sharing](https://books.google.com/books?id=PjeTO822t_4C&pg=PT79&lpg=PT79&dq=%22rival+sharing%22&source=bl&ots=7cQRieJ6oD&sig=g9r6DzQmzZEm5ABBhf4UnUiukT4&hl=en&sa=X&ved=2ahUKEwiZpO-mtp_dAhW5CTQIHaopCi4Q6AEwBHoECAUQAQ#v=onepage&q=%22rival%20sharing%22&f=false)
+  + Think "one at a time" kind of sharing (i.e. a car)
 + [Common-pool Resource](https://en.wikipedia.org/wiki/Common-pool_resource)
   + Arrived by way of [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom) and *Cognitive Surplus*
 + [Transparency is the new objectivity](http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
@@ -21,6 +26,7 @@
 + [Community memory](https://en.wikipedia.org/wiki/Community_Memory)
 + [Actor-network theory](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory)
 + [Communities of practice](https://en.wikipedia.org/wiki/Community_of_practice)
+  + [Etienne Wenger](https://en.wikipedia.org/wiki/%C3%89tienne_Wenger)
 + [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy)
 + [Group decision-making](https://en.wikipedia.org/wiki/Group_decision-making)
 + [Peer production](https://en.wikipedia.org/wiki/Peer_production)
