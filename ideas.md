@@ -4,8 +4,11 @@ what other kinds of "items" do i accumulate?
 
 
 ###  meta
+
 *things are starting to feel messy. one of the things i'm wanting is a place to represent the ongoing internal conversations i have. Said differently: ideas that i seem to contextualize new thoughts or inputs through. What I'm wanting is a place to evolve my understanding of an idea...to apply this idea and to gather references  One way I've seen this idea represented is in publishing with tagging. Tagging discrete posts with a similar tag to link them together. And while I think that's an effective way for organizing an individual's thoughts on a particular topic for an audience, I'm more so wanting a more contiguous, and thereby legible, format for capturing how my thinking about a particular idea evolves with time. The audience here is myself. An example of this might be "time" or pace." I've been thinking about this a lot recently and i'm constantly updating how i think about the idea and new intersections, but it feels like thinking is spread across many documents and I'm wanting an easier way to locate myself within the conversation.*
 
+
++ [ ]  what's a good metaphor for notes/docs/etc.? i kind of like the idea of "parking" and the time concepts that come with it (15-min, 2-hour, long term, etc.)
 + [ ]  how should private items be handled?
 + [ ]  should "pace" be represented in a document? how?
 	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
