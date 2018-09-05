@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
 + [Positive Deviants](https://en.wikipedia.org/wiki/Positive_deviance)
   + People who, through uncommon behaviors, are able to come up with better solutions than their peers in similar situations
   + I wonder: how do Positive Deviance and [Appreciative Inquiry](https://en.wikipedia.org/wiki/Appreciative_inquiry) relate?
