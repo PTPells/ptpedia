@@ -17,8 +17,8 @@ http://wiki.c2.com/?WikiDesignPrinciples
 		- tbd
 
 **References**
-	+ [Merlin Mann's txt setup](http://www.43folders.com/2005/12/12/text-setup)
-	+ [Stanford Libraries – File naming done well](https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well)
++ [Merlin Mann's txt setup](http://www.43folders.com/2005/12/12/text-setup)
++ [Stanford Libraries – File naming done well](https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well)
 
 ###  Observations
 + I'm finding it easier to recall what I've been spending my time thinking about/doing
@@ -31,7 +31,6 @@ http://wiki.c2.com/?WikiDesignPrinciples
 
 ###  Consider
 - Templates/Practices
-	- [Retrospective Format (Team Practices Group)](Team Practices Group )
 	- [Five finger retrospective format](https://www.mediawiki.org/wiki/Team_Practices_Group/Five_finger_retrospective)
 - Research
 - Questions
@@ -41,4 +40,4 @@ http://wiki.c2.com/?WikiDesignPrinciples
 - Collaboration
 - "Writing"
 - Questions
-- Linking between notes/documents (i.e. write a daily note about one of Wilfred Bion's ideas. Wilfred Bion first mentioned in [rn-Cognitive_Surplus](/rn-cognitive-surplus.md)
+- Linking between notes/documents (i.e. write a daily note about one of Wilfred Bion's ideas. Wilfred Bion first mentioned in [*Cognitive Surplus*](https://en.wikipedia.org/wiki/Cognitive_Surplus).
