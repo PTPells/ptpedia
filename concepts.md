@@ -15,6 +15,8 @@
 + [Transparency is the new objectivity](http://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
   + "Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
 + [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html)
+  + "Observable – Activity within the site can be watched and reviewed by any other visitor t the site." [Wiki Design Principles](http://wiki.c2.com/?WikiDesignPrinciples)
+  + "In written or verbal communication, extraverted Thinking helps us easily follow someone else's logic, sequence, or organization."[Extroverted Thinking](http://www.cognitiveprocesses.com/Cognitive-Functions/Extraverted-Thinking.cfm)
   + "...demystifying the knowledge creation process and encourage participation by giving everyone visibility into how information is created, verified, and improved over time." -[Wikimedia Product Principles](https://www.mediawiki.org/wiki/Product_Principles)
 + [Holism](https://en.wikipedia.org/wiki/Holism)
 + [Codetermination in Germany](https://en.wikipedia.org/wiki/Codetermination_in_Germany)
