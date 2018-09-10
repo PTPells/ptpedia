@@ -27,14 +27,15 @@ what other kinds of "items" do i accumulate?
 **8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 #### top of mind
-+ **Accessibility/Inclusivity/Legibility:** something to do with a precursor for collaboration being a shared understanding of a language, history, fact, method, etc. and highly referential art or technical nomenclature in a business/cutlural settting as exclusionary practices.
-+  **improvisation:** consumption/everyday routines as acts of resistance/protest. I wonder if time fits here. The question I have in mind here is something like: *how much of each day do you feel like you have an intention for?* Or maybe this is better suited for **free time**?
++ **Accessibility/Inclusivity/Legibility/Participation:** something to do "consumers" changing expectations. expectations around their  role in contributing to/participating in/influencing the design/creation of the media/items they consume. as a result,  "work" that is highly referential or veiled in technical nomenclature will be seen as old and exclusionary.
 + **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
 + **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
-+  **community:** in what new ways are people working and living together?
+	+ *"Cold muscles don't work."* Nicolai included this manta on our run with Max last weekend in Golden Gate Park. It's remained top of mind on my five runs since and I feel a difference. Little tweaks, with outsized impact. Mindset.
 
 #### still there, somewhere
 +  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
++  **improvisation:** consumption/everyday routines as acts of resistance/protest. I wonder if time fits here. The question I have in mind here is something like: *how much of each day do you feel like you have an intention for?* Or maybe this is better suited for **free time**?
++  **community:** in what new ways are people working and living together?
 
 
 
