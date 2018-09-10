@@ -64,13 +64,11 @@ what other kinds of "items" do i accumulate?
 
 #### read
 + **[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)** *by* Clay Shirky
-
    Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools think about "us" and "we."
 
 	 \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
-+ **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse).
-
-	 "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
++ **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
+   "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
 
 + **[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley:
 
