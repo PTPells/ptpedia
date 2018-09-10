@@ -5,6 +5,8 @@
 http://wiki.c2.com/?WikiDesignPrinciples
 
 ###  On naming conventions
++ [ ] What language should "list-like" documents be written in? YAML? Markdown?
+	+ See: Ben Balter's [Books](https://github.com/benbalter/benbalter.github.com/blob/master/_data/books.yml)
 + [ ] What kinds of notes/docs do I anticipate having?
 	+ Affect **frequently**:
 			- daily notes
