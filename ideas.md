@@ -69,8 +69,13 @@ what other kinds of "items" do i accumulate?
 
 	 \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
 + **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse).
-"I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
-+ **[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley]:
-Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
+
+	 "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
+
++ **[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley:
+
+	 tory about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
+
 +  **[Making is Connecting](https://books.google.com/books/about/Making_is_Connecting.html?id=4-X-twEACAAJ&source=kp_book_description)** *by* [David Gauntlett](https://en.wikipedia.org/wiki/David_Gauntlett)
-No revelatory moments, but an easygoing read. It incrementally advanced my internal conversation about the opportunity for creativity in everyday "operations."
+
+	 No revelatory moments, but an easygoing read. It incrementally advanced my internal conversation about the opportunity for creativity in everyday "operations."
