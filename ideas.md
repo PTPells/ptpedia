@@ -1,18 +1,18 @@
 ## ideas
 
-what other kinds of "items" do i accumulate?
 
 
 ###  meta
+“Design gradually came to mean to me that certain quality whereby a well shaped spoon works.” This is William Coperwaithe talking in *[A Handmade Life: In Search of Simplicity](https://sfpl.bibliocommons.com/item/show/2267982093)*. It's his articulation, "...that certain quality..," that reminds me of Christopher Alexander, speaking on design in, *[The Timeless Way of Building](https://sfpl.bibliocommons.com/v2/search?query=a+timeless+way+of+building&searchType=smart)*, and describing it similarly as "...the quality without a name..." They seemed to have arrived at similar places which has me wondering how they relate.  Further, I'm wondering what is the best way to represent my "investigation" into their relationship. Less abstractly, where do i put all of my thoughts and influences on something as broad as "design"? Need they be represented at all? Maybe linking is the best and most flexible framework for now and if/when more structure is necessary it can be built then (i.e. "people who have influenced my thoughts on design" could eventually have some kind of explicit location.)
 
-*things are starting to feel messy. one of the things i'm wanting is a place to represent the ongoing internal conversations i have. Said differently: ideas that i seem to contextualize new thoughts or inputs through. What I'm wanting is a place to evolve my understanding of an idea...to apply this idea and to gather references  One way I've seen this idea represented is in publishing with tagging. Tagging discrete posts with a similar tag to link them together. And while I think that's an effective way for organizing an individual's thoughts on a particular topic for an audience, I'm more so wanting a more contiguous, and thereby legible, format for capturing how my thinking about a particular idea evolves with time. The audience here is myself. An example of this might be "time" or pace." I've been thinking about this a lot recently and i'm constantly updating how i think about the idea and new intersections, but it feels like thinking is spread across many documents and I'm wanting an easier way to locate myself within the conversation.*
+But first, I think I need to become more clear in the kinds of questions I think this structure could help me answer. (I think I've just described a wiki)
 
 
++ [ ] how do i handle linking?
 + [ ]  what's a good metaphor for notes/docs/etc.? i kind of like the idea of "parking" and the time concepts that come with it (15-min, 2-hour, long term, etc.)
 + [ ]  how should private items be handled?
 + [ ]  should "pace" be represented in a document? how?
 	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
-+ [ ] how might outside collaboration work?
 
 
 
@@ -46,6 +46,7 @@ what other kinds of "items" do i accumulate?
 
 
 ###  quotes
++ "Rather than making a chair to sleep in or a machine to live it, it is better to make a bed. A straight chair is best for eating or writing. The third position is standing." [Donald Judd](https://en.wikipedia.org/wiki/Donald_Judd) on [furniture](https://web.archive.org/web/20140103044123/http://www.juddfoundation.org/furniture/essay.htm).
 + **"A resource arrangement that works in practice can work in theory."** [Lee Anne Fennell](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/) writing of [Ostrom's Law](https://en.wikipedia.org/wiki/Elinor_Ostrom#Ostrom's_law)
 	+ Bottom up.
 + "Easy things should be easy, and hard things should be possible." -[Larry Wall](https://en.wikiquote.org/wiki/Larry_Wall#Other)
@@ -56,6 +57,7 @@ what other kinds of "items" do i accumulate?
 ###  books
 #### reading
 **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaithe](https://en.wikipedia.org/wiki/William_Coperthwaite)
+
    ↳ Recommended by [Jeff](http://github.com/jnoh)
 
 
