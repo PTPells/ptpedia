@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Working group](https://en.wikipedia.org/wiki/Working_group)
 + [Social production](https://en.wikipedia.org/wiki/Commons-based_peer_production)
 + [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
 + [Positive Deviants](https://en.wikipedia.org/wiki/Positive_deviance)
