@@ -5,7 +5,7 @@
 ###  meta
 “Design gradually came to mean to me that certain quality whereby a well shaped spoon works.” This is William Coperwaithe talking in *[A Handmade Life: In Search of Simplicity](https://sfpl.bibliocommons.com/item/show/2267982093)*. It's his articulation, "...that certain quality..," that reminds me of Christopher Alexander, speaking on design in, *[The Timeless Way of Building](https://sfpl.bibliocommons.com/v2/search?query=a+timeless+way+of+building&searchType=smart)*, and describing it similarly as "...the quality without a name..." They seemed to have arrived at similar places which has me wondering how they relate.  Further, I'm wondering what is the best way to represent my "investigation" into their relationship. Less abstractly, where do i put all of my thoughts and influences on something as broad as "design"? Need they be represented at all? Maybe linking is the best and most flexible framework for now and if/when more structure is necessary it can be built then (i.e. "people who have influenced my thoughts on design" could eventually have some kind of explicit location.)
 
-But first, I think I need to become more clear in the kinds of questions I think this structure could help me answer. (I think I've just described a wiki)
+But first, I think I need to become more clear in the kinds of questions I think this structure could help me answer. (I think I've just described a wiki). Maybe [TiddlyWiki](https://tiddlywiki.com/)
 
 
 + [ ] how do i handle linking?
