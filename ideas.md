@@ -27,10 +27,10 @@ But first, I think I need to become more clear in the kinds of questions I think
 **8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 #### top of mind
-+ **Accessibility/Inclusivity/Legibility/Participation:** something to do "consumers" changing expectations. expectations around their  role in contributing to/participating in/influencing the design/creation of the media/items they consume. as a result,  "work" that is highly referential or veiled in technical nomenclature will be seen as old and exclusionary.
++ **Accessibility/Inclusivity/Legibility/Participation/Co-design:** William Coperthwaite explains what I'm coming to believe in more strongly, "The finest design for society will not be one worked up by specialists but a design created by the people themselves to fit their needs."
 + **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
 + **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
-	+ *"Cold muscles don't work."* Nicolai included this manta on our run with Max last weekend in Golden Gate Park. It's remained top of mind on my five runs since and I feel a difference. Little tweaks, with outsized impact. Mindset.
+	+ *"Cold muscles don't work."* Take the first mile slow. Once I'm warm, it's okay to get going.
 
 #### still there, somewhere
 +  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
@@ -57,9 +57,8 @@ But first, I think I need to become more clear in the kinds of questions I think
 ###  books
 #### reading
 **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaithe](https://en.wikipedia.org/wiki/William_Coperthwaite)
-
    ↳ Recommended by [Jeff](http://github.com/jnoh)
-
+   If I believe William Coperthwaite is right in thinking, "...the chief elements in good design are sensitivity and care..." then are the best products those we design for ourselves? For who can we expect to have more sensitivity and awareness of our concerns than ourselves? But then again, this assumes that I, we, every individual is aware enough to know who they are, what they want and what they need. Maybe that's partly why we've been comfortable "outsourcing" a lot of our design because, for some reason, be it time/energy/vocabulary, we don't see investigating ourselves as a valuable pursuit?
 
 #### want to read
 + [Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge) by Dominique Foray
