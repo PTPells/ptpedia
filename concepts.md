@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [Open Design](https://en.wikipedia.org/wiki/Open-design_movement)
+
 + [Working group](https://en.wikipedia.org/wiki/Working_group)
 + [Social production](https://en.wikipedia.org/wiki/Commons-based_peer_production)
 + [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
