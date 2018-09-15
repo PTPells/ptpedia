@@ -3,7 +3,11 @@
 
 
 ###  meta
-a wiki is most appealing at the moment. 
+This – whatever "this" is – feels unruly. Messy. Overgrown. I've felt this way before. But this time, I feel good about it.
+
+In this context, messy to me almost means potential, life. Messy is the consequence of a habit, life. It feels messy like a restaurant that some people may mistake for being too small. Perhaps not realizing, that part of the place's appeal comes from its size. The fact that because the restaurant is so small, every surface is to some extent affected by life and thus receiving of care.
+
+Spoken like this, maybe I have too many notes. Maybe there should be fewer. I like the idea of having just enough surface whereby each one naturally gets affected each week, but not too few whereby it becomes work to think where something should go.
 
 
 + [ ] how do i handle linking?
