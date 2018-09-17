@@ -11,10 +11,6 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 
 + [ ] how do i handle linking?
-+ [ ]  what's a good metaphor for notes/docs/etc.? i kind of like the idea of "parking" and the time concepts that come with it (15-min, 2-hour, long term, etc.)
-+ [ ]  how should private items be handled?
-+ [ ]  should "pace" be represented in a document? how?
-	+ by pace i'm meaning like how fast the document moves or changes. so of the documents created thus far, "ideas" would be the fastest moving because it's become kind of like a catch all.
 
 
 
