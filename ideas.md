@@ -57,17 +57,22 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 ###  books
 #### reading
-**[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaithe](https://en.wikipedia.org/wiki/William_Coperthwaite)
-   ↳ Recommended by [Jeff](http://github.com/jnoh)
-   If I believe William Coperthwaite is right in thinking, "...the chief elements in good design are sensitivity and care..." then are the best products those we design for ourselves? For who can we expect to have more sensitivity and awareness of our concerns than ourselves? But then again, this assumes that I, we, every individual is aware enough to know who they are, what they want and what they need. Maybe that's partly why we've been comfortable "outsourcing" a lot of our design because, for some reason, be it time/energy/vocabulary, we don't see investigating ourselves as a valuable pursuit?
+
 
 #### want to read
 + [Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge) by Dominique Foray
 
 #### read
++ **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaite](https://en.wikipedia.org/wiki/William_Coperthwaite) recommended by [Jeff](http://github.com/jnoh).
+
+   The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated (A lot of what I've been thinking about of late has to do with what I'll call *philosophy of life*). Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
+
+	 I'm left thinking about this thought on getting started:
+**"Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'"**
+
 + **[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)** *by* Clay Shirky
 
-	 Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools think about "us" and "we."
+	 Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools expressly help us unlock the idle potential that exists between us all.
 
 	 \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
 + **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
@@ -76,7 +81,7 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 + **[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley:
 
-	 Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message.
+	 Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message as well.
 
 +  **[Making is Connecting](https://books.google.com/books/about/Making_is_Connecting.html?id=4-X-twEACAAJ&source=kp_book_description)** *by* [David Gauntlett](https://en.wikipedia.org/wiki/David_Gauntlett)
 
