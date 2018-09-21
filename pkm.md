@@ -1,16 +1,14 @@
 ## framework
 
-“If you want to teach people a new way of thinking, don’t bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.”
+Legibility. "Being clear enough to be read."
 
-— R. Buckminster Fuller
-
-*On formalizing the workflows I've intuited so far...*
+I want it to be easy for me to know, at all times, what I think, what I think about and to be able to trace both back to their origins as best I can.
 
 ###  Observations
 + I'd like for the design of this to encourage me to just "get started" – to expect me to make a mess while giving me the power to go back and make sense of my chaos
-	+ Example: When i read, i note quotes that standout to me in the document I've created for that book. I also keep a separate "master" document of *all* the resonant quotes I've noted over time. It would be nice for there to be a way for me to collate all of the quotes i've collected, across documents, in a "master" document-like format without ever needing to create or contain maintaining said list and do it on the fly. search?
+	+ Example: When i read, i note quotes that standout to me in the document I've created for that book. I also keep a separate "master" document of *all* the resonant quotes I've noted over time. It would be nice for there to be a way for me to collate all of the quotes i've collected, across documents, in a "master" document-like format without ever needing to create or maintain said list and do it on the fly. incremental search?
 + I'd like the ability to seamlessly link across documents (i.e. Media Wiki's "[[ ]]" shorthand)
-+ "documents" that don't get affected don't feel good
++ stale "documents"  don't feel good; they belong elsewhere
 + I'm finding it easier to recall what I've been spending my time thinking about/doing
 + "Committing" each night feels good
 + I enjoy not having [the option] to think about formatting when writing*

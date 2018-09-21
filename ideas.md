@@ -47,6 +47,8 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 
 ###  quotes
++ "These theories were focused on the search for a deeper sense of well-being—not thermal comfort or energy saving, but a deeper psychological and emotional comfort, in which people could feel their own existence as human beings." -Christopher Alexander
++ “If you want to teach people a new way of thinking, don’t bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking.” — R. Buckminster Fuller
 + "Rather than making a chair to sleep in or a machine to live it, it is better to make a bed. A straight chair is best for eating or writing. The third position is standing." [Donald Judd](https://en.wikipedia.org/wiki/Donald_Judd) on [furniture](https://web.archive.org/web/20140103044123/http://www.juddfoundation.org/furniture/essay.htm).
 + **"A resource arrangement that works in practice can work in theory."** [Lee Anne Fennell](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/) writing of [Ostrom's Law](https://en.wikipedia.org/wiki/Elinor_Ostrom#Ostrom's_law)
 	+ Bottom up.
@@ -57,6 +59,8 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 ###  books
 #### reading
+[The Wikipedia Revolution](https://en.wikipedia.org/wiki/The_Wikipedia_Revolution) by *Andrew Lih*
+↳ Started 9/20/18
 
 
 #### want to read
@@ -65,14 +69,16 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 #### read
 + **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaite](https://en.wikipedia.org/wiki/William_Coperthwaite) recommended by [Jeff](http://github.com/jnoh).
 
-   The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated (A lot of what I've been thinking about of late has to do with what I'll call *philosophy of life*). Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
+   The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated. Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
 
-	 I'm left thinking about this thought on getting started:
-**"Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'"**
+	 I'm left thinking about...
+
+	 + This thought on getting started: *Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'*
+	 + The potential, and therefore, responsibility we all bear in making the world more "beautiful."
 
 + **[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)** *by* Clay Shirky
 
-	 Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools expressly help us unlock the idle potential that exists between us all.
+	 Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools, as Jimmy Wales put it, "...empower lots of pople to do good work, cooperatively."
 
 	 \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
 + **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
