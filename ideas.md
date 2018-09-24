@@ -3,14 +3,22 @@
 
 
 ###  meta
-This – whatever "this" is – feels unruly. Messy. Overgrown. I've felt this way before. But this time, I feel good about it.
+Feeling good. I have a sense for how things should be for now.
 
-In this context, messy to me almost means potential, life. Messy is the consequence of a habit, life. It feels messy like a restaurant that some people may mistake for being too small. Perhaps not realizing, that part of the place's appeal comes from its size. The fact that because the restaurant is so small, every surface is to some extent affected by life and thus receiving of care.
 
-Spoken like this, maybe I have too many notes. Maybe there should be fewer. I like the idea of having just enough surface whereby each one naturally gets affected each week, but not too few whereby it becomes work to think where something should go.
 
 
 + [ ] how do i handle linking?
+
+#### top of mind
++ **Context/Understanding:** *In what context was this author writing? Who or what might they have been responding to? Who might've affected how they've come to think about a particular topic? What state was the conversation on this particular topic at the time of writing? Were there macro events that, in hindsight, people recognize as having influenced how people thought about a particular topic?* I find myself asking questions about context more of late.
+    + It was William Coperthwaite writing, "Design gradually came to mean to me that certain quality whereby a well shaped spoon works." that reminded me of Christopher Alexander's "quality without a name" that now me wondering what might explain how they might've arrived at such similar language.
++ **Accessibility/Inclusivity/Legibility/Participation/Co-design:** William Coperthwaite explains what I'm coming to believe in more strongly, "The finest design for society will not be one worked up by specialists but a design created by the people themselves to fit their needs."
+  + And [Kenya Hara](https://en.wikipedia.org/wiki/Kenya_Hara): "A city is not made by commissioning wonderfully talented architects. Instead, a city results from the competing desires of a large number of people … When people stop dropping litter, or spitting on the street, the city moves forward a step. When graffiti disappears, broken streetlights aren’t left unfixed, and public toilets start to stay clean by themselves, the city has moved one step closer to sophistication. Design can educate people’s desires and help cities grown in that way. This is not a dogma. Rather it is the ability to help people notice something special: like the instant when they use an unpatterned towel made from a material with a pleasant feel.”
++ **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
+	+ Christopher Alexander writing: "It is reason—the language of science, and its appeal to shareable, empirical observation and reasoning—that has given our modern era its strength. Yet one is unlikely to encounter God on the basis of reason."
++ **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
+	+ *"Cold muscles don't work."* Take the first mile slow. Once I'm warm, it's okay to get going.
 
 
 
@@ -24,14 +32,7 @@ Spoken like this, maybe I have too many notes. Maybe there should be fewer. I li
 
 **8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
-#### top of mind
-+ **Context/Understanding:** *In what context was this author writing? Who or what might they have been responding to? Who might've affected how they've come to think about a particular topic? What state was the conversation on this particular topic at the time of writing? Were there macro events that, in hindsight, people recognize as having influenced how people thought about a particular topic?* I find myself asking questions about context more of late.
-    + It was William Coperthwaite writing, "Design gradually came to mean to me that certain quality whereby a well shaped spoon works." that reminded me of Christopher Alexander's "quality without a name" that now me wondering what might explain how they might've arrived at such similar language.
-+ **Accessibility/Inclusivity/Legibility/Participation/Co-design:** William Coperthwaite explains what I'm coming to believe in more strongly, "The finest design for society will not be one worked up by specialists but a design created by the people themselves to fit their needs."
-  + And [Kenya Hara](https://en.wikipedia.org/wiki/Kenya_Hara): "A city is not made by commissioning wonderfully talented architects. Instead, a city results from the competing desires of a large number of people … When people stop dropping litter, or spitting on the street, the city moves forward a step. When graffiti disappears, broken streetlights aren’t left unfixed, and public toilets start to stay clean by themselves, the city has moved one step closer to sophistication. Design can educate people’s desires and help cities grown in that way. This is not a dogma. Rather it is the ability to help people notice something special: like the instant when they use an unpatterned towel made from a material with a pleasant feel.”
-+ **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
-+ **longevity:**  is how i think about running and what i expect from it sustainable? what about my running practice do i need to maintain or change to improve my chances of being able to run comfortably for the next 40 years?
-	+ *"Cold muscles don't work."* Take the first mile slow. Once I'm warm, it's okay to get going.
+
 
 #### still there, somewhere
 +  **free time:**  what part(s) of peoples' days/weeks do they consider "free"? what do people expect from "free time"?
