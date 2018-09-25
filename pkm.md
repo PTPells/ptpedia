@@ -1,8 +1,17 @@
 ## framework
+I want:
++ To start notes easily
++ Only think about writing when I'm writing (Writing and formatting separate workflows)
++ Linking to be core (organization to emerge)
++ Diffs to be celebrated/easily found and consumed
++ Contributing to feel good (think `commit`)
+
+
 
 Legibility. "Being clear enough to be read."
 
-I want it to be easy for me to know, at all times, what I think, what I think about and to be able to trace both back to their origins as best I can.
+I want it to be easy for me to know, at all times, what I think, what I think about and to be able to trace both back to their origins as best I can without having to consider these future workflows while i"m actually writing.
++ See [WikiWikiWeb's](http://wiki.c2.com/?AddingNewPages) and [NV's](http://notational.net/) models for easy creation
 
 ###  Observations
 + I'd like for the design of this to encourage me to just "get started" – to expect me to make a mess while giving me the power to go back and make sense of my chaos
