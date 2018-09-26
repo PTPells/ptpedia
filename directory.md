@@ -3,6 +3,8 @@ Beginning to lay things out...
 
 + "What did you think about ____ ?"
   ↳ today ("Daily notes")
+
+
 + "How and what you thinking about ___ ?"
   ↳ "This" book (Reading Notes)
   ↳ Running
@@ -31,6 +33,7 @@ Beginning to lay things out...
 ↳ Quotes
 ↳ Good language
 ↳ "Unresolved"
+
 
 #### Stream
 I don't think "↳" is the best representation of how I think these all relate (flat + linking), but it makes sense to me right now.
