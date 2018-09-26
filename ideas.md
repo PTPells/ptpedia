@@ -5,6 +5,8 @@
 ###  meta
 Feeling good. I have a sense for how things should be for now.
 
+Testing [ideas.md](https://github.com/PTPells/Lists/blob/master/ideas.md)
+
 
 
 
