@@ -7,33 +7,33 @@
 
 
 **"How and what you thinking about ___ ?"**
-  ↳ "This" book (Reading Notes)
-  ↳ Running
-  ↳ "Ideas"
-    ↳ Wholeness
-    ↳ Language
-    ↳ Legibility
-    ↳ Identity
-    ↳ Physical space
-    ↳ Decisions
-  ↳ Coffee
-  ↳ Writing
-  ↳ "Everyday"
-  ↳ Frames for thinking ("Templates")
+  ↳ "This" book (Reading Notes)  
+  ↳ Running  
+  ↳ "Ideas"  
+    ↳ Wholeness  
+    ↳ Language  
+    ↳ Legibility  
+    ↳ Identity  
+    ↳ Physical space  
+    ↳ Decisions  
+  ↳ Coffee  
+  ↳ Writing  
+  ↳ "Everyday"  
+  ↳ Frames for thinking ("Templates")  
 
 
 **"Who/what has resonated?" (Accumulations)**
-  ↳ Films
-  ↳ Books
-  ↳ Essays
-  ↳ People
+  ↳ Films  
+  ↳ Books  
+  ↳ Essays  
+  ↳ People  
 
 
 **Aggregations**
-↳ Top of mind
-↳ Quotes
-↳ Good language
-↳ "Unresolved"
+↳ Top of mind  
+↳ Quotes  
+↳ Good language  
+↳ "Unresolved"  
 
 
 **Stream**
