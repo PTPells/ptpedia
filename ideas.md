@@ -5,12 +5,8 @@
 ###  meta
 Feeling good. I have a sense for how things should be for now.
 
-Testing [ideas.md](https://github.com/PTPells/Lists/blob/master/ideas.md)
-
-
-
-
 + [ ] how do i handle linking?
+	+ Let's try a link to [concepts](https://github.com/PTPells/Lists/blob/master/concepts.md)
 
 #### top of mind
 + **Context/Understanding:** *In what context was this author writing? Who or what might they have been responding to? Who might've affected how they've come to think about a particular topic? What state was the conversation on this particular topic at the time of writing? Were there macro events that, in hindsight, people recognize as having influenced how people thought about a particular topic?* I find myself asking questions about context more of late.
