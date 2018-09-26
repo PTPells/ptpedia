@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy)
 + [Halloween Documents](https://en.wikipedia.org/wiki/Halloween_Documents)
 + [Open Design](https://en.wikipedia.org/wiki/Open-design_movement)
 + [Working group](https://en.wikipedia.org/wiki/Working_group)
