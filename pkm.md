@@ -1,15 +1,18 @@
-## framework
-I want:
-+ To start notes easily
-+ Only think about writing when I'm writing (Writing and formatting separate workflows)
-+ Linking to be core (organization to emerge)
-+ Contributing to feel good (think `commit`)
-+ Visually distinguish internal links from external links
-+ A feed of recent changes
-+ Encourage small, but more frequent commitments to a topic/idea
-+ Give the satisfaction of "finishing" something upon completion, no matter how small the contribution
-+ Bring more context to how I arrived at the most current version of an idea/thought
-+ Better represent the fluidity of thought; static, not dynamic
+#Meta
+
+
+## 🗒️ Features
+The kinds of behavior I'd like for "this" to encourage:
++ Start parts easily
+	+ Only think about writing when I'm writing (limited formatting options)
+	+ Not to get hung up on thinking how something fits into the broader whole
++ Contributing frequently
+	+ Provide satisfaction no matter the size of the contribution
++ Identify relationships between component parts and relate them (i.e. linking, lists) when suitable
++ Thinking of all content as living, dynamic, in process...not static
+
+
+
 
 
 
