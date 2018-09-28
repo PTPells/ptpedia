@@ -3,8 +3,14 @@ I want:
 + To start notes easily
 + Only think about writing when I'm writing (Writing and formatting separate workflows)
 + Linking to be core (organization to emerge)
-+ Diffs to be celebrated/easily found and consumed
 + Contributing to feel good (think `commit`)
++ Visually distinguish internal links from external links
++ A feed of recent changes
++ Encourage small, but more frequent commitments to a topic/idea
++ Give the satisfaction of "finishing" something upon completion, no matter how small the contribution
++ Bring more context to how I arrived at the most current version of an idea/thought
++ Better represent the fluidity of thought; static, not dynamic
+
 
 
 
@@ -12,6 +18,21 @@ Legibility. "Being clear enough to be read."
 
 I want it to be easy for me to know, at all times, what I think, what I think about and to be able to trace both back to their origins as best I can without having to consider these future workflows while i"m actually writing.
 + See [WikiWikiWeb's](http://wiki.c2.com/?AddingNewPages) and [NV's](http://notational.net/) models for easy creation
+
+###  #todo
++ [ ] read [building an open source pmk](https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324)
++ [ ] read [Self Hosting with DokuWiki](https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-configuration-for-common-use-cases-like-recipes-and-journaling/)
++ [ ] play with [cookbook](https://blessyourhe.art/)
+
+
+###  Services
++ [Tiddlywiki](https://tiddlywiki.com/)
++ [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)
++ [Wikia](http://www.wikia.com/fandom)
++ [Github](https://github.com/)
++ [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
++ [Scribbleton](https://scribbleton.com/)
++ [DokuWiki](https://www.dokuwiki.org/dokuwiki)
 
 ###  Observations
 + I'd like for the design of this to encourage me to just "get started" – to expect me to make a mess while giving me the power to go back and make sense of my chaos
@@ -27,6 +48,8 @@ I want it to be easy for me to know, at all times, what I think, what I think ab
 http://wiki.c2.com/?WikiDesignPrinciples
 
 ###  On naming conventions
+For now, I'm going to go with "parts" of a "whole." Maybe at some point I'll come up with a metaphor that better represents what this all means to me, but for now "parts" of a "whole" work just fine.
+
 + [ ] What language should "list-like" documents be written in? YAML? Markdown?
 	+ See: Ben Balter's [Books](https://github.com/benbalter/benbalter.github.com/blob/master/_data/books.yml)
 + [ ] What kinds of notes/docs do I anticipate having?
