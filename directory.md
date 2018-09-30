@@ -9,22 +9,22 @@
 **"How am I thinking about ___ ?"**  
   ↳ this book ("Reading Notes")  
   ↳ Running  
-    + Mantras
-    + My thoughts
-    + Books
-    + People
-    + Technique
-    + Concepts
-    + "Stream"
-    + Races
-    + Injuries
-  ↳ Physical space
-    + People
-    + Books
-    + Quotes
-    + Concepts
-    + Thoughts
-  ↳ Wholeness  
+    + Mantras  
+    + My thoughts  
+    + Books  
+    + People  
+    + Technique  
+    + Concepts  
+    + "Stream"  
+    + Races  
+    + Injuries  
+  ↳ Physical space  
+    + People  
+    + Books  
+    + Quotes  
+    + Concepts  
+    + Thoughts  
+  ↳ Wholeness   
   ↳ Language  
   ↳ Legibility  
   ↳ Identity  
