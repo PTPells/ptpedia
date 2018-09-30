@@ -1,21 +1,33 @@
 ### Contents
-*Beginning to lay things out...*
+*Beginning to think about what might be included and how they'll relate...*
 
 
-**"What did you think about ____ ?"**  
+**"What did I think about ____ ?"**  
   ↳ today ("Daily notes")
 
 
-**"How and what you thinking about ___ ?"**  
-  ↳ "This" book (Reading Notes)  
+**"How am I thinking about ___ ?"**  
+  ↳ this book ("Reading Notes")  
   ↳ Running  
-  ↳ "Ideas"  
-    ↳ Wholeness  
-    ↳ Language  
-    ↳ Legibility  
-    ↳ Identity  
-    ↳ Physical space  
-    ↳ Decisions  
+    + Mantras
+    + My thoughts
+    + Books
+    + People
+    + Technique
+    + Concepts
+    + "Stream"
+    + Races
+    + Injuries
+  ↳ Physical space
+    + People
+    + Books
+    + Quotes
+    + Concepts
+    + Thoughts
+  ↳ Wholeness  
+  ↳ Language  
+  ↳ Legibility  
+  ↳ Identity  
   ↳ Coffee  
   ↳ Writing  
   ↳ "Everyday"  
@@ -29,12 +41,20 @@
   ↳ People  
 
 
-**Aggregations**  
+**"Best/favorites" (Aggregations/[Categories](https://en.wikipedia.org/wiki/Help:Category)/Collections)**  
+↳ "Favorite books"
+↳ Top of mind  
 ↳ Top of mind  
 ↳ Quotes  
 ↳ Good language  
-↳ "Unresolved"  
+↳ People
+  ↳ Architects
+  ↳ Designers
+  ↳ Furniture makers
+  ↳ Internet thinkers
+
+
 
 
 **Stream**  
-I don't think "↳" is the best representation of how I think these all relate (flat + linking), but it makes sense to me right now.
+I don't think "↳" is the best representation of how I think these all relate (flat + linking).
