@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Common place book](https://en.wikipedia.org/wiki/Commonplace_book)
 + [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy)
 + [Halloween Documents](https://en.wikipedia.org/wiki/Halloween_Documents)
 + [Open Design](https://en.wikipedia.org/wiki/Open-design_movement)
@@ -42,6 +43,7 @@
   + [Fansubbing](https://en.wikipedia.org/wiki/Fansub)
 + [Soft systems methodology](https://en.wikipedia.org/wiki/Soft_systems_methodology)
 + [Collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence)
+  + [Pierre Levy](https://en.wikipedia.org/wiki/Pierre_L%C3%A9vy)
 + [Collaborative Intelligence](https://en.wikipedia.org/wiki/Collaborative_intelligence)
 + [Wicked Problem](https://en.wikipedia.org/wiki/Wicked_problem)
 + [Prediction Market](https://en.wikipedia.org/wiki/Prediction_market)
