@@ -42,16 +42,16 @@
 
 
 **"Best/favorites" (Aggregations/[Categories](https://en.wikipedia.org/wiki/Help:Category)/Collections)**  
-↳ "Favorite books"
-↳ Top of mind  
-↳ Top of mind  
+↳ "Favorite books"  
+↳ Top of mind    
+↳ Top of mind    
 ↳ Quotes  
 ↳ Good language  
-↳ People
-  ↳ Architects
-  ↳ Designers
-  ↳ Furniture makers
-  ↳ Internet thinkers
+↳ People  
+  ↳ Architects  
+  ↳ Designers  
+  ↳ Furniture makers  
+  ↳ Internet thinkers  
 
 
 
