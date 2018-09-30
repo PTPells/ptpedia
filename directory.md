@@ -53,8 +53,5 @@
   ↳ Furniture makers  
   ↳ Internet thinkers  
 
-
-
-
 **Stream**  
-I don't think "↳" is the best representation of how I think these all relate (flat + linking).
+Find a better way than "↳" to visually represent how these relate (flat + linking).
