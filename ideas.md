@@ -5,10 +5,11 @@
 ###  meta
 Feeling good. I have a sense for how things should be for now.
 
-+ [ ] how do i handle linking?
++ [x ] how do i handle linking?
 	+ Let's try a link to [concepts](https://github.com/PTPells/Lists/blob/master/concepts.md)
 
 #### top of mind
++ **"What are different ways online communities build 'stock' together?"**
 + **Context/Understanding:** *In what context was this author writing? Who or what might they have been responding to? Who might've affected how they've come to think about a particular topic? What state was the conversation on this particular topic at the time of writing? Were there macro events that, in hindsight, people recognize as having influenced how people thought about a particular topic?* I find myself asking questions about context more of late.
     + It was William Coperthwaite writing, "Design gradually came to mean to me that certain quality whereby a well shaped spoon works." that reminded me of Christopher Alexander's "quality without a name" that now me wondering what might explain how they might've arrived at such similar language.
 + **Accessibility/Inclusivity/Legibility/Participation/Co-design:** William Coperthwaite explains what I'm coming to believe in more strongly, "The finest design for society will not be one worked up by specialists but a design created by the people themselves to fit their needs."
@@ -58,14 +59,21 @@ Feeling good. I have a sense for how things should be for now.
 
 ###  books
 #### reading
-[The Wikipedia Revolution](https://en.wikipedia.org/wiki/The_Wikipedia_Revolution) by *Andrew Lih*
-↳ Started 9/20/18
+
 
 
 #### want to read
 + [Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge) by Dominique Foray
 
 #### read
+**[The Wikipedia Revolution](https://en.wikipedia.org/wiki/The_Wikipedia_Revolution)** *by* [Andrew Lih](https://en.wikipedia.org/wiki/Andrew_Lih)  
+
+Smooth and engaging. Little fluff. I like how holistically Lih approached the task of capturing Wikipedia's history. Sharing context around many of the components that have contributed to Wikipedia being/becoming what it is. Examples: content licensing (Copyleft), software patterns (Ward Cunningham's WikiWikiWeb), community policies (ArbCom, WP:BLP), etc. Also, a ton of great reference links to essays/articles written about/in response to the movement.  
+
+I'm left wanting to develop my opinion of how well positioned I think Wikipedia is in achieving it's vision of a world where, "...every single human being can freely share in the sum of all knowledge." Is it well adapted to today's context and future expectations? Also, what is Wikipedia? How do Wikipedians talk about Wikipedia? What are their expectations of it? How do WMF staff talk about Wikipedia? What are their expectations of it? What do I think Wikipedia is?  
+
+“The problem, like all those with which we are concerned, is one of balance. Too little liberty brings stagnation and too much brings chaos.” [Bertrand Russell].
+
 + **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaite](https://en.wikipedia.org/wiki/William_Coperthwaite) recommended by [Jeff](http://github.com/jnoh).
 
    The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated. Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
