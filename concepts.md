@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Intellipedia](https://en.wikipedia.org/wiki/Intellipedia)
 + [Common place book](https://en.wikipedia.org/wiki/Commonplace_book)
 + [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy)
 + [Halloween Documents](https://en.wikipedia.org/wiki/Halloween_Documents)
