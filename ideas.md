@@ -59,11 +59,12 @@ Feeling good. I have a sense for how things should be for now.
 
 ###  books
 #### reading
-
++ **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray    
+↳ started 10/2
 
 
 #### want to read
-+ [Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge) by Dominique Foray
+
 
 #### read
 **[The Wikipedia Revolution](https://en.wikipedia.org/wiki/The_Wikipedia_Revolution)** *by* [Andrew Lih](https://en.wikipedia.org/wiki/Andrew_Lih)  
