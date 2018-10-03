@@ -4,6 +4,9 @@
 
 ## Accumulations
 
++ Philippe Van Parijs's:
+  + [Linguistic Justice](https://en.wikipedia.org/wiki/Philippe_Van_Parijs#Linguistic_justice)
+  + [Real freedom](https://en.wikipedia.org/wiki/Real_freedom)
 + [Intellipedia](https://en.wikipedia.org/wiki/Intellipedia)
 + [Common place book](https://en.wikipedia.org/wiki/Commonplace_book)
 + [Stigmergy](https://en.wikipedia.org/wiki/Stigmergy)
