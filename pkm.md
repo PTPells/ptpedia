@@ -16,11 +16,13 @@
 
 
 ##  Reading
++ [ ] [The Sad State of Personal Knowledge Bases](http://marcusvorwaller.com/blog/2015/12/14/personal-knowledgebases/)
++ [ ] [Designing a Personal Knowledge Base](http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/)
 + [ ] [Augmenting long-term memory](http://augmentingcognition.com/ltm.html)
 + [ ] [Org mode for emacs](https://orgmode.org/)
 + [ ] [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
-+ [ ] [Building an open source pmk](https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324)
 + [ ] [Self Hosting with DokuWiki](https://diyfuturism.com/index.php/2018/01/01/how-to-set-up-a-personal-wiki-with-configuration-for-common-use-cases-like-recipes-and-journaling/)
++ [x] [Building an open source pmk](https://hackernoon.com/building-a-open-source-personal-knowledge-base-45c25f5a4324)
 + [x] [Merlin Mann's txt setup](http://www.43folders.com/2005/12/12/text-setup)
 + [x] [Stanford Libraries – File naming done well](https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well)
 + [x] [A plain text primer](http://bettermess.com/a-plain-text-primer/)
@@ -28,6 +30,7 @@
 
 ## Features
 The kinds of behavior I'd like for "this" to encourage:
++ Begin broad, grow specific
 + Start parts easily
 	+ Only think about writing when I'm writing (limited formatting options)
 		+ See [WikiWikiWeb's](http://wiki.c2.com/?AddingNewPages) and [NV's](http://notational.net/) models for easy creation
@@ -38,6 +41,8 @@ The kinds of behavior I'd like for "this" to encourage:
 + Identify relationships between component parts and relate them (i.e. linking, lists) when suitable
 	+ See MediaWiki's \[[ ]] shorthand for intra-wiki linking
 + Thinking of all content as living, dynamic, in process...not static
++ Systems should grow with as little effort as possible
++ Content that makes up knowledge base should be easily portable (exporting and importing)
 
 
 ## Language
@@ -46,8 +51,8 @@ The kinds of behavior I'd like for "this" to encourage:
 
 
 ## Misc.
++ This is as much a "tool" it is a process...a set of workflows. Kind of funny to think how something as conscious as thinking can be so unconscious. If that makes sense.
 + Legibility. "Being clear enough to be read."
-
 + I want it to be easy for me to know, at all times, what I
 think, what I think about and to be able to trace both back
 to their origins as best I can without having to consider
@@ -60,6 +65,7 @@ these future workflows while i'm actually writing.
 + I enjoy not having [the option] to think about formatting when writing*  
 + Document/notes don't feel "precious"  
 + Freeing knowing .md files are portable
+
 
 
 ##  Potential Platforms
