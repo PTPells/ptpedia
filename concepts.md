@@ -4,6 +4,16 @@
 
 ## Accumulations
 
++ [Community Asset Mapping]( https://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)
+  + Uncover what a community does well and consider those assets/resources/material in the creation of solutions to address needs and improve health/wellbeing
++ [Knowledge Integration](https://en.wikipedia.org/wiki/Knowledge_integration): the process of combining multiple "knowledge models" into a cohesive one.
+  + I wonder if this is another way of articulating what I've been wondering about how different peoples' ideas of a broader subject fit together into a cogent whole. Well, now that I write this out, maybe what I'm really asking is "how do I integrate outside knowledge into my own?""
++ [Distributed cognition](https://en.wikipedia.org/wiki/Distributed_cognition)
+  + Example: working out a math problem with a friend on paper. Here, arriving at the answer–"intelligence"-involves:
+    + 1) the perception of both people involved
+    + 2) a tool (paper)
+  It also requires a level of communication so this information can be shared between people and across media (paper)
+  + "Nervous systems do not form representations of the world, they can only form representations of interactions with the world" [Edward Hutchins](https://en.wikipedia.org/wiki/Edwin_Hutchins)
 + Philippe Van Parijs's:
   + [Linguistic Justice](https://en.wikipedia.org/wiki/Philippe_Van_Parijs#Linguistic_justice)
   + [Real freedom](https://en.wikipedia.org/wiki/Real_freedom)
