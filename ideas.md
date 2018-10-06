@@ -1,5 +1,5 @@
 ## ideas
-
+**+ "When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed." [Christopher Alexander]**
 
 
 ###  meta
