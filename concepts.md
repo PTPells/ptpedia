@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [Collective Memory](https://en.wikipedia.org/wiki/Collective_memory): 
++ [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge): the things we know, but cannot tell (communicate)
 + [Community Asset Mapping]( https://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)
   + Uncover what a community does well and consider those assets/resources/material in the creation of solutions to address needs and improve health/wellbeing
 + [Knowledge Integration](https://en.wikipedia.org/wiki/Knowledge_integration): the process of combining multiple "knowledge models" into a cohesive one.
