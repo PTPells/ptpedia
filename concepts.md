@@ -4,7 +4,9 @@
 
 ## Accumulations
 
-+ [Collective Memory](https://en.wikipedia.org/wiki/Collective_memory): 
++ [Infinite Expansibility](https://books.google.com/books?id=uKprAwAAQBAJ&pg=PA287&lpg=PA287&dq=infinite+expansibility&source=bl&ots=zij8VEdilU&sig=E73cNsar8rXXeliH2g1pgXCQiRk&hl=en&sa=X&ved=2ahUKEwjUte_o-PndAhU2wMQHHVMrAmUQ6AEwAnoECAcQAQ#v=onepage&q=infinite%20expansibility&f=false):
+  + "...knowledge goods are subject to increasing economies of scale."
++ [Collective Memory](https://en.wikipedia.org/wiki/Collective_memory):
 + [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge): the things we know, but cannot tell (communicate)
 + [Community Asset Mapping]( https://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)
   + Uncover what a community does well and consider those assets/resources/material in the creation of solutions to address needs and improve health/wellbeing
