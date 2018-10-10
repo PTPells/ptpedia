@@ -61,7 +61,7 @@ Feeling good. I have a sense for how things should be for now.
 #### reading
 + **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray    
 ↳ started 10/2
-
+> It took me some time to get through the first ~50 pages (lots of words/ideas I don't encounter very often). Since, it's gotten quite interesting. I find myself pausing now to unpack ideas, rather than decipher them. The latest of which is about trade off between codification of knowledge: on one hand, it makes for a more stable base to build new tools for abstraction and intellectual creation, but on the other it creates lock in to old and potentially inaccurate conceptual models."
 
 #### want to read
 
