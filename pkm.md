@@ -43,6 +43,7 @@ The kinds of behavior I'd like for "this" to encourage:
 + Thinking of all content as living, dynamic, in process...not static
 + Systems should grow with as little effort as possible
 + Content that makes up knowledge base should be easily portable (exporting and importing)
++ Encourages you to add to it incrementally - you can *feel* its cumulative nature
 
 
 ## Language
