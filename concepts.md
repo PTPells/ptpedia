@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [Wikipedia](https://en.wikipedia.org/wiki/Room_for_the_River_(Netherlands)) | [Dutch gov't](https://www.ruimtevoorderivier.nl/english/)
+  + An [approach](https://albertawater.com/how-is-water-governed/what-is-room-for-the-river#ftnt3) to flood mitigation whereby measures are taken to provide rivers more "room" when they smell during heavy rainfall. This contrasts with earlier approaches where berms and dikes were used to constrain rivers and prevent them from flooding nearby people and infrastructure.
 + [Infinite Expansibility](https://books.google.com/books?id=uKprAwAAQBAJ&pg=PA287&lpg=PA287&dq=infinite+expansibility&source=bl&ots=zij8VEdilU&sig=E73cNsar8rXXeliH2g1pgXCQiRk&hl=en&sa=X&ved=2ahUKEwjUte_o-PndAhU2wMQHHVMrAmUQ6AEwAnoECAcQAQ#v=onepage&q=infinite%20expansibility&f=false):
   + "...knowledge goods are subject to increasing economies of scale."
 + [Collective Memory](https://en.wikipedia.org/wiki/Collective_memory):
