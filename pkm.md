@@ -3,6 +3,7 @@
 ##  #Todo
 + [ ] Figure out `git mv` for directory and file renaming
 	+ "pmk.md" > "meta.md"
++ [ ] [Object model](https://en.wikipedia.org/wiki/Object_model)
 + [ ] Create initial "parts" and "wholes":
 	+ theme: **coffee**
 	+ person: **Christopher Alexander**
