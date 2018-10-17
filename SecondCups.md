@@ -8,7 +8,8 @@
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
 |:---- | :---- | :---- | :---- | :---- |:----|  
-Home roasted* | single origin | Ethiopia | *Hambela Hassan* | August, 2018 | bright with body; delightful for the morning |
+Verve* | single origin | Guatemala | *Santa Clara Pacamara* | October, 2018 | Subtly sharp, with just enough sweetness to make inoffensive. Good body. Drinks like a cup of coffee i could have many times, not tire of and continue to find new things to notice.
+Home roasted | single origin | Ethiopia | *Hambela Hassan* | August, 2018 | bright with body; delightful for the morning |
 heart | single origin | Colombia | *Fabio Escobar* | August, 2018 |
 Ritual | single origin | Colombia | *El Guamo* | July, 2018
 Verve | single origin | Honduras | *El Brujo* | July, 2018
