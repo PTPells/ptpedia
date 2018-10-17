@@ -4,8 +4,25 @@
 
 ## Accumulations
 
-+ [Wikipedia](https://en.wikipedia.org/wiki/Room_for_the_River_(Netherlands)) | [Dutch gov't](https://www.ruimtevoorderivier.nl/english/)
-  + An [approach](https://albertawater.com/how-is-water-governed/what-is-room-for-the-river#ftnt3) to flood mitigation whereby measures are taken to provide rivers more "room" when they smell during heavy rainfall. This contrasts with earlier approaches where berms and dikes were used to constrain rivers and prevent them from flooding nearby people and infrastructure.
++ User-initiated transformations
+  + See [Extending themselves...](https://www.onbuy.com/gb/social-services-and-welfare/extending-themselves-user-initiated-transformations-of-government-built-housing-in-developing-countries-user-initiated-extensions-to-government~c3105~p6338374/)
++ Incremental Housing
+  + An approach to shelter that assumes the dwelling will evolve, incrementally, with time.
+  + Readings:
+    + [Incremental Housing: A proactive urban strategy](https://web.mit.edu/incrementalhousing/articlesPhotographs/pdfs/PagesMondayMag.pdf)
+    + [MIT network resources](https://web.mit.edu/incrementalhousing/articlesPhotographs/index.html)
+    + [Financing incremental housing](http://web.mit.edu/incrementalhousing/references/pdfs/FINANCE%20FOR%20INCREMENTAL_FERGUSON_Hab_Intl2010.pdf)
+    + [Incremental construction: a strategy to facilitate access to housing](http://journals.sagepub.com/doi/abs/10.1177/0956247808089150)
+    + [Incremental housing case studies](http://web.mit.edu/incrementalhousing/lookingListening/index.html)
+    + [THE HABITAT OF HA NOI: An intercultural university cooperation project.](http://web.mit.edu/incrementalhousing/references/pdfs/Andre%20Ha%20Noi%20Book.pdf)
+    + [Incremental Expansion: Examining user-initiated transformations in government housing in Manaus](https://web.mit.edu/incrementalhousing/articlesPhotographs/pdfs/Manaus%20Expansion%20Notes.pdf)
+
++ The Minimum Shelter Approach  
+  + An approach to housing that 1) sees an occupants' ability to pay as a forethought or initial design constraint and 2) values an occupant's ability to configure their space themselves, with freedom from government assistance  
+  ↳ [PDF](http://web.mit.edu/incrementalhousing/general/MINIMUM-SHELTER-72.pdf)
+
++ Room for the River   [Wikipedia](https://en.wikipedia.org/wiki/Room_for_the_River_(Netherlands)) | [Dutch gov't](https://www.ruimtevoorderivier.nl/english/)
+  + An [approach](https://albertawater.com/how-is-water-governed/what-is-room-for-the-river#ftnt3) to flood mitigation whereby measures are taken to provide rivers more "room" when they swell during heavy rainfall. This contrasts with earlier approaches where berms and dikes were used to constrain rivers and prevent them from flooding nearby people and infrastructure.
 + [Infinite Expansibility](https://books.google.com/books?id=uKprAwAAQBAJ&pg=PA287&lpg=PA287&dq=infinite+expansibility&source=bl&ots=zij8VEdilU&sig=E73cNsar8rXXeliH2g1pgXCQiRk&hl=en&sa=X&ved=2ahUKEwjUte_o-PndAhU2wMQHHVMrAmUQ6AEwAnoECAcQAQ#v=onepage&q=infinite%20expansibility&f=false):
   + "...knowledge goods are subject to increasing economies of scale."
 + [Collective Memory](https://en.wikipedia.org/wiki/Collective_memory):
