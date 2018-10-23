@@ -1,12 +1,12 @@
-## Concepts, Ideas, Metaphors and how about some events!
+## Concepts, ideas, events, metaphors
 
 ...the kind that resonate.
 
 ## Accumulations
 
-+ Academic capitalism: trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
++ **Academic capitalism:** trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
   + See [Oxford Research Encyclopedia](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-15)
-  + Related: [Bayh Dole Act of 1980](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act) 
+  + Related: [Bayh Dole Act of 1980](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act)
 +   [Afforestation](https://en.wikipedia.org/wiki/Afforestation)
   + Particularly the practice as a means to restrict native people. See *[The Politics of Planting](https://www.press.uchicago.edu/ucp/books/book/chicago/P/bo3637533.html)*
 + User-initiated transformations
