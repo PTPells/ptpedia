@@ -1,17 +1,18 @@
-## ideas
-**+ "When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed." [Christopher Alexander]**
+## Scratchpad
+
+###  Meta
+Reading section keeps expanding, I haven't touched "coffee roasting" since August, my quotes accumulation is now split across multiple workflows...point being, I think I'd benefit from breaking some sections out into their own jogs. I like the idea of using this place to be a record of what's top of mind, be it an idea, a quote, a YouTuber, etc. Basically, I imagine this being one of the fastest moving notes I maintain.
 
 
-###  meta
-Feeling good. I have a sense for how things should be for now.
 
-+ [x ] how do i handle linking?
-	+ Let's try a link to [concepts](https://github.com/PTPells/Lists/blob/master/concepts.md)
+
+
 
 #### top of mind
-+ **"What are different ways online communities build 'stock' together?"**
++ "When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed." [Christopher Alexander]
 + **Context/Understanding:** *In what context was this author writing? Who or what might they have been responding to? Who might've affected how they've come to think about a particular topic? What state was the conversation on this particular topic at the time of writing? Were there macro events that, in hindsight, people recognize as having influenced how people thought about a particular topic?* I find myself asking questions about context more of late.
     + It was William Coperthwaite writing, "Design gradually came to mean to me that certain quality whereby a well shaped spoon works." that reminded me of Christopher Alexander's "quality without a name" that now me wondering what might explain how they might've arrived at such similar language.
+	+ I think the larger point here is that to promote deeper understanding information needs to be placed in a broader context...may doing so makes it easier to establish its significance?
 + **Accessibility/Inclusivity/Legibility/Participation/Co-design:** William Coperthwaite explains what I'm coming to believe in more strongly, "The finest design for society will not be one worked up by specialists but a design created by the people themselves to fit their needs."
   + And [Kenya Hara](https://en.wikipedia.org/wiki/Kenya_Hara): "A city is not made by commissioning wonderfully talented architects. Instead, a city results from the competing desires of a large number of people … When people stop dropping litter, or spitting on the street, the city moves forward a step. When graffiti disappears, broken streetlights aren’t left unfixed, and public toilets start to stay clean by themselves, the city has moved one step closer to sophistication. Design can educate people’s desires and help cities grown in that way. This is not a dogma. Rather it is the ability to help people notice something special: like the instant when they use an unpatterned towel made from a material with a pleasant feel.”
 + **faith:** i don't have a specific question in mind per se...it's more that i've become interested in finding the language to articulate my own.
@@ -57,21 +58,25 @@ Feeling good. I have a sense for how things should be for now.
 + Thinking about Stewart Brand's [Pace Layers](http://blog.longnow.org/02015/01/27/stewart-brand-pace-layers-thinking-at-the-interval/) again:
 *"It's the combination of the fast and the slow parts that give a whole system its resilience. Because the fast parts learn; the slow parts remember. The fast parts propose things; the slow parts dispose things...The fast and small instruct the slow and big."* [Stewart Brand](https://youtu.be/VugDxZW0VHA?t=6m18s)+
 
-###  books
-#### reading
+### Now Reading
 **[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn
 	↳ 24 October 2018 -
 
-#### want to read
+---
+
+### Want to Read
 *this list is living elsewhere for now*
 
-#### read
+---
+
+### Read
 **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray      
 	↳ 2 October 2018 - 24 October 2018  
 
 I enjoyed this for the vocabulary and frameworks it's given me to think about knowledge creation (scientific exploration vs. learning-by-doing), dissemination (codified vs. tacit), absorption (integration) and how intellectual property laws incentivize the process.
 
 Immediately after finishing I'm left thinking about the tension between tacit and codified knowledge. Tacit knowledge is practical and flexible, but difficult to diffuse. Codified knowledge is structured and easily transferred, but it can create a kind of lock in to obsolete ways of thinking. Oh and a great bibliography.
+
 
 ---
 
