@@ -59,14 +59,22 @@ Feeling good. I have a sense for how things should be for now.
 
 ###  books
 #### reading
-+ **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray    
-↳ started 10/2
-> It took me some time to get through the first ~50 pages (lots of words/ideas I don't encounter very often). Since, it's gotten quite interesting. I find myself pausing now to unpack ideas, rather than decipher them. The latest of which is about trade off between codification of knowledge: on one hand, it makes for a more stable base to build new tools for abstraction and intellectual creation, but on the other it creates lock in to old and potentially inaccurate conceptual models."
+**[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn
+	↳ 24 October 2018 -
 
 #### want to read
-
+*this list is living elsewhere for now*
 
 #### read
+**[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray      
+	↳ 2 October 2018 - 24 October 2018  
+
+I enjoyed this for the vocabulary and frameworks it's given me to think about knowledge creation (scientific exploration vs. learning-by-doing), dissemination (codified vs. tacit), absorption (integration) and how intellectual property laws incentivize the process.
+
+Immediately after finishing I'm left thinking about the tension between tacit and codified knowledge. Tacit knowledge is practical and flexible, but difficult to diffuse. Codified knowledge is structured and easily transferred, but it can create a kind of lock in to obsolete ways of thinking. Oh and a great bibliography.
+
+---
+
 **[The Wikipedia Revolution](https://en.wikipedia.org/wiki/The_Wikipedia_Revolution)** *by* [Andrew Lih](https://en.wikipedia.org/wiki/Andrew_Lih)  
 
 Smooth and engaging. Little fluff. I like how holistically Lih approached the task of capturing Wikipedia's history. Sharing context around many of the components that have contributed to Wikipedia being/becoming what it is. Examples: content licensing (Copyleft), software patterns (Ward Cunningham's WikiWikiWeb), community policies (ArbCom, WP:BLP), etc. Also, a ton of great reference links to essays/articles written about/in response to the movement.  
@@ -75,28 +83,41 @@ I'm left wanting to develop my opinion of how well positioned I think Wikipedia 
 
 “The problem, like all those with which we are concerned, is one of balance. Too little liberty brings stagnation and too much brings chaos.” [Bertrand Russell].
 
-+ **[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaite](https://en.wikipedia.org/wiki/William_Coperthwaite) recommended by [Jeff](http://github.com/jnoh).
+---
 
-   The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated. Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
+**[A Handmade Life: In Search of Simplicity](https://www.goodreads.com/work/quotes/742734-a-handmade-life-in-search-of-simplicity)** *by* [Bill Coperwaite](https://en.wikipedia.org/wiki/William_Coperthwaite) recommended by [Jeff](http://github.com/jnoh).
 
-	 I'm left thinking about...
+ The first quarter was rich and inspiring. Coperthwaite's case for the necessity of being an active participant in and designer of, your own life resonated. Although, as the book wore on, he started to rant which gave me pause. Although, the wonderful writings he included from people like Maurice Mitchel, Richard Gregg, Scott Nearing, Wendell Berry, Christopher Alexander, Ralph Waldo Emerson and John B. Calhoun kept me reading. Cool to see his thinking in the context of those he was influenced by.
 
-	 + This thought on getting started: *Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'*
-	 + The potential, and therefore, responsibility we all bear in making the world more "beautiful."
+ I'm left thinking about...
 
-+ **[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)** *by* Clay Shirky
+ + This thought on getting started: *Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'*
+ + The potential, and therefore, responsibility we all bear in making the world more "beautiful."
 
-	 Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools, as Jimmy Wales put it, "...empower lots of pople to do good work, cooperatively."
+---
 
-	 \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
-+ **[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
+**[Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)** *by* Clay Shirky
 
-	 "I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
+ Reading seven years after its publication, Shirky's optimism for a society where individuals share, collaborate and more broadly, "participate" to create public value feels fresh.* Not only fresh, but young/nascent. I believe we are just starting to tap into the idle potential that exists between people.  In this way, I'm finishing *Cognitive Surplus* feeling excited. Excited about a future where our tools, as Jimmy Wales put it, "...empower lots of pople to do good work, cooperatively."
 
-+ **[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley:
+ \* *Am I late? Linux and Apache (read: open source software), Wikipedia and "crowdsourcing" in general has obviously been around for some time. So why does this idea feel novel to me? Am I unique in feeling this way? I'm not quite sure yet, but I'm also not sure how pressed I am for these answers.*
 
-	 Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message as well.
+---
 
-+  **[Making is Connecting](https://books.google.com/books/about/Making_is_Connecting.html?id=4-X-twEACAAJ&source=kp_book_description)** *by* [David Gauntlett](https://en.wikipedia.org/wiki/David_Gauntlett)
+**[Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))** *by* [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse)
 
-	 No revelatory moments, but an easygoing read. It incrementally advanced my internal conversation about the opportunity for creativity in everyday "operations."
+"I am not going anywhere. I am only on the way." This message resonated with me most. Sometimes when I read a book I'm not sure whether I liked the book as much as I liked the author's articulation of thoughts that had previously existed amorphously in my mind. Siddhartha fits into this category for me.
+
+
+---
+
+**[Rural Studio – Samual Mockbee and an Architecture of Decency](https://books.google.com/books/about/Rural_Studio.html?id=Cjy8Mt4hn_QC&source=kp_book_description)** *by* Andrea Oppenheimer Dean and Timothy Hursley:
+
+ Story about what architecture can accomplish when designers fully accept their responsibility to the people their structures will protect and the environments and communities in which they will exist. Timothy Hursley's photography does a wonderful job representing this message as well.
+
+
+---
+
+**[Making is Connecting](https://books.google.com/books/about/Making_is_Connecting.html?id=4-X-twEACAAJ&source=kp_book_description)** *by* [David Gauntlett](https://en.wikipedia.org/wiki/David_Gauntlett)
+
+ No revelatory moments, but an easygoing read. It incrementally advanced my internal conversation about the opportunity for creativity in everyday "operations."
