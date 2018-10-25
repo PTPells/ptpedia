@@ -4,6 +4,7 @@
 
 ## Accumulations
 
++ [Sign Value](https://en.wikipedia.org/wiki/Sign_value): something valued more for its prestige than its utility
 + **Academic capitalism:** trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
   + See [Oxford Research Encyclopedia](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-15)
   + Related: [Bayh Dole Act of 1980](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act)
