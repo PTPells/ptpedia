@@ -23,14 +23,40 @@ Reading section keeps expanding, I haven't touched "coffee roasting" since Augus
 
 
 ###  coffee roasting
-#### stream
-**questions to self:** *what have you noticed about the process? what would you like to improve? where do you feel like your gaps in knowledge are?*
+	**26 October 2018**  
+		Twenty five [roasts](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing) later...
 
-**8/22:**  tasted the first roast of the [ethiopian beans](https://www.sweetmarias.com/ethiopia-wet-process-hambela-hassan.html); they were good*. curious to compare it with the [heart ethiopian](https://www.heartroasters.com/collections/beans/products/ethiopia-gedeb) beans i have.
+		*Blends vs. single origins*
+		It's now been two weeks since I had, what I understand to be, Sightglass's [Hunky Dory](https://sightglasscoffee.com/products/hunky-dory) blend at Chez Panisse. I'm still thinking about it. Great body, chocolaty, well balanced...I have no better way to describe this coffee than saying it tasted like it should. Let me try to unpack that...
+
+		My exposure to coffee before high school was limited: coffee ice cream at my grandmother's and an occasional taste from my dad's cup, decorated with cream and sugar. Rich, ever-so-sweet...consistent, uneventful, safe, but spectacular for all those reasons. For some years, this was coffee to me. The flavor profile I came to expect and sought in coffee. At some point, I began to approach coffee differently, seeking more variety by way of single origins and drinking it black.
+
+		I've carried this thinking through my coffee roasting exploration. Experimenting with different regions and lately, different production methods within those regions to tease distinct notes within each. Each shop, roast and taste becomes eventful.
+
+		But the french pressed [Hunky Dory](https://sightglasscoffee.com/products/hunky-dory) Chez Panisse reminded me how comforting and fulfilling an uneventful cup of coffee can be. The kind of coffee that's invisible. The kind of coffee that doesn't talk to you..there is no active conversation or negotiation between me and the coffee about what it tastes like or whether certain notes are pronounced to a distracting extreme. All to say, I'm excited about blends and even more so excited to have a model cup of coffee to try to emulate as a starting point.
+
+		*Set up*
+			Recently, as in these past 2 roasts, I've begun paying more attention to the smoke produced during roasting. I'd smelled the smoke since the beginning, but I hadn't considered it a problem to be solved (roasts are never more than 6 minutes) until seeing the smoke during a morning roast last week. There's a lot of it.
+
+			For now, I've elevated the "roaster" such that the smoke can [ideally] exhaust outside. But wouldn't you know, the rush of cool air from outside into our warm apartment hasn't been helpful (see the [chaff](https://github.com/PTPells/Lists/blob/master/assets/coffee-exhaust-2.jpeg)). More experimenting to come.
+
+		Oh and some other tweaks:
+			+ To cool down beans more quickly, I'm now storing our mesh strainers (which I use to cool) in the freezer
+			+ Now letting the freshly roasted coffee sit out for 6-8 hours before bagging it
+			+ Allowing the "roaster" to warm up for 5 minutes instead of the 3 minutes I'd been doing before
+
+
+
+
+
+
+**22 August 2018**  
+	tasted the first roast of the [ethiopian beans](https://www.sweetmarias.com/ethiopia-wet-process-hambela-hassan.html); they were good*. curious to compare it with the [heart ethiopian](https://www.heartroasters.com/collections/beans/products/ethiopia-gedeb) beans i have.
 
 \*i'm wanting a better/more nuanced way of noting tastes.
 
-**8/21:** my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
+**21 August 2018**
+	my intention right now is all about workflow: optimal batch weight, chaff removal, logging, cooling, etc. but roasting just twice has brought renewed focus to, what feel like, the many holes in my knowledge: developing better baseline tastes for diff. regions, identifying different roast profiles, etc. i'm eager to answer them, but more so excited that they feel almost important. "important" maybe because i immediately know where and how i'll apply their answers when i eventually arrive at them?
 
 
 
