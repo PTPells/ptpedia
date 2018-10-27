@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [inner sourcing](https://en.wikipedia.org/wiki/Inner_source)
+  + From Mako's [talk](https://www.youtube.com/watch?time_continue=203&v=vBknF2yUZZ8) at LibrePlanet 2018
 + [Sign Value](https://en.wikipedia.org/wiki/Sign_value): something valued more for its prestige than its utility
 + **Academic capitalism:** trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
   + See [Oxford Research Encyclopedia](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-15)
