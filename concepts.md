@@ -4,6 +4,8 @@
 
 ## Accumulations
 
++ [Positive](https://en.wikipedia.org/wiki/Positive_economics) and [normative economics](https://en.wikipedia.org/wiki/Normative_economics)
+  + See Milton Friedman's *[Essays in Positive Economics](https://en.wikipedia.org/wiki/Essays_in_Positive_Economics)*
 + [inner sourcing](https://en.wikipedia.org/wiki/Inner_source)
   + From Mako's [talk](https://www.youtube.com/watch?time_continue=203&v=vBknF2yUZZ8) at LibrePlanet 2018
 + [Sign Value](https://en.wikipedia.org/wiki/Sign_value): something valued more for its prestige than its utility
