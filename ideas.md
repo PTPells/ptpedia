@@ -85,6 +85,9 @@ Oh and some other tweaks:
 #### Currently
 **[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn
 	↳ 24 October 2018 -
+A third of the way through and this is starting to open up for me. I like how he has begun to describe the models on which earlier scholars and archaeologists have built their understanding of human advancement. His critique of their static and climactic views for how, what [Wright thinks] can be seen more accurately as revolutionary changes that happened in evolutionary ways resonates.
+
+
 
 #### Finished
 **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray      
