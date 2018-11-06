@@ -8,6 +8,7 @@
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
 |:---- | :---- | :---- | :---- | :---- |:----|  
+Blue Bottle | single origin | North Sumatra, Indonesia | *Sumatra Lake Toba Blue Batak* | November, 2018 | It's almost like each sip has "time"...it starts with a pleasant acidity that turns into sweetness and finishes with the richness and silkiness of coconut oil without overwhelming at any point. 
 Verve* | single origin | Guatemala | *Santa Clara Pacamara* | October, 2018 | Subtly sharp, with just enough sweetness to make inoffensive. Good body. Drinks like a cup of coffee i could have many times, not tire of and continue to find new things to notice.
 Home roasted | single origin | Ethiopia | *Hambela Hassan* | August, 2018 | bright with body; delightful for the morning |
 heart | single origin | Colombia | *Fabio Escobar* | August, 2018 |
@@ -18,7 +19,7 @@ George Howell | single origin | Rwanda | *Kanzu* |  April, 2018
 Wrecking Ball | single origin | Peru | *Peru Saltillo Finca Tasta* |  April, 2018
 Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  January, 2018
 
-* *Favorite coffee at the moment*
+
 
 #### Brewing method
 
