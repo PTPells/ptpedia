@@ -4,6 +4,11 @@
 
 ## Accumulations
 
++ [Hierarchy theory](https://en.wikipedia.org/wiki/Hierarchy_theory): a frame to understand ecosystems, their constitutent parts and the relationships between them.
+  + See: "[A summary of the principles of hierarchy theory](A SUMMARY OF THE PRINCIPLES OF HIERARCHY THEORY)"
+  + Does Stewart Brand's "[Pace Layers](http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/)" and Lawrence Halprin's [Sea Ranch Ecoscore](https://www.design.upenn.edu/architectural-archives/post/architectural-archives-receives-82000-grant) fit here?
+
++ [Non-place](https://en.wikipedia.org/wiki/Non_place): transient spaces. Came across this in tonight's presentation about Sea Ranch in which the speaker
 + [Positive](https://en.wikipedia.org/wiki/Positive_economics) and [normative economics](https://en.wikipedia.org/wiki/Normative_economics)
   + See Milton Friedman's *[Essays in Positive Economics](https://en.wikipedia.org/wiki/Essays_in_Positive_Economics)*
 + [inner sourcing](https://en.wikipedia.org/wiki/Inner_source)
