@@ -3,6 +3,12 @@
 ...the kind that resonate.
 
 ## Accumulations
++ [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth): "...a choice of phrasing or even a single word, that distinguishes one group of people from another.""
++ [Cunningham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#Ideas_and_inventions): "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."[
++ [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
++ [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership): making your main priority to serve rather than lead.
++ [Streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect): searching where it is easiest to look..
+  > "A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, 'This is where the light is.'"
 
 + [Hierarchy theory](https://en.wikipedia.org/wiki/Hierarchy_theory): a frame to understand ecosystems, their constitutent parts and the relationships between them.
   + See: "[A summary of the principles of hierarchy theory](A SUMMARY OF THE PRINCIPLES OF HIERARCHY THEORY)"
