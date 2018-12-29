@@ -4,7 +4,7 @@
 
 ## Accumulations
 + [BookCrossing](https://en.wikipedia.org/wiki/BookCrossing): leaving books behind for others to find.
-+ [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth): "...a choice of phrasing or even a single word, that distinguishes one group of people from another."bn   "
++ [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth): "...a choice of phrasing or even a single word, that distinguishes one group of people from another." via [Benjamin Reinhardt](http://benjaminreinhardt.com/)
 + [Cunningham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#Ideas_and_inventions): "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."[
 + [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
 + [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership): making your main priority to serve rather than lead.
