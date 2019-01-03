@@ -3,6 +3,12 @@
 ...the kind that resonate.
 
 ## Accumulations
++ [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology))
+↳  The ingrained habits, skills, and dispositions people use to perceive the social world around them and react to it.
++ [Sensus communis/common sense](https://en.wikipedia.org/wiki/Common_sense)
+↳ *still figuring out what exactly this idea represents*
++ Cartesian Anxiety](https://en.wikipedia.org/wiki/Cartesian_anxiety)
+↳ "a hope that studying the world will give us unchangeable knowledge of ourselves and the world"
 + [BookCrossing](https://en.wikipedia.org/wiki/BookCrossing): leaving books behind for others to find.
 + [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth): "...a choice of phrasing or even a single word, that distinguishes one group of people from another." via [Benjamin Reinhardt](http://benjaminreinhardt.com/)
 + [Cunningham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#Ideas_and_inventions): "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."[
