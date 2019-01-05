@@ -1,10 +1,8 @@
 # Scratchpad
 
 ## Meta
-Reading section keeps expanding, I haven't touched "coffee roasting" since August, my quotes accumulation is now split across multiple workflows...point being, I think I'd benefit from breaking some sections out into their own jogs. I like the idea of using this place to be a record of what's top of mind, be it an idea, a quote, a YouTuber, etc. Basically, I imagine this being one of the fastest moving notes I maintain.
-
-
-
+#### #todo
+talk about how i'm coming to think about "stale notes" and how i'm cooming to see new notes as an outgrowth of a certain level and frequency of engagement around that particular topic*
 
 
 
@@ -83,13 +81,18 @@ Oh and some other tweaks:
 
 ## Reading
 #### Currently
-**[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn
-	↳ 24 October 2018 -
-A third of the way through and this is starting to open up for me. I like how he has begun to describe the models on which earlier scholars and archaeologists have built their understanding of human advancement. His critique of their static and climactic views for how, what [Wright thinks] can be seen more accurately as revolutionary changes that happened in evolutionary ways resonates.
+**[Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)** *by* [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)  
+↳ Dec 2018 -
 
+**[Freedom from the Known](https://en.wikipedia.org/wiki/Freedom_from_the_Known)** *by* [Jiddu Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti)
+↳ 3 January 2019 -
 
 
 #### Finished
+**[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn  
+↳ 24 October 2018 - *i don't remember when*  
+I appreciate *Non-Zero* for leading me to consider whether I think human advancement has some greater directionality or destiny. And Wright's conviction that our progress can best be understood as part of an "ongoing harmonization" certainly resonates. Might there be another pattern or end that better charts the arc of our progress, perhaps? But I'm left with a more fundamental question: do I  believe in a grander design?  
+
 **[Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)** *by* Dominique Foray      
 	↳ 2 October 2018 - 24 October 2018  
 
