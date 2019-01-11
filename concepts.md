@@ -3,31 +3,52 @@
 ...the kind that resonate.
 
 ## Accumulations
-+ [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology))  
+[habitus](https://en.wikipedia.org/wiki/Habitus_(sociology))  
 ↳  The ingrained habits, skills, and dispositions people use to perceive the social world around them and react to it.
-+ [Sensus communis/common sense](https://en.wikipedia.org/wiki/Common_sense)
+
+[Sensus communis/common sense](https://en.wikipedia.org/wiki/Common_sense)  
 ↳ *still figuring out what exactly this idea represents*
-+ [Cartesian Anxiety](https://en.wikipedia.org/wiki/Cartesian_anxiety)  
+
+[Cartesian Anxiety](https://en.wikipedia.org/wiki/Cartesian_anxiety)  
 ↳ "a hope that studying the world will give us unchangeable knowledge of ourselves and the world"
-+ [BookCrossing](https://en.wikipedia.org/wiki/BookCrossing): leaving books behind for others to find.
-+ [Shibboleth](https://en.wikipedia.org/wiki/Shibboleth): "...a choice of phrasing or even a single word, that distinguishes one group of people from another." via [Benjamin Reinhardt](http://benjaminreinhardt.com/)
-+ [Cunningham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#Ideas_and_inventions): "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."[
-+ [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law): "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
-+ [Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership): making your main priority to serve rather than lead.
-+ [Streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect): searching where it is easiest to look..
+
+[BookCrossing](https://en.wikipedia.org/wiki/BookCrossing)  
+↳ leaving books behind for others to find.
+
+[Shibboleth](https://en.wikipedia.org/wiki/Shibboleth)  
+↳ "...a choice of phrasing or even a single word, that distinguishes one group of people from another." via [Benjamin Reinhardt](http://benjaminreinhardt.com/)
+
+[Cunningham's Law](https://en.wikipedia.org/wiki/Ward_Cunningham#Ideas_and_inventions)  
+↳ "The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer."[
+
+[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)  
+↳ "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations."
+
+[Servant Leadership](https://en.wikipedia.org/wiki/Servant_leadership)  
+↳ making your main priority to serve rather than lead.
+
+[Streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)  
+↳ searching where it is easiest to look..
   > "A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, 'This is where the light is.'"
 
-+ [Hierarchy theory](https://en.wikipedia.org/wiki/Hierarchy_theory): a frame to understand ecosystems, their constitutent parts and the relationships between them.
+[Hierarchy theory](https://en.wikipedia.org/wiki/Hierarchy_theory)  
+↳ a frame to understand ecosystems, their constitutent parts and the relationships between them.
   + See: "[A summary of the principles of hierarchy theory](A SUMMARY OF THE PRINCIPLES OF HIERARCHY THEORY)"
   + Does Stewart Brand's "[Pace Layers](http://longnow.org/seminars/02015/jan/27/pace-layers-thinking/)" and Lawrence Halprin's [Sea Ranch Ecoscore](https://www.design.upenn.edu/architectural-archives/post/architectural-archives-receives-82000-grant) fit here?
 
-+ [Non-place](https://en.wikipedia.org/wiki/Non_place): transient spaces. Came across this in tonight's presentation about Sea Ranch in which the speaker
-+ [Positive](https://en.wikipedia.org/wiki/Positive_economics) and [normative economics](https://en.wikipedia.org/wiki/Normative_economics)
-  + See Milton Friedman's *[Essays in Positive Economics](https://en.wikipedia.org/wiki/Essays_in_Positive_Economics)*
-+ [inner sourcing](https://en.wikipedia.org/wiki/Inner_source)
-  + From Mako's [talk](https://www.youtube.com/watch?time_continue=203&v=vBknF2yUZZ8) at LibrePlanet 2018
-+ [Sign Value](https://en.wikipedia.org/wiki/Sign_value): something valued more for its prestige than its utility
-+ **Academic capitalism:** trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
+[Non-place](https://en.wikipedia.org/wiki/Non_place)  
+↳ Transient spaces. Came across this in tonight's presentation about Sea Ranch in which the speaker
+
+[Positive](https://en.wikipedia.org/wiki/Positive_economics) and [normative economics](https://en.wikipedia.org/wiki/Normative_economics)  
+↳ See Milton Friedman's *[Essays in Positive Economics](https://en.wikipedia.org/wiki/Essays_in_Positive_Economics)*
+
+[inner sourcing](https://en.wikipedia.org/wiki/Inner_source)  
+↳ From Mako's [talk](https://www.youtube.com/watch?time_continue=203&v=vBknF2yUZZ8) at LibrePlanet 2018
+
+[Sign Value](https://en.wikipedia.org/wiki/Sign_value)  
+↳ Something valued more for its prestige than its utility
+
+**Academic capitalism:** trend of colleges and universities to view knowledge creation as a profit-seeking activity (i.e. patent licensing)
   + See [Oxford Research Encyclopedia](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-15)
   + Related: [Bayh Dole Act of 1980](https://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act)
 +   [Afforestation](https://en.wikipedia.org/wiki/Afforestation)
