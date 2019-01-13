@@ -1,12 +1,12 @@
 ## Coffee
 
 ## Roasting
-*My next step is to experiment with mixing my own blends. As part of that, a lot of what I'm thinking about when I roast a single origin is what other flavors might compliment it.*
+*My next step is to experiment with mixing my own blends. As part of that, the primary questions I'm asking myself as I drink a cup of coffee (single origin) are: "What is the most prominent note? What would go well with this?"
 
-#### Roast log
-[roast tracking](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
+### Log
+[Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
 
-#### Roasting set up
+### Set up
 +  Roaster: [West Bend Poppery II](https://www.ebay.com/bhp/west-bend-poppery-ii)
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
 +  Cooling: two [sieves](https://en.wikipedia.org/wiki/Sieve) stored in the freezer (to shock the beans)
@@ -35,7 +35,7 @@ Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  Janua
 
 Pour over (unless otherwise noted).
 
-#### Set up
+### Set up
 
 +  Grinder: [Baratza Encore (Refurb)](https://www.google.com/search?q=baratza+encore+refurb&rlz=1C5CHFA_enUS704US704&oq=baratza+encore+refurb&aqs=chrome..69i57.4017j0j4&sourceid=chrome&ie=UTF-8)
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
