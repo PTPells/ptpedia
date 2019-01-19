@@ -3,14 +3,14 @@
 ...the kind that resonate.
 
 ## Accumulations
-[Efficiency movement](https://en.wikipedia.org/wiki/Efficiency_Movement)
+[Efficiency movement](https://en.wikipedia.org/wiki/Efficiency_Movement)  
 Movement beginning in early 20th century to identify and eliminate waste in society and the economy. [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) advocated this kind of thinking.
 
-[Metis](https://en.wikipedia.org/wiki/Metis_(mythology)
+[Metis](https://en.wikipedia.org/wiki/Metis_(mythology))
 + The mother of wisdom and deep thought
 + “Knowing how and when to apply the rules of thumb in a concrete situation is the essence of metis.” [James C. Scott](https://en.wikipedia.org/wiki/James_C._Scott)
 
-[Productivism](https://en.wikipedia.org/wiki/Productivism)]
+[Productivism](https://en.wikipedia.org/wiki/Productivism)  
 "More production is necessarily good"
 
 [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology))  
