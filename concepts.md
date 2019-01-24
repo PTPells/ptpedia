@@ -3,6 +3,10 @@
 ...the kind that resonate.
 
 ## Accumulations
+[Ichi-go ichi-e](https://en.wikipedia.org/wiki/Ichi-go_ichi-e)  
+"For this time only," "never again," or "one chance in a lifetime." ...the term reminds people to cherish any gathering that they may take part in, citing the fact that many meetings in life are not repeated (often applied to hospitality)
+
+
 [Efficiency movement](https://en.wikipedia.org/wiki/Efficiency_Movement)  
 Movement beginning in early 20th century to identify and eliminate waste in society and the economy. [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) advocated this kind of thinking.
 
