@@ -2,7 +2,7 @@
 
 ## Meta
 #### #todo
-talk about how i'm coming to think about "stale notes" and how i'm cooming to see new notes as an outgrowth of a certain level and frequency of engagement around that particular topic*
+*talk about how i'm coming to think about "stale notes" and how i'm cooming to see new notes as an outgrowth of a certain level and frequency of engagement around that particular topic*
 
 
 
@@ -81,14 +81,18 @@ Oh and some other tweaks:
 
 ## Reading
 #### Currently
-**[Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)** *by* [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)  
-↳ Dec 2018 -
-
-**[Freedom from the Known](https://en.wikipedia.org/wiki/Freedom_from_the_Known)** *by* [Jiddu Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti)
-↳ 3 January 2019 -
+**[The Image of the City](https://en.wikipedia.org/wiki/The_Image_of_the_City)** *by* [Kevin A. Lynch](https://en.wikipedia.org/wiki/Kevin_A._Lynch)  
+↳ 21 Jan - ## mmm 2019
 
 
 #### Finished
+**[Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)** *by* [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan)  
+↳ Dec 2018 - 17 January 2019
+
+**[Freedom from the Known](https://en.wikipedia.org/wiki/Freedom_from_the_Known)** *by* [Jiddu Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti)
+↳ 3 - 16 January 2019
+
+
 **[Nonzero](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)** *by* [Robert Wright](https://en.wikipedia.org/wiki/Robert_Wright_(journalist)) recommended by Danny Horn  
 ↳ 24 October 2018 - *i don't remember when*  
 I appreciate *Non-Zero* for leading me to consider whether I think human advancement has some greater directionality or destiny. And Wright's conviction that our progress can best be understood as part of an "ongoing harmonization" certainly resonates. Might there be another pattern or end that better charts the arc of our progress, perhaps? But I'm left with a more fundamental question: do I  believe in a grander design?  
