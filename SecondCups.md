@@ -19,6 +19,7 @@
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
 |:---- | :---- | :---- | :---- | :---- |:----|  
+XELA Coffee Roasters| single origin | Honduras | Alto de Los Santos (farm) | 30 Nov 2019 | Smell: sweet and fruity; Body: medium and substantial (good for the morning); Taste: blueberry-like sweetness that finishes with the richness of carmel
 [Heart Coffee](https://www.heartroasters.com) | single origin | Kenya | Kiambu | 7 Oct 2019 |Wonderful medium body (great for a morning cup) with a grapefruit-like finish
 Home roasted | Single origin | San Jose de Lourdes, Peru | Caserio Buenos Aires | 14 Sep 2019 | Starts off bright and juicy, like biting into an apple and then gradually slides into a rich, but not too rich, dark chocolate, medium-bodied coffee
 [Café Villarías](https://cafevillarias.com) | blend (caracolillo + planchuela beans) | Chiapas, Mexico | Mezcla de la casa | 4 May 2019 | This is what I've come to want and expect from a breakfast coffee: a kind of body that weighs in my mouth just enough to appreciate it, notes that are clear (in this case dark chocolate) and knowable enough that I have the language/a framework/a place to start thinking more about it. There are also other things going on (maybe a bit of smokiness?) that create enough curiosity for me to look forward to tomorrow morning's cup to see what else unravels.|
