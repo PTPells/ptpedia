@@ -1,21 +1,8 @@
-## Coffee
-
-## Roasting
-*My next step is to experiment with mixing my own blends. As part of that, the primary questions I'm asking myself as I drink a cup of coffee (single origin) are: "What is the most prominent note? What would go well with this?"
-
-### Log
-[Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
-
-### Set up
-+  Roaster: [West Bend Poppery II](https://www.ebay.com/bhp/west-bend-poppery-ii)
-+  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
-+  Cooling: two [sieves](https://en.wikipedia.org/wiki/Sieve) stored in the freezer (to shock the beans)
+# Coffee
 
 
-## Drinking
+## Tasting
 *A living list of coffees that, after having the first cup, I wanted another.*
-
-
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
 |:---- | :---- | :---- | :---- | :---- |:----|  
@@ -37,15 +24,7 @@ Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  Janua
 
 `*Favorite coffee at the moment`
 
-
-#### Journal
-i wonder if taste can have speed. speed as in body (light = fast; heavy = slow). speed as in tasting notes (do the flavors reveal themselves immediately upfront? do the flavors change/unravel as the coffee sits in your mouth? are they flavors you want to keep in your mouth for a while? chocolate, for example, is something i enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.)
-
-and if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
-
-
-
-#### Brewing method
+## Brewing method
 
 Pour over (unless otherwise noted).
 
@@ -56,3 +35,23 @@ Pour over (unless otherwise noted).
 +  Dripper: [Hario, V60 Glass Dripper, Size 02](https://www.amazon.com/Hario-Glass-Coffee-Dripper-Black/dp/B002VUSWGQ)
 +  Filters: [Hario V60 Paper Coffee Filters, Size 02, Natural](https://www.amazon.com/Hario-Paper-Coffee-Filters-Natural/dp/B001O0R46I/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1532415935&sr=1-1&keywords=Hario+V60+Paper+Coffee+Filters%2C+Size+02%2C+Natural)
 +  Kettle: [Bonavita BV382510V 1.0L Digital Variable Temperature Gooseneck Kettle](https://www.amazon.com/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/ref=sr_1_3?s=home-garden&ie=UTF8&qid=1532416002&sr=1-3&keywords=electric+kettle+bonavita)
+
+## Roasting
+### Log
+[Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
+
+### Set up
++  Roaster: [Fresh Roast SR 340](https://www.roastmasters.com/freshroast-sr340.html)
++  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
++  Cooling: the Fresh Roast SR 340 built-in cooling cycle.
+
+
+## Notes
+#### Equipment
+**Fresh Roast SR 340**
+- I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
+
+#### Tasting
+I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.  
+
+And if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
