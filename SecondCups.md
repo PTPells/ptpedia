@@ -6,7 +6,7 @@
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
 |:---- | :---- | :---- | :---- | :---- |:----|  
-Home roasted batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB | A balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
+Home roasted batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB |5-Apr-2020 | After three roasts, I think I've got this bean dialed. It's a balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
 XELA Coffee Roasters| single origin | Honduras | Alto de Los Santos (farm) | 30 Nov 2019 | Smell: sweet and fruity; Body: medium and substantial (good for the morning); Taste: blueberry-like sweetness that finishes with the richness of carmel
 [Heart Coffee](https://www.heartroasters.com) | single origin | Kenya | Kiambu | 7 Oct 2019 |Wonderful medium body (great for a morning cup) with a grapefruit-like finish
 Home roasted | Single origin | San Jose de Lourdes, Peru | Caserio Buenos Aires | 14 Sep 2019 | Starts off bright and juicy, like biting into an apple and then gradually slides into a rich, but not too rich, dark chocolate, medium-bodied coffee
