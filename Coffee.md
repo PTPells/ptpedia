@@ -5,8 +5,13 @@
 *A living list of coffees that, after having the first cup, I wanted another.*
 
 **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes**
+<<<<<<< HEAD
 |:---- | :---- | :---- | :---- | :---- |:----|
 Home roaste batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB |5-Apr-2020 | After three roasts, I think I've got this bean dialed. It's a balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
+=======
+|:---- | :---- | :---- | :---- | :---- |:----|  
+Home roasted batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB |5-Apr-2020 | After three roasts, I think I've got this bean dialed. It's a balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
+>>>>>>> 3e271109a9d45f626777f222a861fc5f31d5b01e
 XELA Coffee Roasters| single origin | Honduras | Alto de Los Santos (farm) | 30 Nov 2019 | Smell: sweet and fruity; Body: medium and substantial (good for the morning); Taste: blueberry-like sweetness that finishes with the richness of carmel
 [Heart Coffee](https://www.heartroasters.com) | single origin | Kenya | Kiambu | 7 Oct 2019 |Wonderful medium body (great for a morning cup) with a grapefruit-like finish
 Home roasted | Single origin | San Jose de Lourdes, Peru | Caserio Buenos Aires | 14 Sep 2019 | Starts off bright and juicy, like biting into an apple and then gradually slides into a rich, but not too rich, dark chocolate, medium-bodied coffee
@@ -53,6 +58,10 @@ Pour over (unless otherwise noted).
 - I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
 
 #### Tasting
+<<<<<<< HEAD
 I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.
+=======
+I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.  
+>>>>>>> 3e271109a9d45f626777f222a861fc5f31d5b01e
 
 And if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
