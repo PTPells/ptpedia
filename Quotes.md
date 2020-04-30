@@ -130,3 +130,31 @@
 
 **Robert Greene** [*Mastery*](https://www.worldcat.org/title/mastery/oclc/779263539)
   > If we feel like we know something, our minds close off to other possibilities. We see reflections of the truth we’ve already assumed. Such feeling of superiority are often unconscious and stem from a fear of what is different or unknown.
+
+**Andrew L. Shaprio** [*Freedom from Speech*](http://motspluriels.arts.uwa.edu.au/MP1801as.html#bev)
+  > Though the Net empowers us as speakers, it empowers us as listeners even more. We need never be "captives" subject to speech we don't want to hear.
+
+
+**William Gibson**
+> Today, there’s no specific need for a mechanical watch, unless you’re worried about timekeeping in the wake of an Electromagnetic Pulse attack. So we have heritage devices, increasingly archaic in the singularity of their function, their lack of connectivity. But it was exactly that lack that once made them heroic: they kept telling accurate time, regardless of what was going on around them. They were accurate because they were unconnected, unitary.
+
+**Michell de Certeau** [*The Practice of Everyday Life*](https://www.worldcat.org/title/practice-of-everyday-life/oclc/794663703)
+  > Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance whole giving the impression of ‘keeping it’.
+
+**William Coperthwaite** [*A handmade life : in search of simplicity*](https://www.worldcat.org/title/handmade-life-in-search-of-simplicity/oclc/51983375)
+  > "Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'"
+
+**Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
+  > We get to the point where we cannot describe our impression of an object without treating it as a living thing with its own physiognomy. For even the most precise description, enumerating all visible characteristics, will not give an inkling what we feel is the essence of the thing itself. Just as we do not notice the individual letters in a word but receive a total impression of the idea the word conveys, we generally are not aware of what it is that we perceive but only of the conception created in our minds when we perceive it.
+
+**Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief_results)
+  > Eventually I decided to give my thoughts a form, to put them into practice, and so to determine whether my understanding was right or wrong.
+
+**Rick Prelinger** [*On the Virtues of Preexisting Material*](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
+  > We’re often too quick to imagine that we’ve actually learned from the past. But new works often tend to recycle the same ideas over and over again into different media. To me this suggests that we might be more open to letting old works speak, that our task might not be so much to make new works but to build new platforms for old works to speak from.
+
+**Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
+  > In good architecture, consciously designed, the small room appears small, the large room large, and instead of disguising this it should be emphasized by the judicious use of color.
+
+**Why the Lucky Stiff**
+  > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
