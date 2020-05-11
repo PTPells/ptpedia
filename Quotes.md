@@ -158,3 +158,19 @@
 
 **Why the Lucky Stiff**
   > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
+
+**Arthur Ashe**
+> Start where you are. Use what you have. Do what you can.
+
+**Donald Judd**
+> Usually when someone says a thing is too simple, they're
+saying that certain familiar things aren't there, and they're seeing a couple maybe that are left, which they count as a couple, that's all.
+
+**Bret Victor**
+> One's ability to articulate an idea always lags behind the understanding of the idea, and the understanding of an idea often lags behind the embodiment in which it is first given life. It can take a surprising amount of time to come to understand what a prototype is trying to "say", and longer still to say it oneself.
+
+**Italo Calvino**
+> I could tell you how many steps make up the streets rising like stairways, and the degree of the arcades' curves, and what kind of zinc scales cover the roofs; but I already know this would be the same as telling you nothing. The city does not consist of this, but of relationships between the measurements of its space and the events of its past.
+
+**Yaneer Bar-Yam**
+> In order to survived, the organism behavior must reflect in some way the nature of the environment.
