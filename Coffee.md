@@ -56,6 +56,4 @@ Pour over (unless otherwise noted).
 #### Tasting
 I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.
 
-I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.
-
 And if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
