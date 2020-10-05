@@ -1,13 +1,13 @@
 # Coffee
 
 
-## Tasting
-*A living list of coffees that, after having the first cup, I wanted another.*
+## Tasting log
 
-| **Roaster** | **Type** | **Origin** | **Name/Region** | **First Cup** | **Notes** | **Brew method** | **Process** |
+**Brew log**
+| **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
+| Counter Culture | Belnd |  50% [Urcunina, Colombia](Urcunina, Colombia) / 50% Golondrina, Colombia | - | 27-Sep-2020 | "Sturdy" is the first adjective that comes to mind when I think about this coffee: the flavors were a bit blunt (dark Chocolate with a bit of a sweetness at the end) delivered in a well-balanced medium bodied cup. I could see this coffee being enjoyable to drink outside on a camping trip. Think: emerging from your tent, breath visible...both of your hands cradle the cup to extract some warmth.   | V60| Washed Process|
 | Maru Coffee* | Single origin |  [Agaro, Ethiopia](https://en.wikipedia.org/wiki/Agaro) | Nano Genji (grower) | 23-May-2020 | Rich! It has a coconut oil-like richness/fattiness to it that coats my mouth and finishes with an upward, dark chocolate-like sweetness. Not like the more floral, thinner Ethiopian coffees I've had before...yum.  | Aeropress (inverted, 1m30s steep; 207° F) | Organic Washed Process|
-| Maru Coffee | Single origin | Oporapa, Colombia | Raphael Amaya (grower) | 16-May-2020 | The first thing I notice is this coffee's bite/tartness. I take a sip and within the next few seconds I notice the outter edges of the back of my tongue starting to activite, in a way that reminds of me biting into a green apple or taking a sip of good lemonade. As this seconds pass, that initial tartness mellows out and turns into a berry-like sweetness (maybe strawberry?). Wonderful body. Clean finish.  | Aeropress | Natural process |
 | Andytown | Blend | | "Wind and Sea" | 25-April-2020 | Wonderfully balanced; creamy in the mouth and a bit tangy in a Strauss yogurt kind of way...need to try this one again! | Japanese-style iced coffee |
 | Home roaste batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB |5-Apr-2020 | After three roasts, I think I've got this bean dialed. It's a balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
 |XELA Coffee Roasters| single origin | Honduras | Alto de Los Santos (farm) | 30 Nov 2019 | Smell: sweet and fruity; Body: medium and substantial (good for the morning); Taste: blueberry-like sweetness that finishes with the richness of carmel
@@ -28,11 +28,27 @@
 
 `*Favorite coffee at the moment`
 
-## Brewing method
+**Resources**
+-
 
-Pour over (unless otherwise noted).
+## Brewing
 
-### Set up
+### V60
++ Meta
+  + Ratio (water:coffee): 15:1
+  + Grind size: 17 (Baratz Encore)
++ Process
+  + *#TODO*
+
+### Aeroporess
+  + Meta
+    + Ratio (water:coffee): 14:1
+    + Grind size: 17 (Baratz Encore)
+    + Method: inverted
+  + Process
+    + *#TODO*
+
+### Tools
 
 +  Grinder: [Baratza Encore (Refurb)](https://www.google.com/search?q=baratza+encore+refurb&rlz=1C5CHFA_enUS704US704&oq=baratza+encore+refurb&aqs=chrome..69i57.4017j0j4&sourceid=chrome&ie=UTF-8)
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
@@ -43,19 +59,25 @@ Pour over (unless otherwise noted).
 ## Roasting
 [Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
 
-### Set up
+### Tools
 +  Roaster: [Fresh Roast SR 340](https://www.roastmasters.com/freshroast-sr340.html)
-+  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8)
+  + I'd like to figure out a way to vent the exhaust outside. In our previous apartment, I'd use the vent over the range or use a cantilevered platform to position the roaster outside. In our current apartment, the window screens are a bit of a paint to remove and the range doesn't have any kind of ventilation system.
+  + I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
++  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8); modified to eliminate the beeping sound (*see [instructions](https://web.archive.org/save/https://www.reddit.com/r/AskEngineers/comments/3u9rfu/cutting_trace_on_pcb_am_i_in_the_right_spot/)*).
+  + A great starter scale.
+  + I'm making more cold brew these days which mean making larger volume poors, more quickly. It's in these cases wehre I've noticed the scale's slow response time to be problematic. 
 +  Cooling: the Fresh Roast SR 340 built-in cooling cycle.
 
 
 ## Notes
 
-#### Equipment
+### Meta
+  + 4-October: To become more practiced at tasting, I'm broadening the scope of the tasting table to include any coffee I try.
+
+### Equipment
 **Fresh Roast SR 340**
-- I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
 
-#### Tasting
-I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can.
 
-And if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
+### Tasting
+
++ I wonder if taste can have speed. Speed as in body (light = fast; heavy = slow). Speed as in tasting notes: *Do the flavors reveal themselves immediately upfront? Do the flavors change/unravel as the coffee sits in your mouth? Are they flavors you want to keep in your mouth for a while?* Chocolate, for example, is something I enjoy letting melt in my mouth, wanting to savor the small bite for as long as i can. And if there is something to tastes having "speed" – are there certain foods I prefer at different times because of how quickly or slowly they "eat" or "drink"? is there anything to preferring slower coffees in the morning? coffees that lead me to slow down, savor and appreciate?
