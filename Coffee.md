@@ -36,14 +36,14 @@
 ### V60
 + Meta
   + Ratio (water:coffee): 15:1
-  + Grind size: 17 (Baratz Encore)
+  + Grind size: 17 (Baratza Encore)
 + Process
   + *#TODO*
 
 ### Aeroporess
   + Meta
     + Ratio (water:coffee): 14:1
-    + Grind size: 17 (Baratz Encore)
+    + Grind size: 17 (Baratza Encore)
     + Method: inverted
   + Process
     + *#TODO*
@@ -61,11 +61,11 @@
 
 ### Tools
 +  Roaster: [Fresh Roast SR 340](https://www.roastmasters.com/freshroast-sr340.html)
-  + I'd like to figure out a way to vent the exhaust outside. In our previous apartment, I'd use the vent over the range or use a cantilevered platform to position the roaster outside. In our current apartment, the window screens are a bit of a paint to remove and the range doesn't have any kind of ventilation system.
-  + I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
+    + I'd like to figure out a way to vent the exhaust outside. In our previous apartment, I'd use the vent over the range or use a cantilevered platform to position the roaster outside. In our current apartment, the window screens are a bit of a pain to remove and the range doesn't have a ventilation system.
+    + I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
 +  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8); modified to eliminate the beeping sound (*see [instructions](https://web.archive.org/save/https://www.reddit.com/r/AskEngineers/comments/3u9rfu/cutting_trace_on_pcb_am_i_in_the_right_spot/)*).
-  + A great starter scale.
-  + I'm making more cold brew these days which mean making larger volume poors, more quickly. It's in these cases wehre I've noticed the scale's slow response time to be problematic. 
+    + A great starter scale.
+    + I'm making more cold brew these days which means making larger volume poors more quickly. It's in these cases where I've noticed the scale's slow response time to be problematic.
 +  Cooling: the Fresh Roast SR 340 built-in cooling cycle.
 
 
