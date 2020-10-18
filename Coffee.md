@@ -57,7 +57,7 @@
 +  Kettle: [Bonavita BV382510V 1.0L Digital Variable Temperature Gooseneck Kettle](https://www.amazon.com/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/ref=sr_1_3?s=home-garden&ie=UTF8&qid=1532416002&sr=1-3&keywords=electric+kettle+bonavita)
 
 ### Set up
-![Coffee cart](/ptpedia/assets/coffee-cart-labeled.pngÂ)
+![Coffee cart](https://github.com/PTPells/ptpedia/blob/master/assets/coffee-cart-labeled.png)
 
 ## Roasting
 [Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
