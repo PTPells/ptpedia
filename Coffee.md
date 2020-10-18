@@ -2,11 +2,11 @@
 
 
 ## Tasting log
-
-**Brew log**
 | **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
-| Counter Culture | Belnd |  50% [Urcunina, Colombia](Urcunina, Colombia) / 50% Golondrina, Colombia | - | 27-Sep-2020 | "Sturdy" is the first adjective that comes to mind when I think about this coffee: the flavors were a bit blunt (dark Chocolate with a bit of a sweetness at the end) delivered in a well-balanced medium bodied cup. I could see this coffee being enjoyable to drink outside on a camping trip. Think: emerging from your tent, breath visible...both of your hands cradle the cup to extract some warmth.   | V60| Washed Process|
+|[Kahawa 1893 ](https://kahawa1893.com/) | Single Origin | Ethiopia | Guji | 17-Oct-2020 | Blueberry-like sweetness that turns into a tartness I associated with plums in the aftertaste. A good once-in-a-while kind of coffee.| V60| Natural process|
+| Blue Bottle | Single Origin | Papua New Guinea | *Not sure*  | 11-Oct-2020 | Earthy and comforting, with a bit of nectarine in the finish. Silky and well-balanced, this is a wonderul morning coffee to me. It's the kind of coffee with complexity that will unravel itself over many cups without a single overpowering note that am likely tire of. | V60| *Not sure*|
+| Counter Culture | Blend |  50% [Urcunina, Colombia](Urcunina, Colombia) / 50% Golondrina, Colombia | - | 27-Sep-2020 | "Sturdy" is the first adjective that comes to mind when I think about this coffee: the flavors were a bit blunt (dark Chocolate with a bit of a sweetness at the end) delivered in a well-balanced medium bodied cup. This coffee felt big to me. "Big" in so far as it's a blend that's been constructed to appeal to a large audience by way of "sanding" off the complex edges.  | V60| Washed Process|
 | Maru Coffee* | Single origin |  [Agaro, Ethiopia](https://en.wikipedia.org/wiki/Agaro) | Nano Genji (grower) | 23-May-2020 | Rich! It has a coconut oil-like richness/fattiness to it that coats my mouth and finishes with an upward, dark chocolate-like sweetness. Not like the more floral, thinner Ethiopian coffees I've had before...yum.  | Aeropress (inverted, 1m30s steep; 207° F) | Organic Washed Process|
 | Andytown | Blend | | "Wind and Sea" | 25-April-2020 | Wonderfully balanced; creamy in the mouth and a bit tangy in a Strauss yogurt kind of way...need to try this one again! | Japanese-style iced coffee |
 | Home roaste batch [#81](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0) | single origin | Kenya | Othaya Gura AB |5-Apr-2020 | After three roasts, I think I've got this bean dialed. It's a balanced cup with a rich and smooth body that reminds me of coconut oil. The sourness/sweetness of the cup is enough to be noticeable without being overpowering...reminds me of a green apple without its skin.
@@ -55,6 +55,9 @@
 +  Dripper: [Hario, V60 Glass Dripper, Size 02](https://www.amazon.com/Hario-Glass-Coffee-Dripper-Black/dp/B002VUSWGQ)
 +  Filters: [Hario V60 Paper Coffee Filters, Size 02, Natural](https://www.amazon.com/Hario-Paper-Coffee-Filters-Natural/dp/B001O0R46I/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1532415935&sr=1-1&keywords=Hario+V60+Paper+Coffee+Filters%2C+Size+02%2C+Natural)
 +  Kettle: [Bonavita BV382510V 1.0L Digital Variable Temperature Gooseneck Kettle](https://www.amazon.com/Bonavita-BV382510V-Variable-Temperature-Gooseneck/dp/B005YR0F40/ref=sr_1_3?s=home-garden&ie=UTF8&qid=1532416002&sr=1-3&keywords=electric+kettle+bonavita)
+
+### Set up
+![Coffee cart](/ptpedia/assets/coffee-cart-labeled.pngÂ)
 
 ## Roasting
 [Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
