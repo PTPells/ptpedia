@@ -1,10 +1,12 @@
 # Coffee
 
 
-## Tasting log
+## Tasting
+
+#### Log
 | **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
-|[Timeless Coffee Roasters ](https://timelesscoffee.com/timeless) | Single Origin | Ethiopia | [Agaro Gera](https://en.wikipedia.org/wiki/Agaro) | 15-Nov-2020 | A juicy start that mellows into peach-like sweetness. Medium-bodied. A solid cup, tho not memorable.|Aeropress (inverted)|Washed 
+|[Timeless Coffee Roasters ](https://timelesscoffee.com/timeless) | Single Origin | Ethiopia | [Agaro Gera](https://en.wikipedia.org/wiki/Agaro) | 15-Nov-2020 | A juicy start that mellows into peach-like sweetness. Medium-bodied. A solid cup, tho not memorable.|Aeropress (inverted)|Washed
 |[Kahawa 1893 ](https://kahawa1893.com/) | Single Origin | Ethiopia | Guji | 17-Oct-2020 | Blueberry-like sweetness that turns into a tartness I associated with plums in the aftertaste. A good once-in-a-while kind of coffee.| V60| Natural process|
 | Blue Bottle | Single Origin | Papua New Guinea | *Not sure*  | 11-Oct-2020 | Earthy and comforting, with a bit of nectarine in the finish. Silky and well-balanced, this is a wonderul morning coffee to me. It's the kind of coffee with complexity that will unravel itself over many cups without a single overpowering note that am likely tire of. | V60| *Not sure*|
 | Counter Culture | Blend |  50% [Urcunina, Colombia](Urcunina, Colombia) / 50% Golondrina, Colombia | - | 27-Sep-2020 | "Sturdy" is the first adjective that comes to mind when I think about this coffee: the flavors were a bit blunt (dark Chocolate with a bit of a sweetness at the end) delivered in a well-balanced medium bodied cup. This coffee felt big to me. "Big" in so far as it's a blend that's been constructed to appeal to a large audience by way of "sanding" off the complex edges.  | V60| Washed Process|
@@ -29,8 +31,29 @@
 
 `*Favorite coffee at the moment`
 
-**Resources**
--
+#### Framework
+Things I've foundh helpful to remember:
+- First, think about whether the different "Tasting vectors" sum/work together.
+- Second, work to understand the factors contributing to how the coffee tastes/feels.
+
+Tasting vectors
+- _Flavor and aftertaste_: how it tastes; the flavors that stand out.
+- _Acidity_: the bright, tangy, fruity, or wine-like flavor characteristics.
+- _Body_: the physical mouthfeel and texture of a coffee. The amount of oils extracted from the coffee contribute to its "thickness." This cna range from thin and watery to thick and creamy.
+- _Balance_: how well the coffee's aroma, flavor, aftertaste, and body sum together.
+
+
+## Roasting
+[Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
+
+### Tools
++  Roaster: [Fresh Roast SR 340](https://www.roastmasters.com/freshroast-sr340.html)
+    + I'd like to figure out a way to vent the exhaust outside. In our previous apartment, I'd use the vent over the range or use a cantilevered platform to position the roaster outside. In our current apartment, the window screens are a bit of a pain to remove and the range doesn't have a ventilation system.
+    + I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
++  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8); modified to eliminate the beeping sound (*see [instructions](https://web.archive.org/save/https://www.reddit.com/r/AskEngineers/comments/3u9rfu/cutting_trace_on_pcb_am_i_in_the_right_spot/)*).
+    + A great starter scale.
+    + I'm making more cold brew these days which means making larger volume poors more quickly. It's in these cases where I've noticed the scale's slow response time to be problematic.
++  Cooling: the Fresh Roast SR 340 built-in cooling cycle.
 
 ## Brewing
 
@@ -59,18 +82,6 @@
 
 ### Set up
 ![Coffee cart](https://github.com/PTPells/ptpedia/blob/master/assets/coffee-cart-labeled.png)
-
-## Roasting
-[Roast tracking log](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit?usp=sharing)
-
-### Tools
-+  Roaster: [Fresh Roast SR 340](https://www.roastmasters.com/freshroast-sr340.html)
-    + I'd like to figure out a way to vent the exhaust outside. In our previous apartment, I'd use the vent over the range or use a cantilevered platform to position the roaster outside. In our current apartment, the window screens are a bit of a pain to remove and the range doesn't have a ventilation system.
-    + I value the built-in cooling cycle. It brings the beans down from temperature quickly. This has helped me be more precise with roasts as I no longer need to consider how the beans continue to roast once the roaster's power cuts off.
-+  Scale: [Jennings CJ-4000 Compact Digital Weigh Scale 4000g x 0.5g](https://www.amazon.com/Jennings-CJ-4000-Compact-Digital-Adapter/dp/B004C3CAB8); modified to eliminate the beeping sound (*see [instructions](https://web.archive.org/save/https://www.reddit.com/r/AskEngineers/comments/3u9rfu/cutting_trace_on_pcb_am_i_in_the_right_spot/)*).
-    + A great starter scale.
-    + I'm making more cold brew these days which means making larger volume poors more quickly. It's in these cases where I've noticed the scale's slow response time to be problematic.
-+  Cooling: the Fresh Roast SR 340 built-in cooling cycle.
 
 
 ## Notes
