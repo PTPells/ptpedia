@@ -6,6 +6,7 @@
 #### Log
 | **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
+|[States coffee ](http://www.statescoffee.com/) | Single Origin | Kenya (Gatomboya)|19-Dec-2020|Bright and balanced. I'm getting orangey notes that, on the spectrum of tart <---> sweeet, are pleasantly closer to "tart." A fun morning coffee. | V60|Washed.
 |[States coffee ](http://www.statescoffee.com/) | Single Origin | Guatemala/[Bourbon](https://en.wikipedia.org/wiki/Bourbon_coffee)/Caturra/[Catuai](https://perfectdailygrind.com/2020/04/exploring-the-catuai-coffee-variety/)/Pache *[#TODO: understand what all of these mean]* | [Agaro Gera](https://en.wikipedia.org/wiki/Agaro) | 5-Dec-2020 | A good cold morning coffee: well-balanced, good [medium] body with tasting notes of almond and nougat. Smooth and enjoyable. I'll be trying another one of their coffees. |V60|Washed
 |[Timeless Coffee Roasters ](https://timelesscoffee.com/timeless) | Single Origin | Ethiopia | [Agaro Gera](https://en.wikipedia.org/wiki/Agaro) | 15-Nov-2020 | A juicy start that mellows into peach-like sweetness. Medium-bodied. A solid cup, tho not memorable.|Aeropress (inverted)|Washed
 |[Kahawa 1893 ](https://kahawa1893.com/) | Single Origin | Ethiopia | Guji | 17-Oct-2020 | Blueberry-like sweetness that turns into a tartness I associated with plums in the aftertaste. A good once-in-a-while kind of coffee.| V60| Natural process|
