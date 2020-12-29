@@ -6,7 +6,7 @@
 #### Log
 | **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
-|[Sightglass](https://sightglasscoffee.com) | Blend |East Africa and South America|"Winter Solstice"||29-Dec-2020|Nutty and tart. A bit thinner than I typically like in a moring coffee.|V60|*Not specified*
+|[Sightglass](https://sightglasscoffee.com) | Blend |East Africa and South America|"Winter Solstice"|29-Dec-2020|Nutty and tart. A bit thinner than I typically like in a moring coffee.|V60|*Not specified*
 |[States coffee ](http://www.statescoffee.com/) | Blend |*Not specified*|"Heart + Soul"|29-Dec-2020|A dark cherry-like sweetness in a smooth fully bodied coffee. Great. |V60|Washed and natural varietals.
 |[States coffee ](http://www.statescoffee.com/) | Single Origin | Kenya|Gatomboya|19-Dec-2020|Bright and balanced. I'm getting orangey notes that, on the spectrum of tart <---> sweeet, are pleasantly closer to "tart." A fun morning coffee. | V60|Washed.
 |[States coffee ](http://www.statescoffee.com/) | Single Origin | Guatemala/[Bourbon](https://en.wikipedia.org/wiki/Bourbon_coffee)/Caturra/[Catuai](https://perfectdailygrind.com/2020/04/exploring-the-catuai-coffee-variety/)/Pache *[#TODO: understand what all of these mean]* | [Agaro Gera](https://en.wikipedia.org/wiki/Agaro) | 5-Dec-2020 | A good cold morning coffee: well-balanced, good [medium] body with tasting notes of almond and nougat. Smooth and enjoyable. I'll be trying another one of their coffees. |V60|Washed
