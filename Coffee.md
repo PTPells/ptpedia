@@ -4,9 +4,9 @@
 ## Tasting
 
 #### Log
-| **Roaster** | **Type** | **Origin** | **Name/Region** | **Drink date** | **Notes** | **Brew method** | **Process** |
+| **Roaster** | **Type** | **Region** | **Varietal** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
-|[My Coffee](https://mycoffeeroastery.com) | Single origin |Guatemala |Huehuetenango |31-Jan-2021|Medium body that holds a set of a complex/difficult-to-decipher earthy tones that mellow out into a dark chocoloate-like sweetness/tartness that makes me salivate after swallowing. Yum.|V60|*Not specified*
+|[Hedge Coffee](https://hedge.coffee/) | Single origin |Bella Vista, Chiapas, Mexico |Bourboun, Caturra, and Catimor |6-Feb-2021|Medium body that holds a set of a complex/difficult-to-decipher earthy tones that mellow out into a dark chocoloate-like sweetness/tartness that makes me salivate after swallowing. Yum.|V60|Washed.
 |[Sightglass](https://sightglasscoffee.com) | Blend |East Africa and South America|"Winter Solstice"|29-Dec-2020|Nutty and tart. A bit thinner than I typically like in a moring coffee.|V60|*Not specified*
 |[States coffee ](http://www.statescoffee.com/) | Blend |*Not specified*|"Heart + Soul"|29-Dec-2020|A dark cherry-like sweetness in a smooth fully bodied coffee. Great. |V60|Washed and natural varietals.
 |[States coffee ](http://www.statescoffee.com/) | Single Origin | Kenya|Gatomboya|19-Dec-2020|Bright and balanced. I'm getting orangey notes that, on the spectrum of tart <---> sweeet, are pleasantly closer to "tart." A fun morning coffee. | V60|Washed.
