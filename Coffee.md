@@ -68,7 +68,14 @@ Tasting vectors
   + Ratio (water:coffee): 15:1
   + Grind size: 17 (Baratza Encore)
 + Process
-  + *#TODO*
+    + _Pre-Pour_ 
+        + Pour grounds into filter
+        + Flatten ground bed
+        + Create a small well in the ground bed (I use the stem/handle of a slender cyllindircal spoon)
+    + _First pour_
+        +  Pour 2x the weight of coffee in water over the grounds. Start by pouring into the well you formed and then move outwards in concentric circles
+        +   #TODO
+
 
 ### Aeroporess
   + Meta
@@ -76,7 +83,6 @@ Tasting vectors
     + Grind size: 17 (Baratza Encore)
     + Method: inverted
   + Process
-    + *#TODO*
 
 ### Tools
 
