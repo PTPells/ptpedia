@@ -6,6 +6,7 @@
 #### Log
 | **Roaster** | **Type** | **Region** | **Varietal** | **Drink date** | **Notes** | **Brew method** | **Process** |
 |:---- | :---- | :---- | :---- | :---- |:----| :----| :----|
+|[Docecuarenta](https://docecuarenta.com/)|Single origin|[Xico,_Veracruz, Mexico](https://en.wikipedia.org/wiki/Xico,_Veracruz)|Micro-Beneficio La Joya|10 October 2021|A pronounced tropical fruit-like sweetness with a toasty finish. |V60|Natural
 |[Docecuarenta](https://docecuarenta.com/)|Single origin|Santa María Yucuhiti, Oaxaca, Mexico|Guadalupe Miramar|10 October 2021|Yummy notes of molasses in a blanced, creamy body. *Note: the molasses notes almost reminds me of those delicious, sugar-hardended raisisns I would sometimes find on the tops of sticky buns.*|V60|Natural
 |[Passenger Coffee](https://www.passengercoffee.com/) | Single origin |Burundi, Africa |Red Bourbon, Mibirizi |24-July-2021|It finishes in a satisfyingly clean way while its complexity brings me back for more sips to try to figure it out. So far, I’ve gotten a plummy sweetness in and a milk chocolatey rich medium body. |[cold brew](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=1060292102)|Wet process
 |[Hedge Coffee](https://hedge.coffee/) | Single origin |Bella Vista, Chiapas, Mexico |Bourboun, Caturra, and Catimor |6-Feb-2021|Medium body that holds a set of a complex/difficult-to-decipher earthy tones that mellow out into a dark chocoloate-like sweetness/tartness that makes me salivate after swallowing. Yum.|V60|Washed.
