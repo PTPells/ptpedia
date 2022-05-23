@@ -72,13 +72,26 @@ Tasting vectors
   + Ratio (water:coffee): 15:1
   + Grind size: 17 (Baratza Encore)
 + Process
-    + _Pre-Pour_ 
-        + Pour grounds into filter
-        + Flatten ground bed
-        + Create a small well in the ground bed (I use the stem/handle of a slender cyllindircal spoon)
+    + _Pre-Pour: Readying the coffee beans_ 
+        1. Start heating up water 
+        2. Determine the number of cups of coffee you want to make
+        3. Multiply the number of cups you determined in "Step 1" by 20. _This number will become the weight of coffee you will end up grinding and brewing._
+        4. Weigh out _insert number from "Step 2"_ grams of coffee
+        5. Grind coffee. _I've found success with adjusting the grinder such that it outputs fines that are around the size of table salt granules_
+        6. Put the V60 on top of the container/caraffe the coffee will drip into
+        7. Place the coffe filter into the V60
+        8. Pour enough hot water onto the coffee filter to fully saturate it
+        9. Let all of the water pass through the filter 
+        10. Dump out the water. _This hot water does two things: heats up the V60 and flushes any remaining paper-y taste from the filter._
+        11. Pour grounds into the damp filter that is now sitting in the V60
+        12. Jiggle the V60 so the coffee grounds form a flat bed. _The "jiggling" motion I've found helpful for flattening the grounds is why I prefer using [Hario's V60 glass dripper situated in a plastic base](https://www.hario-usa.com/collections/drippers/products/v60-glass-coffee-dripper-03). Reason: I can move the dripper about witout needing to worry about the dripper and the carafee coming into contact with one another._
+        13. Woosh! Now you are ready to start brewing.
+        14. Create a small well in the ground bed. _I use the stem/handle of a slender cyllindircal spoon. You could also use your finger ;)_
+
     + _First pour_
-        +  Pour 2x the weight of coffee in water over the grounds. Start by pouring into the well you formed and then move outwards in concentric circles
-        +   #TODO
+        1. Start by pouring into the well you formed and then move outwards in concentric circles
+        2. Pour 2x the weight of coffee in water over the grounds. 
+        3. #TODO
 
 
 ### Aeroporess
