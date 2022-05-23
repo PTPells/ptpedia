@@ -72,7 +72,7 @@ Tasting vectors
   + Ratio (water:coffee): 15:1
   + Grind size: 17 (Baratza Encore)
 + Process
-    + _Pre-Pour: Readying the coffee beans_ 
+    + _Pre-pour: Readying the coffee beans_ 
         1. Start heating up water 
         2. Determine the number of cups of coffee you want to make
         3. Multiply the number of cups you determined in "Step 1" by 20. _This number will become the weight of coffee you will end up grinding and brewing._
@@ -85,13 +85,26 @@ Tasting vectors
         10. Dump out the water. _This hot water does two things: heats up the V60 and flushes any remaining paper-y taste from the filter._
         11. Pour grounds into the damp filter that is now sitting in the V60
         12. Jiggle the V60 so the coffee grounds form a flat bed. _The "jiggling" motion I've found helpful for flattening the grounds is why I prefer using [Hario's V60 glass dripper situated in a plastic base](https://www.hario-usa.com/collections/drippers/products/v60-glass-coffee-dripper-03). Reason: I can move the dripper about witout needing to worry about the dripper and the carafee coming into contact with one another._
-        13. Woosh! Now you are ready to start brewing.
-        14. Create a small well in the ground bed. _I use the stem/handle of a slender cyllindircal spoon. You could also use your finger ;)_
+        13. Create a small well in the ground bed. _I use the stem/handle of a slender cyllindircal spoon. You could also use your finger ;)_
+        14. Zero the scale 
+        15. Woosh! Now you are ready to start brewing.
 
-    + _First pour_
-        1. Start by pouring into the well you formed and then move outwards in concentric circles
-        2. Pour 2x the weight of coffee in water over the grounds. 
-        3. #TODO
+    + _First Pour_
+        1. Start a stopwatch just as you start pouring
+        2. Pour the water into the well you formed and then move outwards in concentric circles. _I've found I'm able to produce the smoothest and most "circular" pours when I imagine the motion originating from my shoulder rather than from, say, my wrist._
+        3. Pour a total of _2x the weight of the amount of coffee you weighed out in "Step 4" above_ into the V60
+        4. Let the coffee bloom/be still until the stopwatch you started in "Step 1" reaches 30-45 seconds. _This time allows for the C02 that developed – and became trapped in the coffee during the roasting process – to escape.
+
+    + _Secound Pour_
+        1. Begin your second pour just as you did your first one: pouring hot water in concentric circles until the scale reads 60% of your total desired brew weight. _Total desired brew weight = the amount of coffee you weighed in "Step 4" of the "Pre-pour" process multipled by 15. E.g. 450g of water for 30g of coffee._
+        2. Weight about 15-25 seconds
+
+    + _Third Pour_
+        1. Once most of the water from the second pour has passed through the grounds, but _before_ all of the water has passed thread (read: the coffee bed is visible), begin your third pour as you did the two pours before: pouring hot water in concentric circles.
+        2. For this last pour, you're going to pour 40% of the remaining water weight (or whatever ends up being the difference between the weight your scale currently reads and the total weight you calcualted in "Step 1" of the _Second Pour_ section above).
+        3. Now, take the V60 off your caraffee when either of the following happens: 1) all of the hot water has passed through the beans _or_ 2) 3 minutes and 30 seconds have elapsed since you began your first pour
+        4. Swirl the coffee in the caraffe. _This helps to combine all of the coffee together that will have entered the caraffee at varying points throughout the brewing process._
+        5. That's it! Enjoy ^ _ ^
 
 
 ### Aeroporess
