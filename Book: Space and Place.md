@@ -2,8 +2,7 @@
 - Creator: [Yi-Fu Tuan](https://en.wikipedia.org/wiki/Yi-Fu_Tuan)
 - Publication date: 1977
 - Consumption Start: Feb (2022)
-- Consumption End: March (2022)
-- Referred by: 
+- Consumption End: March (2022) 
 
 ### Quotes
   - “The world feels spacious and friendly when it accommodates our desires, and cramped when it frustrates them.”
@@ -15,6 +14,8 @@
   - "The machine which at first blush seems a means of isolating man from the great problems of nature actually plunges him more deeply into them. As for the peasant so for the pilot, dawn and twilight become events of consequence. His essential problems are set him by the mountain, the sea, the wind. Alone before the vast tribunal of the tempestuous sky, the pilot defends his mails [sic] and debates on terms of equality with those three elemental divinities." Antoine de Saint-Exupery
   - “Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.”
   - “Freedom implies space; it means having the power and enough room in which to act.”
+  - "Tools and machines enlarge man's sense of space and spaciousness. Space that is measurable by the reach of one's out-stretched arms is a small world compared with one that is measured by the distance of a spear throw or arrow shot. The body can feel both measures. Size is the way a person feels as he stretches his arms; it is the experience of the hunter as he throws his spear, feels it shoot out of his hand, and sees it disappear into the distance."
+  - “Crowding is an awareness that one is observed. In a small town people “watch out” for one another. “Watch out” has both the desirable sense of caring and the undesirable one of idle - and perhaps malicious - curiosity.”
 
 ### Concepts
 - **Place (the concept)**
@@ -34,7 +35,7 @@
     - “A setting is spacious if it allows one to move freely. A room cluttered with furniture is not spacious whereas a bare hall or a public square is, and children let loose in either of them tend to respond by rushing about.”
     - “Solitude is a condition for acquiring a sense of immensity. Alone one's thoughts wander freely over space. In the presence of others they are pulled back by an awareness of other personalities who project their own worlds onto the same area.”
     - “Even a piece of furniture can seem to possess an obtrusive presence. Things, however, have this power only to the degree that people endow them with animate or human characteristics. Human beings possess this power naturally. But society can deprive them of it. Human beings can be treated as objects so that they are no more in one's way than are bookshelves.”
-    - “Crowding is an awareness that one is observed. In a small town people “watch out” for one another. “Watch out” has both the desirable sense of caring and the undesirable one of idle - and perhaps malicious-curiosity.”
+    - “Crowding is an awareness that one is observed. In a small town people “watch out” for one another. “Watch out” has both the desirable sense of caring and the undesirable one of idle - and perhaps malicious - curiosity.”
     - “When people work together for a common cause, one man does not deprive the other of space; rather he increases it for his colleague by giving him support.”
     - “Conflicting activities generate a sense of crowding, In a small city apartment, a harassed mother tries to cook, feed the infant, scold the toddler who has spilled food on the floor, and answer the doorbell, all at the same time. A work-weary father returns home and cannot find a quiet corner to himself, away from his bumptious and loquacious children. If such a family were to move into adequate quarters, tension would no doubt decline and family contentment increase However, human beings are so adaptable that under certain favorable conditions they can wring an advantage even from residential warmth.”
     - “The world feels spacious and friendly when it accommodates our desires, and cramped when it frustrates them.”
