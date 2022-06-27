@@ -1,0 +1,75 @@
+### Meta
+- Creator: [Yi-Fu Tuan](https://en.wikipedia.org/wiki/Yi-Fu_Tuan)
+- Publication date: 1977
+- Consumption Start: Feb (2022)
+- Consumption End: March (2022)
+- Referred by: 
+
+### Quotes
+  - “The world feels spacious and friendly when it accommodates our desires, and cramped when it frustrates them.”
+  - "Two fishermen pulling in a net on the seashore appear natural, but two poets brooding side by side on the same strand would be ridiculous–one solitude too many."
+  - “Solitude is a condition for acquiring a sense of immensity. Alone one's thoughts wander freely over space. In the presence of others they are pulled back by an awareness of other personalities who project their own worlds onto the same area.”
+  - "A mere smile or touch may signal our consciousness of an important occasion. Insofar as these gestures can be observed they are public. They are also fleeting, however, and their meaning so eludes confident interpretation that they cannot provide the basis for group planning and action. They lack the firmness and objectivity of words and pictures."
+  - "To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought."
+  - "We call the reverberations of a thunderstorm more voluminous than the squeaking of a slate-pencil; the entrance into a warm bath gives our skin a more massive feeling than the prick of a pin; a little neuralgic pain, fine as a cobweb, in the face, seems less extensive than the heavy soreness of a boil or the vast discomfort of a colic or a lumbago; and a solitary star looks smaller than the noonday sky." William James
+  - "The machine which at first blush seems a means of isolating man from the great problems of nature actually plunges him more deeply into them. As for the peasant so for the pilot, dawn and twilight become events of consequence. His essential problems are set him by the mountain, the sea, the wind. Alone before the vast tribunal of the tempestuous sky, the pilot defends his mails [sic] and debates on terms of equality with those three elemental divinities." Antoine de Saint-Exupery
+  - “Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.”
+  - “Freedom implies space; it means having the power and enough room in which to act.”
+
+### Concepts
+- **Place (the concept)**
+    - "Place is a special kind of object. It is a concretion of value, though not a valued thing that can be handled or carried about easily; it is an object in which one can dwell." 
+    - "Intimate places are places of nurture where our fundamental needs are heeded and cared for without fuss. Even the vigorous adult has fleeting moments of longing for the kind of coziness he knew in childhood. What sensual ease compares with that of a child as he rests in the parent's arm and is read to sleep? In the curve of the human arm is comfort and security absolute, made all the more delectable by the threatening wolf in the storybook?"
+    - "
+- **Space (the concept)**
+    - "Space, we have noted, is given by the ability to move, Movements are often directed toward, or repulsed by, object and places. Hence space can be variously experienced as the relative location of objects or places, as the distances and expanses that separate or link places, and- more abstractly the area defined by a network of places."
+    - "Mythical space is a conceptual schema, but it is also pragmatic space in the sense that within the schema a large number of practical activities, such as the planting and harvesting of crops, are ordered. A difference between mythical and pragmatic space is that the latter is defined by a more limited set of economic activities. The recognition of pragmatic space, such as belts of poor and rich soil, is of course an intellectual achievement. When an ingenious person tries to describe the soil pattern cartographically, by means of symbols, a further move toward the conceptual mode occurs. In the Western world systems of geometry--that is, highly abstract spaces--have been created out of primal spatial experiences. Thus sensorimotor and tactile experiences would seem to lie at the root of Euclid's theorems concerning shape congruence and the parallelism of distant lines; and visual perception is the basis for projective geometry."
+    - "Open space has no trodden paths and signposts. It has no fixed pattern of established human meaning; it is like a blank sheet on which meaning may be imposed. Enclosed and humanized space is place. Compared to space, place is a calm center of established values. Human beings require both space and place. Human lives are a dialectical  movement between shelter and venture, attachment and freedom. In open space one can become intensely aware of place and in the solitude of a sheltered place the vastness of space beyond acquires a haunting presence."
+    - "Space is experienced directly as having room in which to move."
+    - "Soundless space feels calm and lifeless despite the visible flow of activity in it, as in watching events through binoculars or on the television screen with the sound turned off, or being in a city muffled  in a fresh blanket of snow."
+- **Spaciousness and Crowding**
+    - "...feeling of spaciousness feeds on contrast."
+    - “Open space has no trodden paths and signposts. It has no fixed pattern of established human meaning; it is like a blank sheet on which meaning may be imposed. Enclosed and humanized space is place.”
+    - “Human beings require both space and place. Human lives are a dialectical movement between shelter and venture, attachment and freedom. In open space one can become intensely aware of place; and in the solitude of a sheltered place the vastness of space beyond acquires a haunting presence.”
+    - “A setting is spacious if it allows one to move freely. A room cluttered with furniture is not spacious whereas a bare hall or a public square is, and children let loose in either of them tend to respond by rushing about.”
+    - “Solitude is a condition for acquiring a sense of immensity. Alone one's thoughts wander freely over space. In the presence of others they are pulled back by an awareness of other personalities who project their own worlds onto the same area.”
+    - “Even a piece of furniture can seem to possess an obtrusive presence. Things, however, have this power only to the degree that people endow them with animate or human characteristics. Human beings possess this power naturally. But society can deprive them of it. Human beings can be treated as objects so that they are no more in one's way than are bookshelves.”
+    - “Crowding is an awareness that one is observed. In a small town people “watch out” for one another. “Watch out” has both the desirable sense of caring and the undesirable one of idle - and perhaps malicious-curiosity.”
+    - “When people work together for a common cause, one man does not deprive the other of space; rather he increases it for his colleague by giving him support.”
+    - “Conflicting activities generate a sense of crowding, In a small city apartment, a harassed mother tries to cook, feed the infant, scold the toddler who has spilled food on the floor, and answer the doorbell, all at the same time. A work-weary father returns home and cannot find a quiet corner to himself, away from his bumptious and loquacious children. If such a family were to move into adequate quarters, tension would no doubt decline and family contentment increase However, human beings are so adaptable that under certain favorable conditions they can wring an advantage even from residential warmth.”
+    - “The world feels spacious and friendly when it accommodates our desires, and cramped when it frustrates them.”
+- **Space and Place**
+    - "Spaces are marked off and defended against intruders. Places are centers of felt value where biological needs, such as those for food, water, rest, and procreation, are satisfied."
+    - "What begins as undifferentiated space becomes place as we get to know it better and endow it with value."
+    - "Place is a special kind of object. It is a concretion of value, though not a valued thing that can be handled or carried about easily; it is an object in which one can dwell. Space, we have noted, is given by the ability to move."
+- **Inanimate objects**
+    - "Even a piece of furniture can seem to possess an obtrusive presence. Things, however, have this power only to the degree that people endow them with animate or human characteristics. Human beings possess this power naturally. But society can deprive them of it, Human beings can be treated as objects so that they are no more in one's way than are bookshelves."
+-  **Collaboration**
+    - "When people work together for a common cause, one man does not deprive the other of space; rather he increases it for his colleague by giving him support."
+- **Feeling**
+    - "It is a common tendency to regard feeling and thought as opposed, the one registering subjective states, the other reporting on objective reality. In fact, they lie near the two ends of an experiential continuum, and both are ways of knowing."
+    - "People tend to suppress that which they cannot express. If an experience resists ready communication, a common response among activists ("doers") is to deem it private- even idiosyncratic--and hence unimportant."
+- **Tools**
+    - "Tools and machines enlarge man's sense of space and spaciousness. Space that is measurable by the reach of one's out-stretched arms is a small world compared with one that is measured by the distance of a spear throw or arrow shot. The body can feel both measures. Size is the way a person feels as he stretches his arms; it is the experience of the hunter as he throws his spear, feels it shoot out of his hand, and sees it disappear into the distance." 
+    - "A tool or machine enlarges a person's world when he feels it to be a direct extension of his corporeal powers. A bicycle enlarges the human sense of space, and likewise the sports car. They are machines at man's command. A perky sports car responds to the driver's slightest wish. It opens up a world of speed, air, and movement. Accelerating over a straight road or swerving over a curve, momentum and gravity--these dry terms out of a physics book-become the felt qualities of motion."
+    - "The machine which at first blush seems a means of isolating man from the great problems of nature actually plunges him more deeply into them. As for the peasant so for the pilot, dawn and twilight become events of consequence. His essential problems are set him by the mountain, the sea, the wind. Alone before the vast tribunal of the tempestuous sky, the pilot defends his mails [sic] and debates on terms of equality with those three elemental divinities." Antoine de Saint-Exupery
+- **Permanence**
+    - “Permanence is an important element in the idea of place. Things and objects endure and are dependable in ways that human beings, with their biological weaknesses and shifting moods, do not endure and are not dependable.”
+- **Experience**
+    - "Experience is a cover-all term for the various modes through which a person knows and constructs a reality,"
+    - "To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought."
+- As organisms age/evolve/mature, they developed more nuanced understandings of their experience. In doings do, they have the ability to be more specific. (p25)
+- **Perspective**
+    - "We more readily assume a God-like position, looking at the earth from above, than from the perspective of another mortal living on the same level as ourselves."
+    - "Central perspective creates an illusion of time and movement in a scene: the converging borders of a road that disappears into the door of a distant house are strong cues to action. in contrast, the vertical photograph invites the understanding of spatial relationships. The child is not prompted to initiate imaginative action-unless it is to drop bombs on the school house."
+- **Naming**
+    - “Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.”
+- **Extension/Exomind**
+    - "Man, out of his intimate experience with his body and with other people, organizes space so that it conforms with and caters to his biological needs and social relations."
+- **Classification**
+    - “The child also learns to associate persons with specific places. He is bewildered when he meets his nursery-school teacher downtown, because she seems to him dislocated; she upsets his system of classification.”
+- **Orientation**
+    - "Let a flickering light appear behind a distant clump of trees. I remain lost in the sense that I still do not know where I am in the forest, but space has dramatically regained its structure. The flickering light has established a goal: As I move toward that goal, front and back, right and left have resumed their meaning: I stride forward, am glad to have left dark space behind, and make sure that I do not veer to the right or left."
+- **Freedom**
+    - “Freedom implies space; it means having the power and enough room in which to act.”
+    - "Spaciousness is closely associated with the sense of being free. Freedom implies space; it means having the power and enough room in which to act. Being free has several levels of meaning. Fundamental is the ability to transcend the present condition, and this transcendence is most simply manifest at the elementary power to move. In the act of moving, space an its attributes are directly experienced. An immobile person will have difficulty mastering even primitive ideas of abstract space for such ideas develop out of movement–out of the direct experiencing of space through movement."
