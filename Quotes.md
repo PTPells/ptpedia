@@ -2,6 +2,16 @@
 
 *In no particular order...*
 
+---
+title: Quotes
+description: 
+date: 2022-07-03
+tags:
+  - posts
+layout: layouts/post.njk
+---
+*In no particular order...*
+
 **Pono Shim**
 > An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi.
 
@@ -71,6 +81,61 @@
 
 **Dave Winer** [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html#annotations:cP4g_JD9EeivZSfMNDlKlQ)
 > Twitter is at least a dress rehearsal for the news system of the future. A key component of this system is that it is used both as the back room for narrating news work and for the finished delivered news product.
+
+**Robert Winter** [The California Bungalow](https://www.worldcat.org/title/california-bungalow/oclc/6250406)
+> A study of floor plans is one of the clearest indicators of the style of living in a period.
+
+> In the midst of a society that was becoming increasingly organized in industrial patterns, it was important for the conservative forces to counter the major social tendencies of the times with a plea for informality, neighborliness, the  sanctity of the family.
+
+**George Lakoff** [Metaphors We Live By](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)
+> Once we can identify our experiences as entities or substances, we can refer to them, categorize them, group them, and quantify them—and, by this means, reason about them.
+
+> Since communication is based on the same conceptual system that we use in thinking and acting, language is an important source of evidence for what that system is like.
+
+> We typically conceptualize the nonphysical in terms of the physical—that is, we conceptualize the less clearly delineated in terms of the more clearly delineated.
+
+> What makes it possible for many of us to see this metaphor as true is that we usually comprehend our life experiences in terms of the LIFE IS A STORY metaphor. We are constantly looking for meaning in our lives by seeking out coherences that will fit some sort of coherent life story. And we constantly tell such stories and live in terms of them. As the circumstances of our lives change, we constantly revise our life stories, seeking new coherence.
+
+> New metaphors have the power to create a new reality. This can begin to happen when we start to comprehend our experience in terms of a metaphor, and it becomes a deeper reality when we begin to act in terms of it.
+
+> A metaphorical structuring of a concept, say the JOURNEY metaphor for arguments, allows us to get a handle on one aspect of the concept. Thus a metaphor works when it satisfies a purpose, namely, understanding an aspect of the concept.
+
+> ..emotional concepts, which are not clearly delineated in our experience in any direct fashion and therefore must be comprehended primarily indirectly, via metaphor.
+
+> There is no natural structuring to our experience. Any structure that we or others place on our experience is completely artificial.
+
+> To negotiate meaning with someone, you have to become aware of and respect both the differences in your backgrounds and when these differences are important.
+
+> You need enough diversity of cultural and personal experience to be aware that divergent world views exist and what they might be like.
+
+> You also need patience, a certain flexibility in world view, and a generous tolerance for mistakes, as well as a talent for finding the right metaphor to communicate the relevant parts of unshared experiences or to highlight the shared experiences while deemphasizing the others.
+
+> Truth is always relative to understanding, which is based on a nonuniversal conceptual system.
+
+
+
+**Aristotle** [Quoted by George Lakoff in Metaphors We Live By]()
+> ...ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh.
+
+
+**Marshall McLuhan** [Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media)
+> Slang offers an immediate index to changing perception.
+
+> To live and experience anything is to translate its direct impact into many indirect forms of awareness.
+
+> Language, like currency, acts as a store of perception and as a transmitter of the perceptions and experience of one person or of one generation to another. As both a translator and store-house of experience, language is, in addition, a reducer and a distorter of experience.
+
+> A square is the enclosure of visual space; that is, it consists of space properties abstracted from manifest tensions. A triangle follows lines of force, this being the most economical way of anchoring a vertical object.
+
+> ...personal and social consequences of any medium – that is, of any extension of ourselves – results from the new scale that is introduced into our affairs by each extension of ourselves, or by any new technology.
+
+> All media are active metaphors in their power to translate experience into new forms. The spoken word was the first technology by which man was able to let go of his environment in order to grasp it in a new way. Words are kind of information retrieval that can range over the total environment and experience at high speed. Words are complex systems of metaphors and symbols that translate experience into our uttered or outered senses. They are a technology of explicitness.
+
+> It is the framework itself that changes with new technology, and not just the picture within the frame.
+
+> Everybody experiences far more than he understands. Yet it is experience, rather than understanding, that influences behavior, especially in collective matters of media and technology, where the individual is almost inevitably unaware of their effect upon him.
+
+> Since our new electric technology is not an extension of our bodies but of our central nervous systems, we now see all technology, including language, as a means of processing experience, a means of storing and speeding information."
 
 **Alan Watts** [The Wisdom of Insecurity](https://www.worldcat.org/title/wisdom-of-insecurity/oclc/412601)
 > Belief clings, but faith lets go.
@@ -399,7 +464,7 @@
 > Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.
 
 
-**William James** [*The Principles of Psychology Volume 2*](https://www.google.com/books/edition/The_Principles_of_Psychology/vOU6V6lhgXUC?hl=en&gbpv=1&dq=%22We+think+the+ocean+as+a+whole+by+multiplying+mentally+the+impression+we+get+at+any+moment+when+at+sea.%22&pg=PA203&printsec=frontcover)
+**William James** [*The Principles of Psychology Volume 2*](https://www.google.com/books/edition/The_Principles_of_Psychology/vOU6V6lhgXUC?hl=en&gbpv=1&dq=%22We+think+the+ocean+as+a+whole+by+multiplying+mentally+the+impression+we+get+adt+any+moment+when+at+sea.%22&pg=PA203&printsec=frontcover)
 > We think the ocean as a whole by multiplying mentally the impression we get at any moment when at sea.
 
 > We call the reverberations of a thunderstorm more voluminous than the squeaking of a slate-pencil; the entrance into a warm bath gives our skin a more massive feeling than the prick of a pin; a little neuralgic pain, fine as a cobweb, in the face, seems less extensive than the heavy soreness of a boil or the vast discomfort of a colic or a lumbago; and a solitary star looks smaller than the noonday sky.
