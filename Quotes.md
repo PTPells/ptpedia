@@ -2,16 +2,6 @@
 
 *In no particular order...*
 
----
-title: Quotes
-description: 
-date: 2022-07-03
-tags:
-  - posts
-layout: layouts/post.njk
----
-*In no particular order...*
-
 **Pono Shim**
 > An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi.
 
