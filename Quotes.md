@@ -1,21 +1,348 @@
 # Quotes
 
-**Christopher Alexander** [*A City is Not a Tree*](https://www.patternlanguage.com/archive/cityisnotatree.html#)
-  > The playground, asphalted and fenced in, is nothing but a pictorial acknowledgment of the fact that 'play' exists as an isolated concept in our minds.
+**Pono Shim**
+> An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi.
+
+> Like a martial art we learn a move and practice, learn a new move and practice, and practice and practice and practice until one day there are no more moves, only movement.  They are learning the moves and one day my aspiration for each one is that there are no more principles or moves, someday there’s only aloha.
+
+**James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+> ...infinite players prepare themselves to be surprised by the future, they play in complete openness. It is not an openness as in candor, but an openness as in vulnerability. It is not a matter of exposing one's unchanging identity, the true self that has always been, but a way of exposing one's ceaseless growth, the dynamic self that has yet to be.
+
+> Only that which can change can continue: this is the principle by which infinite players live.
+
+> At its root all language has the character of metaphor, because no matter what it intends to be about it remains language, and remians absolutely unlike whatever it is about. This means that we can never have the falcon, only the word 'falcon.' To say that we have the falcon, and nothe the 'falcon,' is to presume again that we know precisely what it is we have, that we can see it in its entirety, and that we can speak as nature itself.
+
+> To be powerful is to have one's words obeyed. It is only by magisterial speech that the emblematic property of winners can be safeguarded. Those entitled to their possessions have the privilege of calling the police, calling up an army, to force the recognition of their emblems.
+
+> When most effective, the technology of communication allows us to bring the histories and the experiences of others into our home, but without changing our home. When most effective, the technology of travel allows us to pass through the histories of other persons with the 'comforts of home,' but without changing those histories.
+
+> If to operate a machine is to operate like a machine, then we not only operate with each other like machines, we operate each other like machines. And if a machine is most effective when it has no effect, then we operate each other in such a way that we reach the outcomes desired–in such a way that nothing happens.
+
+> When we look into a story to find its meaning, it is always a meaning we have brought with us to look at.
+
+
+**Juergen Schmidhuber** [Driven by Compression Progress](https://arxiv.org/abs/0812.4360)
+> ...a better explanation of the past can only help to better predict the future.
+
+> Good observer-dependent art deepens the observer's insights about this world or possible worlds, unveiling previously unknown regularities in compressible data, connecting previously disconnected patterns in an initially surprising way that makes the combination of these patterns subjectively more compressible (art as an eye-opener), and eventually becomes known and less interesting.
+
+
+> ...an audience finds a proposition 'interesting' not because it tells them some truth they did not already know, but instead because it tells them some truth they thought they already knew was wrong. In other words, an interesting proposition is one which denies some aspect of the assumption-ground of its audience...
+
+> Those who attempt to popularize propositions which experts had found interesting often must resort to jargon in order to obscure the fundamental lack of inter-translatability between the universe of discourse of the intellectual specialty and the universe of discourse of the common-sense world.
+
+**Yi-Fu Tuan** [Home as Elsewhere](https://www.youtube.com/watch?v=4jhyJeV1RAA)
+> The word routine suggests the humdrum and the inconsequential; however, unlike the routines of workplace and office, those of home are not inconsequential for they're dictated by the cyclical requirements of biological life.
+
+> Here and now are still privileged. Here is where I am or where we are are. There is where you are and yonder is where they are. Here is now, here is then, and then is either the future or the past. Yonder is fonder away are far away is the unknown and scary.
+
+**David Kirsh** [The Intelligent Use of Space](https://adrenaline.ucsd.edu/kirsh/Articles/Space/AIJ1.html)
+> In having a body, we are spatially located creatures: we must always be facing some direction, have only certain objects in view, be within reach of certain others.
+
+> The implication is that if we want to discover important new elements in a structure, particularly if this requires looking for novel interpretations, we are better off depicting it externally, or consulting some pre-existing external representation of it.
+
+> Every time we serially decompose a complex task by dividing the space in which it is performed into functional stations where specific subtasks are performed, we create a production line.
+
+> …space is always present, and the need to place objects somewhere is a constant fact of life. This makes space an invaluable resource to exploit in order to facilitate everyday problem solving and planning.
+
+**Annie Murphy Paul** [Extended Mind: The Power of Thinking Outside the Brain](https://www.worldcat.org/title/extended-mind-the-power-of-thinking-outside-the-brain/oclc/1275428473&referer=brief_results)
+> Learning is moving in new ways.
+
+> When thought overwhelms the mind, the mind uses the world...
+
+**Jacques Sojcher** 
+> ...everything that speaks, makes noise, passes by, touches us lighty, meets us head on.
+
+**Clay Shirky** [Listening to Napster]()
+> Once a definitive label is applied to a new phenomenon, it invariably begins shaping - and possibly distorting - people's views.
+
+> Definitions are useful only as tools for sharpening one's perception of reality and improving one's ability to predict the future.
+
+**Michel Foucault**
+> Maybe our problem now is to discover that the self is nothing else than the historical correlation of the technology built in our history. Maybe the problem is to change those technologies. And in this case, one of the main political problems nowadays would be, in the strict sense of the word, the politics of ourselves.
+
+**Haruki Murakami** [What I Talk About When I Talk About Running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running)
+> To deal with something unhealthy, a person needs to be as healthy as possible.
+
+**Dave Weinberger** [Transparency is the new objectivity](https://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
+> Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
+
+**Dave Winer** [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html#annotations:cP4g_JD9EeivZSfMNDlKlQ)
+> Twitter is at least a dress rehearsal for the news system of the future. A key component of this system is that it is used both as the back room for narrating news work and for the finished delivered news product.
+
+**Samuel Mockbee**
+> Physical poverty is not an abstraction, but we almost never think of impoverishment as evidence of a world that exists. Much less do we imagine that it‘s a condition from which we may draw enlightenment in a very practical way.
+
+**Keller Easterling**
+> Culture is well rehearsed at pointing to things, calling their names, recognizing their shape, but under rehearsed at describing the interactivity or chemistry between things. So infrastructure space is productively imponderable because it's not a thing. It's a large socio-technical system...it's too large to be in any one place. it can not be assessed by its name, shape or outline.
+
+**Robert Axelrod** [The Evolution of Cooperation
+](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation)
+> People tend to resort to the standard of comparison that they have available to them – and this standard is often the success of the other player relative to their own success. This standard leads to envy. And envy leads to attempts to rectify any advantage the other player has attained. In this form of Prisoner’s Dilemma, rectification of the other’s advantage can only be done by defection. But defection leads to more defection and to mutual punishment. So envy is self-destructive.
+
+**Sharifah Alshalfan** [The Aftermath of a Masterplan for Kuwait: An Exploration of the Forces that Shape Kuwait City](https://www.cidob.org/en/articulos/monografias/wise_cities_in_the_mediterranean/the_aftermath_of_a_masterplan_for_kuwait_an_exploration_of_the_forces_that_shape_kuwait_city)
+> By failing to consider other aspects of welfare such as quality of life and the creation of sense of place, neighbourhood design becomes sanitised of the underlying principles of building communities, and instead turns into a pure exercise of maximising the number of units and their amenities within a predetermined set of parameters.
+
+> Throughout history, cities have developed incrementally and grown at a steady pace that revolved around particular social, economic and political constructs, and spatially developed to reflect their community’s building knowledge, availability of materials and particular locality.
+
+**Martin Luther King Jr.** [Letter From Birmingham Jail](We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.”)
+> We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.
+
+**Sep Kamvar** [Syntax & Sage: Reflections on Software and Nature](https://www.worldcat.org/title/syntax-sage-reflections-on-software-and-nature/oclc/965802620)
+> So how do we decide what to make?...I would begin, instead, by tapping into our well of feelings to see what makes us feel peaceful, feel sublime, feel alive, to see what fills us with wonder and hope.
+
+**Brian Eno**
+> We are convinced by things that show internal complexity, that show the traces of an interesting evolution. Those signals tell us that we might be rewarded if we accord it our trust. An important aspect of design is the degree to which the object involves you in its own completion. Some work invites you into itself by not offering a finished, gloss, one-reading-only sufrface. This is what makes old buildings interesting to me. I think that humans have a taste for things that not only show that they have been through a process of evolution, but which also show they are still a part of one. They are not dead yet.
+
+**Stewart Brand**
+> I always thought tools were objects, things: screwdrivers, wrenches, axes, hoes. Now I realize that tools are a process.
+
+**Dee Hock** 
+> Far better than a precise plan is a clear sense of direction and compelling beliefs. And that lies within you. The question is, how do you evoke it?
+
+**Kengo Kuma** [Anti-Object](https://kkaa.co.jp/en/books/anti-object-2007/)
+> Objects freeze and fix spaces that are otherwise indeterminate and ambiguous, they compress information – and that is why people continue to construct them.
+
+> All ideas come from sensation or reflection. Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas. How comes it to be furnished?
+
+> ...now able to alternate spontaneously between metalevel and inside space for the first time. That is the greatest contribution that computers have made to our culture.
+
+> ...no matter how freely gardens may be arranged, they will still have paths that are determined by their designers. Interaction is still prearranged, and designers still exercise control over people.
+
+> Instead of stepping forward, designers need to remain completely open to visitors’ needs. Only then will we have a space without boundaries and paths. The space may consist only of an unprocessed cluster of particles – scattered rubble and grass – none the less, countless places will emerge and a network of relationships will develop the moment someone steps foot inside.
+
+> It is often asserted that, though music and literature are sequential, there is no sequence in architecture. With a work of architecture, one is free to look at the exterior from any direction and at any time one chooses.
+
+> Le Corbusier and Mies achieved positions of leadership in twentieth-century architecture by defining objects that were ideally suited to the contemporary approach to bridging matter and consciousness, which was to reduce both to the status of objects. Matter was reduced to ‘products’, by which I mean objects that are distinct from their environment, that assert themselves and excite the subject. Meanwhile, consciousness was reduced to objects called ‘existences’.
+
+**Jon Hopkins** [Interview with Hrishikesh Hirway](https://songexploder.net/jon-hopkins)
+> It’s not about guiding a track anywhere it’s just about knowing what the next step is..." John Hopkins in Song Exploder
+
+**Jane Jacobs** [Quoted by James Scott in Seeing Like a State](https://www.worldcat.org/title/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed/oclc/37392803)
+> To see complex systems of functional order as order, and not as chaos, takes understanding. The leaves dropping from trees in the autumn, the interior of an airplane engine, the entrails of a rabbit...all appear to be chaos if they are seen without comprehension. Once they are seen as systems of order, they actually look different.
+
+**Unknown**
+> Sometimes people use ‘respect’ to mean ‘treating someone like a person’ and sometimes they use ‘respect to mean ‘treating someone like an authority’ and sometimes people who are use to being treated like an authority say ‘if you won’t respect me i won’t respect you’ and they mean ‘if you won’t treat me like an authority i won’t treat you like a person and they’ think they’re being fair but they aren’t.
+
+**Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief_results)
+  > Eventually I decided to give my thoughts a form, to put them into practice, and so to determine whether my understanding was right or wrong.
+  
+> Nature , or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind.
+
+**Michell de Certeau** [*The Practice of Everyday Life*](https://www.worldcat.org/title/practice-of-everyday-life/oclc/794663703)
+  > Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance whole giving the impression of ‘keeping it’.
+
+**Steven Johnson** [Emergence: The Connected Lives of Ants, Brains, Cities, and Software](https://en.wikipedia.org/wiki/Emergence:_The_Connected_Lives_of_Ants,_Brains,_Cities,_and_Software)
+> Without any recognition of other thoughts to measure our own thoughts against, our own mental state wouldn’t even register as something to think about.
+
+**Stewart Brand** The Whole Earth Catalog
+> A realm of intimate, personal power is developing - power of the individual to conduct his own education, find his own inspiration, shape his own environment, and share his adventure with whoever is interested.
+
+**Kirsten Dirksen** [fair companies (about)](https://faircompanies.com/about/)
+> One of the most elusive goals in life is determining just what you need to live.
+
+**Martin Creed**
+> The only thing I feel like I know is that I want to make things. Other than that, I feel like I don’t know. So the problem is in trying to make something without knowing what I want. [...] I think it’s all to do with wanting to communicate. I mean, I think I want to make things because I want to communicate with people, because I want to be loved, because I want to express myself. 
+
+**David Gauntlett** [Making is Connecting](https://davidgauntlett.com/portfolio/making-is-connecting/)
+> The best tools are not merely ‘useful’ or ‘convenient’ additions to everyday life, but can unlock possibilities and enable creative expression which are essential components of a satisfactory life.
+
+**Clary Shirky** [Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)
+> ...people don't behave in ways they don't have the opportunity to behave in.
+
+**David Weinberger** [New Clues](http://newclues.cluetrain.com/)
+> ...conversation requires a common ground: shared language, interests, norms, understandings. Without those, it’s hard or even impossible to have a conversation.
+
+
+**Albert Camus** [Create Dangerously](https://www.penguinrandomhouse.com/books/608310/create-dangerously-by-albert-camus-translated-by-sandra-smith/#:~:text=About%20Create%20Dangerously&text=In%201957%2C%20Nobel%20Prize%2Dwinning,a%20part%20of%20civil%20society.)
+> Great ideas, it has been said, come into the world as gently as doves. Perhaps then, if we listen, attentively, we shall hear, amid the uproar of empires and nations, a faint flutter of wings, the gentle stirring of life and hope.
+
+**David Bohm** [On Dialogue](https://sprott.physics.wisc.edu/Chaos-Complexity/dialogue.pdf)
+> Communication can lead to the creation of something new only if people are able to freely listen to each other, without prejudice, and without trying to influence each other. Each has to be interested primarily in truth and coherence, so that he is ready to drop his old ideas and intentions, and be ready to go on to something different, when this is called for.
+
+
+**Christopher Alexander** [The City is Not a Tree](https://www.patternlanguage.com/archive/cityisnotatree.html)
+> When we know those moments, when we smile, when we let go, when we are not on guard at all – these are the moments when our most important forces show themselves; whatever you are doing at such a moment, hold on to it, repeat it – for that certain smile is the best knowledge that we ever have of what our hidden forces are, and where they lie, and how they can be loosed.
+
+> There are virtually no closed groups of people in modern society. The reality of today's social structure is thick with overlap—the systems of friends and acquaintances form a semilattice, not a tree.
+
+**Ted Nelson** 
+> A document is not necessarily a simulation of paper. In the most general sense, a document is a package of ideas created by human minds and addressed to human minds, intended for the furtherance of those ideas and those minds. Human ideas manifest as text, connections, diagrams and more: thus how to store them and present them is a crucial issue for civilization.
+
+
+**Dominique Foray** [The Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)
+> There is a big difference between the existence of knowledge in some other place and its availability to the right people in the right place at the right time. The crux of the matter is knowing how to integrate and organize fragmented, scattered and thinly spread knowledge.
+
+> What makes a repairer good is that he has internalized some of the logic of the system he is repairing and can use this in drawing the analogies he needs when faced with new situations.
+
+
+**Denise Scott Brown, Steven Izenour, and Robert Venturi** [Learning from Las Vegas](https://en.wikipedia.org/wiki/Learning_from_Las_Vegas)
+> It is all right to decorate construction but never construct decoration.
+
+> We look backward at history and tradition to go forward; we can also look downward to go upward. And withholding judgement may be used as a tool to make later judgement more sensitive. This is a way of learning from everything.
+
+**Charlie Kaufman** [BAFTA Screenwriters' Lecture](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
+> What can be done? Say who you are, really say it in your life and in your work. Tell someone out there who is lost, someone not yet born, someone who won’t be born for 500 years. Your writing will be a record of your time. It can’t help but be that. But more importantly, if you’re honest about who you are, you’ll help that person be less lonely in their world because that person will recognise him or herself in you and that will give them hope. It’s done so for me and I have to keep rediscovering it. It has profound importance in my life. Give that to the world, rather than selling something to the world. Don’t allow yourself to be tricked into thinking that the way things are is the way the world must work and that in the end selling is what everyone must do. Try not to.
+
+**Yaneer Bar-Yam**
+> Too much constraint can suffocate natural systems. They never become more complex than the person that designed them: “A hierarchy, however, imposes a limitation on the degree of complexity of collective behaviors of the system.
+
+**Michael Pollan** [A Place of My Own](https://en.wikipedia.org/wiki/A_Place_of_My_Own)
+> Certain architectural configurations...survive simply because they have proven over time to be a good way to reconcile human needs, the laws of nature, the facts of the human body, and the materials at hand.
+
+> A house that welcomes our stuff–our furniture and pictures, our keepsakes and other 'horrors' is one that we have been invited in some measure to help create or finish; ultimately, such a house will tell a story about us, individuals with history.
+
+**Anne Vernez Moudon** [Quoted in Stewart Brand's How Buildings Learn](https://en.wikipedia.org/wiki/How_Buildings_Learn)
+> Small lots will support resilience because they allow many people to attend directly to their needs by designing, building, and maintaining their own environment. By ensuring that properly remains in many hands, small lots bring important results: many people make many different decisions, thereby ensuring variety in the resulting environment.” And many property owners slow down the rate of change by making large-scale real estate transactions difficult.
+
+**Joel Spolksy** [Founders at Work](https://www.worldcat.org/title/founders-at-work-stories-of-startups-early-days/oclc/318383723)
+> I think what makes a good hack is the observation that you can do without something that everybody else thinks you need.
+
+**Alfred Whitehead**
+> Civilization advances by extending the number of important operations which we can perform without thinking about them.
+
+**David Fincher** [Interview with Elvis Mitchell](https://www.kcrw.com/culture/shows/the-treatment/david-fincher-mindhunter)
+> I've always been interested in the idea of how do you photograph the mundane in order to kind of underline what you need the audience to take away from it because...especially if you're making puzzle movies or movies that have a lot of clues in them there's a real point of exhaustion that the audience can reach if they're over-cataloguing, over-indexing everything.
+
+**Simon Nicholson** [Theory of Loose Parts](https://media.kaboom.org/docs/documents/pdf/ip/Imagination-Playground-Theory-of-Loose-Parts-Simon-Nicholson.pdf) 
+> In any environment, both the degree of inventiveness and creativity, and the possibility of discovery, are directly proportional to the number and kind of variables in it.
+
+**Christopher Alexander** [The Timeless Way of Building]()
+> To have something solid that I could be sure of, I started by examining the smallest particles of functional effect that I could discern in buildings, paying attention to small and sometimes barely significant aspects of the ways that buildings affect people. My purpose in doing this was to focus on the smallest particles of fact that I could be certain of: something that was extraordinarily difficult given the porridge of mush that then passed for architectural theory. In those early years, my studies were based on the most ordinary, minuscule observations about usefulness and the effect of buildings on the people who lived in them, always keeping the observations modest, ­reliable, and detailed—small enough and solid enough that I could be sure that they were true.
+
+> This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it.
+
+> We define organic order as the kind of order that is achieved when there is a perfect balance between the needs of the parts, and the needs of the whole.
+
+> I slowly learn that blackbirds have a million subtle forces guiding them in a their behavior. If I don't understand these forces, there is simply nothing I can do to make the table come to life. So long as the placing of the table is inexact, my image of the blackbirds flocked around the table eating, is just wishful thinking.
+
+> When a place is lifeless or unreal, there is almost always a mastermind behind it. It is so filled with the will of its maker that there is no room for its own nature.
+
+> The pattern of relationships we call a "freeway" is just that pattern of relationships required by the process of driving fast with limited access to and from side roads: in short the pattern of events.
+
+> ..each bad pattern in our environment constantly reduces us, cuts us down, reduces our ability to meet new challenges, reduces our capacity to live, and helps to make us dead...
+
+> ...the town slowly gets its structure from the incremental aggregation of their individual acts.
+
+
+**Marshall McLuhan** [Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media)
+> Plainly, to store is to expedite, since what is stored is also more accessible than what has to be gathered.
+
+**Albert Camus**
+> ..freedom is not a gift received from a state or a leader but a possession to be won every day by the effort of each and the union of all.
+
+**Christopher Alexander** [Making the Garden](https://www.firstthings.com/article/2016/02/making-the-garden)
+> To have something solid that I could be sure of, I started by examining the smallest particles of functional effect that I could discern in buildings, paying attention to small and sometimes barely significant aspects of the ways that buildings affect people. My purpose in doing this was to focus on the smallest particles of fact that I could be certain of: something that was extraordinarily difficult given the porridge of mush that then passed for architectural theory. In those early years, my studies were based on the most ordinary, miniscule observations about usefulness and the effect of buildings on the people who lived in them, always keeping the observations modest, ­reliable, and detailed—small enough and solid enough that I could be sure that they were true.
+
+**Bret Victor**
+> ...[the] power of an idea lies in the form in which it’s expressed because that’s what allows people to think it. 
+
+**Edmnd Leach** [1967 Reith Lecture](http://downloads.bbc.co.uk/rmhttp/radio4/transcripts/1967_reith3.pdf)
+> This act of listening and understanding is an act of submission on your part.
+
+> If anything in my immediate vicinity is out of my control, that thing becomes a source of fear. This is true of persons as well as objects. If Mr X is someone with whom I cannot communicate, then he is out of my control, and I begin to treat him as a wild animal rather than a fellow human being. He becomes a brute. His presence then generates anxiety, but his lack of humanity releases me from all moral restraint: the triggered responses which might deter me from violence against my own kind no longer apply.
+
+**Tobias Dantzig** [Number: The Language of Science](https://www.google.com/books/edition/Number/Pg_RKtlVlNMC?hl=en&gbpv=1&dq=%22The+harmony+of+the+universe+knows+only+one+musical+form%E2%80%94the+legato%3B+while+the+symphony+of+number+knows+only+its+opposite%E2%80%94the+staccato.+All+attempts+to+reconcile+this+discrepancy+are+based+on+the+hope+that+an+accelerated+staccato+may+appear+to+our+senses+as+a+legato.%22&pg=PA176&printsec=frontcover)
+> The harmony of the universe knows only one musical form—the legato; while the symphony of number knows only its opposite—the staccato. All attempts to reconcile this discrepancy are based on the hope that an accelerated staccato may appear to our senses as a legato.
+
+**Susan Sontag** [Notes on "Camp"](https://monoskop.org/images/5/59/Sontag_Susan_1964_Notes_on_Camp.pdf)
+> Any sensibility which can be crammed into the mold of a system, or handled with the rough tools of proof, is no longer a sensibility at all. It has hardened into an idea...
+
+**John B. Jackson** [A Sense of Place, A Sense of Time](https://newprairiepress.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1111&context=oz)
+> We fail to see "social uniqueness" because most of us establish the sense of place not by its forms, its spaces and structures, but by the way it tells time, by the sequence of daily, weekly, yearly events.
+
+> It is characteristic of the establishment, (the spectator, the tourist, the professional observer), to admire visible and formal relationships. But it is not a characteristic of the average citizen, and we have to be very obtuse, very remote from the everyday world if we fail to see how alive most Americans are to what seems to them the unique qualities of the town or city they live in: of climate, of politics, of cuisine, of perverse driving, of accent and dress and daily habits. In these respects each place is unlike any other. No one will claim that each is architecturally or urbanistically beyond compare, but all will recognize its social individuality.
+
+**Kevin Lynch** [The Image of the City](https://en.wikipedia.org/wiki/The_Image_of_the_City)
+>Any existing, functioning urban area has structure and identity, even if only in weak measure...A frequent problem is the sensitive reshaping of an already existing environment: discovering and preserving its strong images, solving its perceptual difficulties, and, above all, drawing out the structure and identity latent in the confusion.
+
+> Most objects which we are accustomed to call beautiful, such as a painting or a tree, are single-purpose things, in which, through long development or the impress of one will, there is an intimate, visible linkage from the fine detail to the total structure.
+
+> ...a distinctive and legible environment not only offers security but also heightens the potential depth and intensity of human experience. Although life is far from impossible in the visual chaos of the modern city, the same daily action could take on new meaning if carried out in a more vivid setting." 
+
+> ...education in seeing will be quite important as the reshaping of what is seen. Indeed, they together form a circular, or hopefully a spiral, process: visual education impelling the citizen to act upon his visual world, and this action causing him to see even more acutely. A highly developed art of urban design is linked to the creation of a critical and attentive audience. If art and audience grow together, then our cities will be a source of daily enjoyment to millions of their inhabitants.
+
+> A landscape whose every rock tells a story may make difficult the creation of fresh stories.
+
+> Concepts of size may depend in part on how well a structure can be grasped.
+
+
+**Witold Rybczynski** [Home: A Short History of an Idea
+](https://en.wikipedia.org/wiki/Home:_A_Short_History_of_an_Idea)
+> Hominess is not neatness. otherwise everyone would live in replicas of the kinds of sterile and impersonal homes that appear in interior-design and architectural magazines. what these spotless rooms lack, or what crafty photographers have carefully removed, is any evidence of human occupation. in spite of the artfully placed vases and casually arranged art books, the imprint of their inhabitants is missing. can people really live without clutter?
+
+> A well-designed chair must accommodate not only relaxed sitting, but also having a drink, reading, conversation, bouncing babies on the knee, dozing, and so on. It must permit the sitter to shift about and adopt a variety of positions. This changing of postures has a social function–so-called body language.
+
+**Michael Pollan** []()
+> A frame always implies a point of view, the presence of some order principle or sensibility.
+
+**Margaret Jane Radin** [Property and Personhood](https://cyber.harvard.edu/IPCoop/82radi.html)
+> If an object you now control is bound up in your future plans or in your anticipation of your future self, and it is partly these plans for your own continuity that make you a person, then your personhood depends on the realization of these expectations.
+
+**Bret Victor** [beast of burden](http://worrydream.com/)
+> Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things __don't__ change the world. __People__ change the world by using things. The focus must be on the "using", not the "thing". 
+
+**Brian Eno** [Interview with Rick Rubin](https://podcasts.apple.com/ca/podcast/extended-cut-brian-eno/id1311004083?i=1000528018524)
+> Ones tastes tends to propel you into the same areas over and over again.
+
+**Brian Eno** [Quoted in Stewart Brand's How Buildings Learn](https://en.wikipedia.org/wiki/How_Buildings_Learn)
+> We are convinced by things that show internal complexity, that show the traces of an interesting evolution. Those signals tell us that we might be rewarded if we accord it our trust. An important aspect of design is the degree to which the object involves you in its own completion. Some work invites you into itself by not offering a finished, gloss, one-reading-only sufrface. This is what makes old buildings interesting to me. I think that humans have a taste for things that not only show that they have been through a process of evolution, but which also show they are still a part of one. They are not dead yet.
+
+**Kevin Kelly** [Kevin Kelly and Steven Johnson on Where Ideas Come From
+](https://www.wired.com/2010/09/mf-kellyjohnson/)
+> ...we should think of ideas as *connections,*in our brains and among people. Ideas aren't self-contained things; they're more like ecologies and networks. They travel in clusters.
+
+**David Whyte** 
+> The ultimate touchstone is witness, the privilege of having been seen by someone, and the equal privilege of being granted the sight of the essence of another, to have walked with them, and to have believed in them, and sometimes, just to have accompanied them, for however brief a span, on a journey impossible to accomplish alone. 
+
+**David Whyte** [Interview with Krista Tippett](https://onbeing.org/programs/david-whyte-seeking-language-large-enough/)
+> ...one of the powerful dynamics of leadership is being visible. One of the vulnerabilities of being visible is that when you’re visible, you can be seen, and when you can be seen, you can be touched, and when you can be touched, you can be hurt.
+
+**Zadie Smith** [Interview with Jennifer Egan](https://www.youtube.com/watch?v=FtPrrSaavVA&t=3458s&ab_channel=The92ndStreetY%2CNewYork)
+> When the life is seemingly-stayed, the mind is free. You are not asking for anything from strangers. Like, "Do you like me? Am I okay? Do you love me? Am I interesting? Am I smart?" It stops mattering. Whatever those emotional needs are supplied by actual humans that you know. And, so then the writing can…can really get liberated. Or at least, another way of putting it I think, it is has a responsibility to be free.
+
+**Yi-Fu Tuan** [Space and Place](https://www.upress.umn.edu/book-division/books/space-and-place)
+
+> A mere smile or touch may signal our consciousness of an important occasion. Insofar as these gestures can be observed they are public. They are also fleeting, however, and their meaning so eludes confident interpretation that they cannot provide the basis for group planning and action. They lack the firmness and objectivity of words and pictures.
+
+> The world feels spacious and friendly when it accommodates our desires, and cramped when it frustrates them.
+
+> Two fishermen pulling in a net on the seashore appear natural, but two poets brooding side by side on the same strand would be ridiculous–one solitude too many.
+
+> Solitude is a condition for acquiring a sense of immensity. Alone one's thoughts wander freely over space. In the presence of others they are pulled back by an awareness of other personalities who project their own worlds onto the same area.
+
+> To experience is to learn; it means acting on the given and creating out of the given. The given cannot be known in itself. What can be known is a reality that is a construct of experience, a creation of feeling and thought.
+
+> Freedom implies space; it means having the power and enough room in which to act.
+
+
+**Antoine de Saint-Exupery**
+> The machine which at first blush seems a means of isolating man from the great problems of nature actually plunges him more deeply into them. As for the peasant so for the pilot, dawn and twilight become events of consequence. His essential problems are set him by the mountain, the sea, the wind. Alone before the vast tribunal of the tempestuous sky, the pilot defends his mails [sic] and debates on terms of equality with those three elemental divinities.
+
+> Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.
+
+
+**William James** [*The Principles of Psychology Volume 2*](https://www.google.com/books/edition/The_Principles_of_Psychology/vOU6V6lhgXUC?hl=en&gbpv=1&dq=%22We+think+the+ocean+as+a+whole+by+multiplying+mentally+the+impression+we+get+at+any+moment+when+at+sea.%22&pg=PA203&printsec=frontcover)
+> We think the ocean as a whole by multiplying mentally the impression we get at any moment when at sea.
+
+> We call the reverberations of a thunderstorm more voluminous than the squeaking of a slate-pencil; the entrance into a warm bath gives our skin a more massive feeling than the prick of a pin; a little neuralgic pain, fine as a cobweb, in the face, seems less extensive than the heavy soreness of a boil or the vast discomfort of a colic or a lumbago; and a solitary star looks smaller than the noonday sky.
 
 **Christopher Alexander** [*A City is Not a Tree*](https://www.patternlanguage.com/archive/cityisnotatree.html#)
   > The playground, asphalted and fenced in, is nothing but a pictorial acknowledgment of the fact that 'play' exists as an isolated concept in our minds.
+  
+> Play itself, the play that children practise, goes on somewhere different every day. One day it may be indoors, another day in a friendly gas station, another day down by the river, another day in a derelict building, another day on a construction site which has been abandoned for the weekend. Each of these play activities, and the objects it requires, forms a system.
+
+> When we think in terms of trees we are trading the humanity and richness of the living city for a conceptual simplicity which benefits only designers, planners, administrators and developers.
 
 
 **Kevin Lynch** *The Image of the City*
   > Any existing, functioning urban area has structure and identity, even if only in weak measure...A frequent problem is the sensitive reshaping of an already existing environment: discovering and preserving its strof
 
-START HERE
 **James Scott** [*Seeing Like a State*](https://www.worldcat.org/title/seeing-like-a-state-how-certain-schemes-to-improve-the-human-condition-have-failed/oclc/37392803)
   > State simplifications such as maps, censuses, cadastral list, and standard unites of measurement represent techniques for grasping a large and complex reality; in order for officials to be able to comprehend aspects of the ensemble, that complex reality must be reduced to schematic categories. The only way to accomplish this is to reduce an infinite array of detail to a set of categories that will facilitate summary descriptions, comparisons and aggregation.
 
-**Kanye West**
-  > I know I don’t know. If i thought i did. I’d put out some bullshit. The fact that I know that I’m not on that level right now, gives me the area to learn. It’s ike being a child. Because I'm alway looking. Searching for new shit. Alway looks for art in everything. As you make more you always see something else. The point when you're satisfied is when you’re dead. You should never bee completely satisfied.
+> Changing the rules of regulations is simpler than eliciting the behavior that conforms to them
+
 
 **David Foster Wallace** [*2005 commencement address at Kenyon College*](https://www.1843magazine.com/story/david-foster-wallace-in-his-own-words)
   > ...blind certainty, a close-mindedness that amounts to an imprisonment so total that the prisoner doesn't even know he's locked up.
@@ -26,27 +353,32 @@ START HERE
 **Andrew L. Shaprio** [*Freedom from Speech*](http://motspluriels.arts.uwa.edu.au/MP1801as.html#bev)
   > Though the Net empowers us as speakers, it empowers us as listeners even more. We need never be "captives" subject to speech we don't want to hear.
 
+**Kenya Hara**
+> A city is not made by commissioning wonderfully talented architects. Instead, a city results from the competing desires of a large number of people … When people stop dropping litter, or spitting on the street, the city moves forward a step. When graffiti disappears, broken streetlights aren’t left unfixed, and public toilets start to stay clean by themselves, the city has moved one step closer to sophistication. Design can educate people’s desires and help cities grow in that way. This is not a dogma. Rather it is the ability to help people notice something special: like the instant when they use an unpatterned towel made from a material with a pleasant feel.
 
 **William Gibson**
 > Today, there’s no specific need for a mechanical watch, unless you’re worried about timekeeping in the wake of an Electromagnetic Pulse attack. So we have heritage devices, increasingly archaic in the singularity of their function, their lack of connectivity. But it was exactly that lack that once made them heroic: they kept telling accurate time, regardless of what was going on around them. They were accurate because they were unconnected, unitary.
 
-**Michell de Certeau** [*The Practice of Everyday Life*](https://www.worldcat.org/title/practice-of-everyday-life/oclc/794663703)
-  > Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance whole giving the impression of ‘keeping it’.
 
 **William Coperthwaite** [*A handmade life : in search of simplicity*](https://www.worldcat.org/title/handmade-life-in-search-of-simplicity/oclc/51983375)
-  > "Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'"
+  > Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'
 
 **Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
   > We get to the point where we cannot describe our impression of an object without treating it as a living thing with its own physiognomy. For even the most precise description, enumerating all visible characteristics, will not give an inkling what we feel is the essence of the thing itself. Just as we do not notice the individual letters in a word but receive a total impression of the idea the word conveys, we generally are not aware of what it is that we perceive but only of the conception created in our minds when we perceive it.
+  
+> Light alone can create the effect of enclosed space. A campfire on a dark night forms a cave of light circumscribed by a wall of darkness. Those who are within the circle of light have the secure feeling of being together in the same room. It follow, therefore, that if you wish to create an effect of openness you cannot employ concentrated light. 
 
-**Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief_results)
-  > Eventually I decided to give my thoughts a form, to put them into practice, and so to determine whether my understanding was right or wrong.
+> If we believe that the object of architecture is to provide a framework for people's lives, then the rooms in our homes, and the relation between the, must be determined by the way we live in them and move through them.
 
 **Rick Prelinger** [*On the Virtues of Preexisting Material*](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
   > We’re often too quick to imagine that we’ve actually learned from the past. But new works often tend to recycle the same ideas over and over again into different media. To me this suggests that we might be more open to letting old works speak, that our task might not be so much to make new works but to build new platforms for old works to speak from.
 
 **Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
   > In good architecture, consciously designed, the small room appears small, the large room large, and instead of disguising this it should be emphasized by the judicious use of color.
+
+
+**David Foster Wallace** [2005 Kenyon Commencement Address](https://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf)
+> Worship power, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. But the insidious thing about these forms of worship is not that they're evil or sinful, it's that they're unconscious. They are default settings.
 
 **Why the Lucky Stiff**
   > When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.
@@ -66,3 +398,5 @@ saying that certain familiar things aren't there, and they're seeing a couple ma
 
 **Yaneer Bar-Yam**
 > In order to survived, the organism behavior must reflect in some way the nature of the environment.
+
+> A group of individuals whose collective behavior is controlled by a single individual cannot behave in a more complex way than the individual who is exercising the control.
