@@ -1,4 +1,11 @@
-# Quotes
+---
+title: Quotes
+description: 
+date: 2022-07-03
+tags:
+  - posts
+layout: layouts/post.njk
+---
 
 **Pono Shim**
 > An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi.
@@ -53,7 +60,7 @@
 **Jacques Sojcher** 
 > ...everything that speaks, makes noise, passes by, touches us lighty, meets us head on.
 
-**Clay Shirky** [Listening to Napster]()
+**Clay Shirky** [Listening to Napster](https://www.oreilly.com/library/view/peer-to-peer/059600110X/ch02.html)
 > Once a definitive label is applied to a new phenomenon, it invariably begins shaping - and possibly distorting - people's views.
 
 > Definitions are useful only as tools for sharpening one's perception of reality and improving one's ability to predict the future.
@@ -69,6 +76,53 @@
 
 **Dave Winer** [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html#annotations:cP4g_JD9EeivZSfMNDlKlQ)
 > Twitter is at least a dress rehearsal for the news system of the future. A key component of this system is that it is used both as the back room for narrating news work and for the finished delivered news product.
+
+**Alan Watts** [The Wisdom of Insecurity](https://www.worldcat.org/title/wisdom-of-insecurity/oclc/412601)
+> Belief clings, but faith lets go.
+
+> The power of memories and expectations is such that for most human beings the past and the future are not as real, but more real than the present.
+
+> The human body lives because it is a complex of motions, of circulation, respiration, and digestion. To resist change, to try to cling to life, is therefore like holding your breath: if you persist you kill yourself.
+
+> “I”—is really a stream of experiences, of sensations, thoughts, and feelings in constant motion. But because these experiences include memories, we have the impression that “I” is something solid and still, like a tablet upon which life is writing a record.
+
+> Ideas and words are more or less fixed, whereas real things change. 
+
+> The more we try to live in the world of words, the more we feel isolated and alone, the more all the joy and liveliness of things is exchanged for mere certainty... 
+
+> A less brainy culture would learn to synchronize its body rhythms rather than its clocks.
+
+> If I want to be secure, that is, protected from the flux of life, I am wanting to be separate from life.
+
+> We suffer from the delusion that the entire universe is held in order by the categories of human thought, fearing that if we do not hold to them with the utmost tenacity, everything will vanish into chaos.
+
+> By holding his breath, he loses it. By letting it go he finds it.
+
+> So long as there is the motive to become something, so long as the mind believes in the possibility of escape from what it is at this moment, there can be no freedom.
+
+**Marshall McLuhan** [The Gutenberg Galaxy](https://en.wikipedia.org/wiki/The_Gutenberg_Galaxy)
+> The highly literate and individualist liberal mind is tormented by the pressure to become collectively oriented. The literate liberal is convinced that all real values are private, personal, individual. Such is the message of mere literacy. Yet the new electric technology pressures him towards the need for total human interdependence.
+
+> An age in rapid transition is one which exists on the frontier between two cultures and between conflicting technologies. Every moment of its consciousness is an act of translation of each of these cultures into the other.
+
+> Our extended senses, tools, technologies, through the ages, have been closed systems incapable of interplay or collective awareness. Now, in the electric age, the very instantaneous nature of coexistence among our technological instruments has created a crisis quite new in human history. Our extended faculties and senses now constitute a single field of experience which demands that they become collectively conscious
+
+**Edward T. Hall** [The Silent Language](https://www.worldcat.org/title/silent-language/oclc/255430)
+> In fact, all man-made material things can be treated as extensions of what man once did with his body or some specialized part of his body.
+
+**Hermann Hesse** [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
+> Too much knowledge had hindered him; too many holy verses, too any sacrificial rites, too much mortification of the flesh, too much doing and striving. He had bee full of arrogance; he had always been the cleverest, the most eager–always a step ahead of the others, always the learned and intellectual one, always the priest or the sage. His Self had crawled into this priesthood, into this arrogance, into this intellectuality.
+
+> Seeking means: to have a goal; but finding means: to be free, to be receptive, to have no goal.
+
+> Knowledge can be communicated, but not wisdom. One can find it, live it, be fortified by it, do wonders through it, but one cannot communicate and teach it.
+
+> These are things and one can love things. But one cannot love words. Therefore teachings are of no use to me; they have no hardness, no softness, nor colors, no corners, no smell, no states they have nothing but words.
+
+**Robert Wright** [Nonzero: The Logic of Human Destiny](https://en.wikipedia.org/wiki/Nonzero:_The_Logic_of_Human_Destiny)
+> Information is what synchronizes the parts of the whole and keeps in touch with each other as they collectively resist disruption and decay
+
+> ...governance: the voluntary submission of individual players to an authority that, by solving nonzero sum problems, can give out in benefits more than it exacts in costs.
 
 **Samuel Mockbee**
 > Physical poverty is not an abstraction, but we almost never think of impoverishment as evidence of a world that exists. Much less do we imagine that it‘s a condition from which we may draw enlightenment in a very practical way.
@@ -150,6 +204,14 @@
 **Clary Shirky** [Cognitive Surplus](https://en.wikipedia.org/wiki/Cognitive_Surplus)
 > ...people don't behave in ways they don't have the opportunity to behave in.
 
+> Lowered costs in any realm allow for increased experimentation; lowered costs for communication mean new experimentation in what gets thought and said.
+
+> ...we increasingly learn about the world through strangers' random choices about what to share...
+
+> Now that we have tools that let groups of people find one another and share their thoughts and actions, we are seeing a strange new bybrid: large, public, amateur groups.
+
+> Groups tolerate governance, which is by definition a set of restictions, only after enough value has accumulated to make the burden worthwhile.
+
 **David Weinberger** [New Clues](http://newclues.cluetrain.com/)
 > ...conversation requires a common ground: shared language, interests, norms, understandings. Without those, it’s hard or even impossible to have a conversation.
 
@@ -168,6 +230,27 @@
 
 **Ted Nelson** 
 > A document is not necessarily a simulation of paper. In the most general sense, a document is a package of ideas created by human minds and addressed to human minds, intended for the furtherance of those ideas and those minds. Human ideas manifest as text, connections, diagrams and more: thus how to store them and present them is a crucial issue for civilization.
+
+**Jiddu Krishnamurti** [Freedom from the Knwon](https://en.wikipedia.org/wiki/Freedom_from_the_Known)
+> Freedom is a state of mind–not freedom from something but a sense of freedom, a freedom to doubt and question everything and there so intense, active and vigorous that it throws away ever form of dependence, slavery, conformity and acceptance.
+
+> The mere intellectual acceptance of an idea, or the emotional acquiescence in an ideology, cannot free the mind from being dependent on something which will give it stimulation.
+
+> There is only one desire; there is only desire. You desire. The objects of desire change, but desire is always the same. So perhaps in the same way there is only fear. You are afraid of all sorts of things but there is only one fear.
+
+> It is one of the most difficult things in the world to look at anything simply...the [kind of] simplicity that can look directly at things without fear - that can look at ourselves as we actually are without any distortion-to day when we lie we lie, not covering it up or run away from it.
+
+>  A dead thing has a path to it because it is static, but when you see the truth a something living, moving, which has no resting place, which is in no temple, mosque or church, which no religion, no teacher, no philosopher, nobody can lead you to– then you will also see that this living thing is what you actually are-your anger, your brutality, your violence, your despair the agony and sorrow you live in.
+
+> The primary cause of disorder in ourselves is the seeking of reality ppromised by another.
+
+**Alive E. Roth** [Who Gets What and Why](https://www.worldcat.org/title/who-gets-what-and-why-the-new-economics-of-matchmaking-and-market-design/oclc/885225352)
+> But the reason natural languages aren’t really under our control is because they emerge from the interaction of millions of users.
+
+> In person, you can also send costly signals of your interest. Flowers and other forms of attention, from remembering birthdays to sending Valentine’s Day cards, signal that you’re devoting your attention—a valuable, costly good in itself.
+
+> One concern is objectification, the fear that the act of putting a price on certain things—and then buying or selling them—might move them into a class of impersonal objects to which they should not belong. That is, they risk losing their moral value.
+
 
 
 **Dominique Foray** [The Economics of Knowledge](https://mitpress.mit.edu/books/economics-knowledge)
@@ -192,6 +275,8 @@
 
 > A house that welcomes our stuff–our furniture and pictures, our keepsakes and other 'horrors' is one that we have been invited in some measure to help create or finish; ultimately, such a house will tell a story about us, individuals with history.
 
+> > A frame always implies a point of view, the presence of some order principle or sensibility.
+
 **Anne Vernez Moudon** [Quoted in Stewart Brand's How Buildings Learn](https://en.wikipedia.org/wiki/How_Buildings_Learn)
 > Small lots will support resilience because they allow many people to attend directly to their needs by designing, building, and maintaining their own environment. By ensuring that properly remains in many hands, small lots bring important results: many people make many different decisions, thereby ensuring variety in the resulting environment.” And many property owners slow down the rate of change by making large-scale real estate transactions difficult.
 
@@ -204,10 +289,10 @@
 **David Fincher** [Interview with Elvis Mitchell](https://www.kcrw.com/culture/shows/the-treatment/david-fincher-mindhunter)
 > I've always been interested in the idea of how do you photograph the mundane in order to kind of underline what you need the audience to take away from it because...especially if you're making puzzle movies or movies that have a lot of clues in them there's a real point of exhaustion that the audience can reach if they're over-cataloguing, over-indexing everything.
 
-**Simon Nicholson** [Theory of Loose Parts](https://media.kaboom.org/docs/documents/pdf/ip/Imagination-Playground-Theory-of-Loose-Parts-Simon-Nicholson.pdf) 
+**Simon Nicholson** [Theory of Loose Parts](https://media.kaboom.org/docs/documents/pdf/ip/Imagination-Playground-Theory-of-Loose-Parts-Simon-Nicholson.pdf) 
 > In any environment, both the degree of inventiveness and creativity, and the possibility of discovery, are directly proportional to the number and kind of variables in it.
 
-**Christopher Alexander** [The Timeless Way of Building]()
+**Christopher Alexander** [The Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)
 > To have something solid that I could be sure of, I started by examining the smallest particles of functional effect that I could discern in buildings, paying attention to small and sometimes barely significant aspects of the ways that buildings affect people. My purpose in doing this was to focus on the smallest particles of fact that I could be certain of: something that was extraordinarily difficult given the porridge of mush that then passed for architectural theory. In those early years, my studies were based on the most ordinary, minuscule observations about usefulness and the effect of buildings on the people who lived in them, always keeping the observations modest, ­reliable, and detailed—small enough and solid enough that I could be sure that they were true.
 
 > This is a fundamental view of the world. It says that when you build a thing you cannot merely build that thing in isolation, but must repair the world around it, and within it, so that the larger world at that one place becomes more coherent, and more whole; and the thing which you make takes its place in the web of nature, as you make it.
@@ -273,14 +358,11 @@
 
 > A well-designed chair must accommodate not only relaxed sitting, but also having a drink, reading, conversation, bouncing babies on the knee, dozing, and so on. It must permit the sitter to shift about and adopt a variety of positions. This changing of postures has a social function–so-called body language.
 
-**Michael Pollan** []()
-> A frame always implies a point of view, the presence of some order principle or sensibility.
-
 **Margaret Jane Radin** [Property and Personhood](https://cyber.harvard.edu/IPCoop/82radi.html)
 > If an object you now control is bound up in your future plans or in your anticipation of your future self, and it is partly these plans for your own continuity that make you a person, then your personhood depends on the realization of these expectations.
 
 **Bret Victor** [beast of burden](http://worrydream.com/)
-> Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things __don't__ change the world. __People__ change the world by using things. The focus must be on the "using", not the "thing". 
+> Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things __don't__ change the world. __People__ change the world by using things. The focus must be on the "using", not the "thing". 
 
 **Brian Eno** [Interview with Rick Rubin](https://podcasts.apple.com/ca/podcast/extended-cut-brian-eno/id1311004083?i=1000528018524)
 > Ones tastes tends to propel you into the same areas over and over again.
@@ -400,3 +482,4 @@ saying that certain familiar things aren't there, and they're seeing a couple ma
 > In order to survived, the organism behavior must reflect in some way the nature of the environment.
 
 > A group of individuals whose collective behavior is controlled by a single individual cannot behave in a more complex way than the individual who is exercising the control.
+
