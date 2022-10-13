@@ -1,49 +1,53 @@
 *In no particular order...*
 
-**Kevin Lynch** [What Time Is This Place]()
->-- To attempt to preserve all of the past would be life-denying.
 
->-- An environment that cannot be changed invites its own destruction.
+**Kevin Lynch** [What Time Is This Place](https://mitpress.mit.edu/9780262620321/what-time-is-this-place/)
+>- If we examine the feelings that accompany daily life, we find that historic monuments occupy a small place.
 
->-- An environment that facilitates recalling and learning is a way of linking the living moment to a wide span of time. Being alive is being awake in the present, secure in our ability to continue but alert to the new things that come streaming by. We feel our own rhythm, and feel also that it is part of the rhythm of the world. It is when local time, local place, and our own selves are secure that we are ready to face challenge, complexity, vast space, and the enormous future.
+>- To attempt to preserve all of the past would be life-denying.
 
->-- If forms are standard and do not change, we experience déjà vu. The world recycles endlessly. Pervasive novelty is even more disturbing. We experience jamais vu - we see nothing we have ever seen before, there are no connections, the present is perilously small.
+>- An environment that cannot be changed invites its own destruction.
+
+>- An environment that facilitates recalling and learning is a way of linking the living moment to a wide span of time. Being alive is being awake in the present, secure in our ability to continue but alert to the new things that come streaming by. We feel our own rhythm, and feel also that it is part of the rhythm of the world. It is when local time, local place, and our own selves are secure that we are ready to face challenge, complexity, vast space, and the enormous future.
+
+>- If forms are standard and do not change, we experience déjà vu. The world recycles endlessly. Pervasive novelty is even more disturbing. We experience jamais vu - we see nothing we have ever seen before, there are no connections, the present is perilously small.
 
 
 **Pono Shim**
->-- _An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi._
+>- An aloha response seeks relevance and significance for others and transforms the individuals and problems or issues. It’s continuous presence, awareness, and reflection.  It’s not like throwing water on someone, it seeps and creeps thru the crevices in our lives and others until there’s no more Ahonui, Haahaa, Akahai, Olu olu, and Lokahi. 
 
->-- _Like a martial art we learn a move and practice, learn a new move and practice, and practice and practice and practice until one day there are no more moves, only movement.  They are learning the moves and one day my aspiration for each one is that there are no more principles or moves, someday there’s only aloha._
+>- Like a martial art we learn a move and practice, learn a new move and practice, and practice and practice and practice until one day there are no more moves, only movement.  They are learning the moves and one day my aspiration for each one is that there are no more principles or moves, someday there’s only aloha.
 
 **David Kirsh** [Changing the rules: architecture and the new millennium)](https://interactivity.ucsd.edu/articles/Convergence/final.html)
->-- _In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly._
->-- _Because in the digital world there are no intrinsic physical constraints, causation is simulated._
+>- In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly. 
+>- Because in the digital world there are no intrinsic physical constraints, causation is simulated. 
 
->-- _When telepresence is coupled with rich media capture of activity, time, as well as space begins to lose its structuring power on how we must prepare to do what we do where we must._
+>- When telepresence is coupled with rich media capture of activity, time, as well as space begins to lose its structuring power on how we must prepare to do what we do where we must. 
 
 **Audre Lorde** [The Transformation of Silence into Language and Action*](https://electricliterature.com/wp-content/uploads/2017/12/silenceintoaction.pdf)
->-- _For we have been socialized to respect fear more than our own needs for language and definition, and while we wait in silence for that final luxury of fearlessness, the weight of that silence will choke us._
+>- For we have been socialized to respect fear more than our own needs for language and definition, and while we wait in silence for that final luxury of fearlessness, the weight of that silence will choke us. 
 
->-- _...we fear the visibility without which we we cannot truly live._
+>- ...we fear the visibility without which we we cannot truly live. 
 
->-- _...that visbility which makes us most vulnerable is that which also is the source of our greatest strength._
+>- ...that visbility which makes us most vulnerable is that which also is the source of our greatest strength. 
 
->-- _...it is not difference which immobilizes us, but silence. And there are so many silences to be broken._
+>-  ...it is not difference which immobilizes us, but silence. And there are so many silences to be broken. 
 
 
 **Maya Angelou** [Desert Island Discs (1988)](https://www.bbc.co.uk/programmes/p009mlht)
->-- Because of the routines we follow, we often forget that life is an ongoing adventure…and the sooner we realize that, the quicker we will be able to treat life as art...to bring all our energies to each encounter, to remain flexible enough to notice and admit when what we expected to happen did not happen. We need to remember that we are created creative and can invent new scenarios as frequently as they are needed.
+>- Because of the routines we follow, we often forget that life is an ongoing adventure…and the sooner we realize that, the quicker we will be able to treat life as art...to bring all our energies to each encounter, to remain flexible enough to notice and admit when what we expected to happen did not happen. We need to remember that we are created creative and can invent new scenarios as frequently as they are needed.
 
->-- There is the ability to submit to feeling. When you submit to feeling,  embarrassment is not in it. It doesn’t even arise. You admit that you are submitting and feeling lonely or happy and allow then that particular, or those conflicting emotions, to inform the expression.
+>- There is the ability to submit to feeling. When you submit to feeling,  embarrassment is not in it. It doesn’t even arise. You admit that you are submitting and feeling lonely or happy and allow then that particular, or those conflicting emotions, to inform the expression.
 
-**David Kirsh** [Changing the Rules Architecture and the New Millennium](https://adrenaline.ucsd.edu/kirsh/Articles/CoopBuildings/changing_the_rules.pdf)
+**Murray S. Davis** [That's Interesting!](https://proseminarcrossnationalstudies.files.wordpress.com/2009/11/thatsinteresting_1971.pdf)
+>- ...all social theories which are found interesting involve a certain movement of the mind of the audience who finds them so. These theories implicitly articulate the routinely taken-for-granted assumptions of the audience who finds them interesting, and then deny these presumptions in the name of some higher–or more fundamental–truth. 
 
->-- _In a good interface, every effort is made to provide users with the feeling that they can directly manipulate the objects they see. The truth, though, is that users never actually interact with any digital object directly._
+>- ...it is not the inner development of a theory which makes it interesting, but its outer relation to the assumption of its audience.  
 
-**Murray S. Davis**
->-- _...all social theories which are found interesting involve a certain movement of the mind of the audience who finds them so. These theories implicitly articulate the routinely taken-for-granted assumptions of the audience who finds them interesting, and then deny these presumptions in the name of some higher–or more fundamental–truth._
 
->-- _...it is not the inner development of a theory which makes it interesting, but its outer relation to the assumption of its audience._ 
+>- ...an audience finds a proposition 'interesting' not because it tells them some truth they did not already know, but instead because it tells them some truth they thought they already knew was wrong. In other words, an interesting proposition is one which denies some aspect of the assumption-ground of its audience...
+
+>- Those who attempt to popularize propositions which experts had found interesting often must resort to jargon in order to obscure the fundamental lack of inter-translatability between the universe of discourse of the intellectual specialty and the universe of discourse of the common-sense world.
 
 **James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
 >- The most elemental difference between the machine and the garden is that one is driven by a force which must be introduced from without, the other grown by an energy which originates from within itself.
@@ -72,10 +76,14 @@
 
 >- Good observer-dependent art deepens the observer's insights about this world or possible worlds, unveiling previously unknown regularities in compressible data, connecting previously disconnected patterns in an initially surprising way that makes the combination of these patterns subjectively more compressible (art as an eye-opener), and eventually becomes known and less interesting.
 
+>- Neither the arbitrary nor the fully predictable is truly novel or surprising—only data with still unknown algorithmic regularities are.
 
->- ...an audience finds a proposition 'interesting' not because it tells them some truth they did not already know, but instead because it tells them some truth they thought they already knew was wrong. In other words, an interesting proposition is one which denies some aspect of the assumption-ground of its audience...
+>- During interaction with the world, store the entire raw history of actions and sensory observations including reward signals—the data is holy as it is the only basis of all that can be known about the world.
 
->- Those who attempt to popularize propositions which experts had found interesting often must resort to jargon in order to obscure the fundamental lack of inter-translatability between the universe of discourse of the intellectual specialty and the universe of discourse of the common-sense world.
+>- In principle, any regularity in the data history can be used to compress it. The compressed version of the data can be viewed as its simplifying explanation.
+
+>- Newton’s law of gravity can be formulated as a short piece of code which allows for substantially compressing many observation sequences involving falling apples and other objects.
+
 
 **Masanobu Fukuoka** [One Straw Revolution](https://www.worldcat.org/title/251203919)
 >- People think they understand things because they become familiar with them. This is only superficial knowledge...Discrimination, a fragmented and incomplete understanding always forms the starting point of human knowledge. Unable to know the whole of nature, people can do no better than to construct an incomplete model of it and then delude themselves into thinking that they have created something natural.
@@ -99,7 +107,7 @@
 
 >- Good designers are forever looking for ways of contracting the number of decisions users must make: not just in the number of actions they must consider at any point but in the number of times they must make a decision at all.
 
-**Annie Murphy Paul** [Extended Mind: The Power of Thinking Outside the Brain](https://www.worldcat.org/title/extended-mind-the-power-of-thinking-outside-the-brain/oclc/1275428473&referer=brief_results)
+**Annie Murphy Paul** [Extended Mind: The Power of Thinking Outside the Brain](https://books.google.com/books/about/The_Extended_Mind.html?id=Dk-_DwAAQBAJ&redir_esc=y)
 >- Learning is moving in new ways.
 
 >- When thought overwhelms the mind, the mind uses the world...
@@ -124,7 +132,7 @@
 **Dave Weinberger** [Transparency is the new objectivity](https://www.hyperorg.com/blogger/2009/07/19/transparency-is-the-new-objectivity/)
 >- Transparency prospers in a linked medium, for you can literally see the connections between the final draft’s claims and the ideas that informed it."
 
-**Dave Winer** [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html#annotations:cP4g_JD9EeivZSfMNDlKlQ)
+**Dave Winer** [Narrate your work](http://scripting.com/stories/2009/08/09/narrateYourWork.html#annotations:cP4g JD9EeivZSfMNDlKlQ)
 >- Twitter is at least a dress rehearsal for the news system of the future. A key component of this system is that it is used both as the back room for narrating news work and for the finished delivered news product.
 
 **Robert Winter** [The California Bungalow](https://www.worldcat.org/title/california-bungalow/oclc/6250406)
@@ -163,7 +171,7 @@
 >- ...ordinary words convey only what we know already; it is from metaphor that we can best get hold of something fresh.
 
 
-**Marshall McLuhan** [Understanding Media](https://en.wikipedia.org/wiki/Understanding_Media)
+**Marshall McLuhan** [Understanding Media](https://en.wikipedia.org/wiki/Understanding Media)
 >- Slang offers an immediate index to changing perception.
 
 >- To live and experience anything is to translate its direct impact into many indirect forms of awareness.
@@ -215,7 +223,7 @@
 **Edward T. Hall** [The Silent Language](https://www.worldcat.org/title/silent-language/oclc/255430)
 >- In fact, all man-made material things can be treated as extensions of what man once did with his body or some specialized part of his body.
 
-**Hermann Hesse** [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
+**Hermann Hesse** [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha (novel))
 >- Too much knowledge had hindered him; too many holy verses, too any sacrificial rites, too much mortification of the flesh, too much doing and striving. He had bee full of arrogance; he had always been the cleverest, the most eager–always a step ahead of the others, always the learned and intellectual one, always the priest or the sage. His Self had crawled into this priesthood, into this arrogance, into this intellectuality.
 
 >- Seeking means: to have a goal; but finding means: to be free, to be receptive, to have no goal.
@@ -244,7 +252,7 @@
 
 >- Throughout history, cities have developed incrementally and grown at a steady pace that revolved around particular social, economic and political constructs, and spatially developed to reflect their community’s building knowledge, availability of materials and particular locality.
 
-**Martin Luther King Jr.** [Letter From Birmingham Jail](https://www.csuchico.edu/iege/_assets/documents/susi-letter-from-birmingham-jail.pdf)
+**Martin Luther King Jr.** [Letter From Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 >- We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.
 
 **Sep Kamvar** [Syntax & Sage: Reflections on Software and Nature](https://www.worldcat.org/title/syntax-sage-reflections-on-software-and-nature/oclc/965802620)
@@ -283,13 +291,13 @@
 **Unknown**
 >- Sometimes people use ‘respect’ to mean ‘treating someone like a person’ and sometimes they use ‘respect to mean ‘treating someone like an authority’ and sometimes people who are use to being treated like an authority say ‘if you won’t respect me i won’t respect you’ and they mean ‘if you won’t treat me like an authority i won’t treat you like a person and they’ think they’re being fair but they aren’t.
 
-**Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief_results)
+**Masanobu Fukuoka** [*One Straw Revolution*](https://www.worldcat.org/title/one-straw-revolution/oclc/321017489&referer=brief results)
   >- Eventually I decided to give my thoughts a form, to put them into practice, and so to determine whether my understanding was right or wrong.
   
 >- Nature , or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamor caused by desire and by the activity of the discriminating mind.
 
 **Michell de Certeau** [*The Practice of Everyday Life*](https://www.worldcat.org/title/practice-of-everyday-life/oclc/794663703)
-  >- Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance whole giving the impression of ‘keeping it’.
+>- Dancing on a tightrope requires that one maintain an equilibrium from one moment to the next by recreating it at every step by means of new adjustments; it requires one to maintain a balance that is never permanently acquired; constant readjustments renews the balance whole giving the impression of ‘keeping it’.
 
 **Steven Johnson** [Emergence: The Connected Lives of Ants, Brains, Cities, and Software](https://en.wikipedia.org/wiki/Emergence:_The_Connected_Lives_of_Ants,_Brains,_Cities,_and_Software)
 >- Without any recognition of other thoughts to measure our own thoughts against, our own mental state wouldn’t even register as something to think about.
@@ -427,15 +435,15 @@
 **Bret Victor**
 >- ...[the] power of an idea lies in the form in which it’s expressed because that’s what allows people to think it. 
 
-**Edmnd Leach** [1967 Reith Lecture](http://downloads.bbc.co.uk/rmhttp/radio4/transcripts/1967_reith3.pdf)
+**Edmnd Leach** [1967 Reith Lecture](http://downloads.bbc.co.uk/rmhttp/radio4/transcripts/1967 reith3.pdf)
 >- This act of listening and understanding is an act of submission on your part.
 
 >- If anything in my immediate vicinity is out of my control, that thing becomes a source of fear. This is true of persons as well as objects. If Mr X is someone with whom I cannot communicate, then he is out of my control, and I begin to treat him as a wild animal rather than a fellow human being. He becomes a brute. His presence then generates anxiety, but his lack of humanity releases me from all moral restraint: the triggered responses which might deter me from violence against my own kind no longer apply.
 
-**Tobias Dantzig** [Number: The Language of Science](https://www.google.com/books/edition/Number/Pg_RKtlVlNMC?hl=en&gbpv=1&dq=%22The+harmony+of+the+universe+knows+only+one+musical+form%E2%80%94the+legato%3B+while+the+symphony+of+number+knows+only+its+opposite%E2%80%94the+staccato.+All+attempts+to+reconcile+this+discrepancy+are+based+on+the+hope+that+an+accelerated+staccato+may+appear+to+our+senses+as+a+legato.%22&pg=PA176&printsec=frontcover)
+**Tobias Dantzig** [Number: The Language of Science](https://www.google.com/books/edition/Number/Pg RKtlVlNMC?hl=en&gbpv=1&dq=%22The+harmony+of+the+universe+knows+only+one+musical+form%E2%80%94the+legato%3B+while+the+symphony+of+number+knows+only+its+opposite%E2%80%94the+staccato.+All+attempts+to+reconcile+this+discrepancy+are+based+on+the+hope+that+an+accelerated+staccato+may+appear+to+our+senses+as+a+legato.%22&pg=PA176&printsec=frontcover)
 >- The harmony of the universe knows only one musical form—the legato; while the symphony of number knows only its opposite—the staccato. All attempts to reconcile this discrepancy are based on the hope that an accelerated staccato may appear to our senses as a legato.
 
-**Susan Sontag** [Notes on "Camp"](https://monoskop.org/images/5/59/Sontag_Susan_1964_Notes_on_Camp.pdf)
+**Susan Sontag** [Notes on "Camp"](https://monoskop.org/images/5/59/Sontag Susan 1964 Notes on Camp.pdf)
 >- Any sensibility which can be crammed into the mold of a system, or handled with the rough tools of proof, is no longer a sensibility at all. It has hardened into an idea...
 
 **John B. Jackson** [A Sense of Place, A Sense of Time](https://newprairiepress.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1111&context=oz)
@@ -457,8 +465,7 @@
 >- Concepts of size may depend in part on how well a structure can be grasped.
 
 
-**Witold Rybczynski** [Home: A Short History of an Idea
-](https://en.wikipedia.org/wiki/Home:_A_Short_History_of_an_Idea)
+**Witold Rybczynski** [Home: A Short History of an Idea](https://en.wikipedia.org/wiki/Home:_A_Short_History_of_an_Idea)
 >- Hominess is not neatness. otherwise everyone would live in replicas of the kinds of sterile and impersonal homes that appear in interior-design and architectural magazines. what these spotless rooms lack, or what crafty photographers have carefully removed, is any evidence of human occupation. in spite of the artfully placed vases and casually arranged art books, the imprint of their inhabitants is missing. can people really live without clutter?
 
 >- A well-designed chair must accommodate not only relaxed sitting, but also having a drink, reading, conversation, bouncing babies on the knee, dozing, and so on. It must permit the sitter to shift about and adopt a variety of positions. This changing of postures has a social function–so-called body language.
@@ -467,7 +474,7 @@
 >- If an object you now control is bound up in your future plans or in your anticipation of your future self, and it is partly these plans for your own continuity that make you a person, then your personhood depends on the realization of these expectations.
 
 **Bret Victor** [beast of burden](http://worrydream.com/)
->- Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things __don't__ change the world. __People__ change the world by using things. The focus must be on the "using", not the "thing". 
+>- Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things   don't   change the world.   People   change the world by using things. The focus must be on the "using", not the "thing". 
 
 **Brian Eno** [Interview with Rick Rubin](https://podcasts.apple.com/ca/podcast/extended-cut-brian-eno/id1311004083?i=1000528018524)
 >- Ones tastes tends to propel you into the same areas over and over again.
@@ -485,7 +492,7 @@
 **David Whyte** [Interview with Krista Tippett](https://onbeing.org/programs/david-whyte-seeking-language-large-enough/)
 >- ...one of the powerful dynamics of leadership is being visible. One of the vulnerabilities of being visible is that when you’re visible, you can be seen, and when you can be seen, you can be touched, and when you can be touched, you can be hurt.
 
-**Zadie Smith** [Interview with Jennifer Egan](https://www.youtube.com/watch?v=FtPrrSaavVA&t=3458s&ab_channel=The92ndStreetY%2CNewYork)
+**Zadie Smith** [Interview with Jennifer Egan](https://www.youtube.com/watch?v=FtPrrSaavVA&t=3458s&ab channel=The92ndStreetY%2CNewYork)
 >- When the life is seemingly-stayed, the mind is free. You are not asking for anything from strangers. Like, "Do you like me? Am I okay? Do you love me? Am I interesting? Am I smart?" It stops mattering. Whatever those emotional needs are supplied by actual humans that you know. And, so then the writing can…can really get liberated. Or at least, another way of putting it I think, it is has a responsibility to be free.
 
 **Yi-Fu Tuan** [Space and Place](https://www.upress.umn.edu/book-division/books/space-and-place)
@@ -509,7 +516,7 @@
 >- Things are not quite real until they acquire names and can be classified in some way. Curiosity about places is part of a general curiosity about things, part of the need to label experiences so that they have a greater degree of permanence and fit into some conceptual scheme.
 
 
-**William James** [*The Principles of Psychology Volume 2*](https://www.google.com/books/edition/The_Principles_of_Psychology/vOU6V6lhgXUC?hl=en&gbpv=1&dq=%22We+think+the+ocean+as+a+whole+by+multiplying+mentally+the+impression+we+get+adt+any+moment+when+at+sea.%22&pg=PA203&printsec=frontcover)
+**William James** [*The Principles of Psychology Volume 2*](https://www.gutenberg.org/ebooks/57634)
 >- We think the ocean as a whole by multiplying mentally the impression we get at any moment when at sea.
 
 >- We call the reverberations of a thunderstorm more voluminous than the squeaking of a slate-pencil; the entrance into a warm bath gives our skin a more massive feeling than the prick of a pin; a little neuralgic pain, fine as a cobweb, in the face, seems less extensive than the heavy soreness of a boil or the vast discomfort of a colic or a lumbago; and a solitary star looks smaller than the noonday sky.
@@ -550,19 +557,17 @@
 **William Coperthwaite** [*A handmade life : in search of simplicity*](https://www.worldcat.org/title/handmade-life-in-search-of-simplicity/oclc/51983375)
   >- Initially what is important is to be able to successfully make a useful object over which the maker can exclaim, with pleasure and amazement, 'I made this myself!'
 
-**Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
-  >- We get to the point where we cannot describe our impression of an object without treating it as a living thing with its own physiognomy. For even the most precise description, enumerating all visible characteristics, will not give an inkling what we feel is the essence of the thing itself. Just as we do not notice the individual letters in a word but receive a total impression of the idea the word conveys, we generally are not aware of what it is that we perceive but only of the conception created in our minds when we perceive it.
+**Steen Eiler Rasmussen** [*Experiencing Architecture*](https://mitpress.mit.edu/9780262680028/experiencing-architecture/)
+>- We get to the point where we cannot describe our impression of an object without treating it as a living thing with its own physiognomy. For even the most precise description, enumerating all visible characteristics, will not give an inkling what we feel is the essence of the thing itself. Just as we do not notice the individual letters in a word but receive a total impression of the idea the word conveys, we generally are not aware of what it is that we perceive but only of the conception created in our minds when we perceive it.
   
 >- Light alone can create the effect of enclosed space. A campfire on a dark night forms a cave of light circumscribed by a wall of darkness. Those who are within the circle of light have the secure feeling of being together in the same room. It follow, therefore, that if you wish to create an effect of openness you cannot employ concentrated light. 
 
 >- If we believe that the object of architecture is to provide a framework for people's lives, then the rooms in our homes, and the relation between the, must be determined by the way we live in them and move through them.
 
+>- In good architecture, consciously designed, the small room appears small, the large room large, and instead of disguising this it should be emphasized by the judicious use of color.
+
 **Rick Prelinger** [*On the Virtues of Preexisting Material*](http://contentsmagazine.com/articles/on-the-virtues-of-preexisting-material/)
   >- We’re often too quick to imagine that we’ve actually learned from the past. But new works often tend to recycle the same ideas over and over again into different media. To me this suggests that we might be more open to letting old works speak, that our task might not be so much to make new works but to build new platforms for old works to speak from.
-
-**Steen Eiler Rasmussen** [*Experiencing Architecture*](https://www.worldcat.org/title/experiencing-architecture/oclc/879136366&referer=brief_results)
-  >- In good architecture, consciously designed, the small room appears small, the large room large, and instead of disguising this it should be emphasized by the judicious use of color.
-
 
 **David Foster Wallace** [2005 Kenyon Commencement Address](https://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf)
 >- Worship power, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. But the insidious thing about these forms of worship is not that they're evil or sinful, it's that they're unconscious. They are default settings.
