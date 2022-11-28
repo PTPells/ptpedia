@@ -4,8 +4,9 @@
 ## Tasting
 
 #### Log
-| **Roaster** | **Type** | **Region** | **Varietal** | **Drink date** | **Notes** | **Brew method** | **Process** |
+| **Roaster** | **Type** | **Region** | **Varietal** | **Drink date** | **Description** | **Brew method** | **Process** |
 |---- | ---- | ---- | ---- | ---- |----| ----| ----|
+|[Maru Coffee](https://www.marucoffee.com/)|Single Origin|[Sierra Sur, Oaxaca](https://en.wikipedia.org/wiki/Sierra_Sur_de_Oaxaca)|Typica, Caturra, Mundo Novo|27 Nov 2022|Sweet and smooth, with a caramel-like buttery finish. Even and well-balnaced. Sums into a wonderful cup that that just tastes yummy. Great for everday. I wonder how it would drink brewed in a french press.|V60|Washed
 |[Square Mile Coffee Roasters](https://shop.squaremilecoffee.com/)|Single Origin|[Nyeri, Kenya](https://en.wikipedia.org/wiki/Nyeri)|SL28, SL34, Ruiru 11, Batian|10 Oct 2022|I sense a pronounced "peak" of sourness in the middle of the taste that levels out into a sweet finish. A tad bit of tannic grip at the end too.|V60|Washed|
 |[Home Roasted Batch #100](https://docs.google.com/spreadsheets/d/1aH58w2qIBGqEbM_Dfpmq_KhUNhTc48ZHuMJqiuyN_lY/edit#gid=0)|Single origin|Palestina, Huila, Colombia|Pink Bourbon|29 December 2021|A sweet, chocolatey cup. Medium body. The taste is stable throughout the sip. A solid everyday morning coffee.|V60|Fully washed
 |[Docecuarenta](https://docecuarenta.com/)|Single origin|[Xico, Veracruz, Mexico](https://en.wikipedia.org/wiki/Xico,_Veracruz)|Micro-Beneficio La Joya|10 October 2021|A pronounced tropical fruit-like sweetness with a toasty finish. |V60|Natural
