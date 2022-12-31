@@ -6,6 +6,7 @@
 #### Log
 | **Roaster** | **Type** | **Region** | **Varietal** | **Drink date** | **Description** | **Brew method** | **Process** |
 |---- | ---- | ---- | ---- | ---- |----| ----| ----|
+|⭐️ Home Roasted|Single origin|[Colombia Circasia](https://en.wikipedia.org/wiki/Circasia,_Quind%C3%ADo)|[Bourbon](https://royalcoffee.com/product/3427097000017084006)|30 Dec 2022| Just yum! This coffee offers what I seek in a morning cup of coffee: a complex set of flavors that motivate me to pay attention to in order to decipher its constituent parts all the while having a caramel-like sweetness delivered in a buttery-like smooth sip. |V60 (1:15 at 203°F)|Double Carbonic Chili-Mossto Fermented, Honey process. Dried on raised beds
 |Home Roasted|Single origin|[San Rafael de San Ramón, Alajuela, Costa Rica](https://royalcoffee.com/product/cj1297/)|Caturra and Catuaí cultivars|27 Dec 2022| A candied surgar (specifically, marshmellow-like) sweetness inside of an otherwise well-balnaced, medium body coffee. Yummy. Great for this gray, raining morning.|V60 (1:15 at 205°F)|Natural honey process
 |*[Maru Coffee](https://www.marucoffee.com/)|Single Origin|[Sierra Sur, Oaxaca](https://en.wikipedia.org/wiki/Sierra_Sur_de_Oaxaca)|Typica, Caturra, Mundo Novo|27 Nov 2022|Sweet and smooth, with a caramel-like buttery finish. Even and well-balnaced. Sums into a wonderful cup that that just tastes yummy. Great for everday. I wonder how it would drink brewed in a french press.|V60|Washed
 |[Square Mile Coffee Roasters](https://shop.squaremilecoffee.com/)|Single Origin|[Nyeri, Kenya](https://en.wikipedia.org/wiki/Nyeri)|SL28, SL34, Ruiru 11, Batian|10 Oct 2022|I sense a pronounced "peak" of sourness in the middle of the taste that levels out into a sweet finish. A tad bit of tannic grip at the end too.|V60|Washed|
@@ -41,7 +42,9 @@
 | Wrecking Ball | single origin | Peru | *Peru Saltillo Finca Tasta* |  Apr 2018
 | Blue Bottle | single origin | Guatemala | *Cobán Santa Isabel Caturra* |  January, 2018
 
-`*Favorite coffee at the moment`
+`⭐️ = Favorite coffee at the moment`
+`* = Past favorite`
+
 
 #### Framework
 Things I've foundh helpful to remember:
