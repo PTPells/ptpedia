@@ -2,8 +2,14 @@
 
 *In no particular order...*
 
+#### Donald Judd
+>- Space is made by the artist or architect; it is not found or packaged. It is made by thought.
+
 #### Olga Tokarczuk [Drive Your Plow Over the Bones of the Dead](https://en.wikipedia.org/wiki/Drive_Your_Plow_Over_the_Bones_of_the_Dead)
 >- Anger makes the mind clear and incisive. able to see more. It sweeps up the other emotions and takes control of the body. Without a doubt Anger is the source of all wisdom, for Anger has the power to exceed any limits.
+
+#### Abby Smith Rumsey
+>- We use technology to accumulate facts about the natural and social worlds. But facts are only incidental to memory. They sometimes even get in the way of thoughtful concentration and problem solving. It is the ability for information to be useful both now and in the future that counts. And it is our emotions that tell what is valuable for our survival and well-being.
 
 
 #### David Bohm [Thought As A System](https://www.worldcat.org/title/thought-as-a-system-this-is-a-transcription-of-a-seminar-held-in-ojai-california-from-31-november-to-2-december-1990/oclc/255341896)
@@ -73,6 +79,8 @@
 >- Those who attempt to popularize propositions which experts had found interesting often must resort to jargon in order to obscure the fundamental lack of inter-translatability between the universe of discourse of the intellectual specialty and the universe of discourse of the common-sense world.
 
 ##### **James P. Carse** [Finite and Infinite Games](https://en.wikipedia.org/wiki/Finite_and_Infinite_Games)
+>- Radios and films allow us to be where we are not and not be where we are. Moreover, machinery is veiling. It is a way of hiding our inaction from ourselves under what appear to be actions of great effectiveness. We persuade ourselves that, comfortable seated behind the wheels of our autos, shielded from every unpleasant change of weather, and raising or lowering our foot an inch or two, we have actually travelled somewhere.
+
 >- The most elemental difference between the machine and the garden is that one is driven by a force which must be introduced from without, the other grown by an energy which originates from within itself.
 
 >- ... our imagination does not create within its outlines but creates the outlines themselves
@@ -134,6 +142,8 @@
 >- Learning is moving in new ways.
 
 >- When thought overwhelms the mind, the mind uses the world...
+
+>- Gesture even conveys things we can’t say—because we don’t yet have the words.
 
 ##### **Jacques Sojcher** 
 >- ...everything that speaks, makes noise, passes by, touches us lighty, meets us head on.
